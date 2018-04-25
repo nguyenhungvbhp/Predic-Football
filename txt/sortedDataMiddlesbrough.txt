@@ -1,0 +1,228 @@
+Middlesbrough;Fulham;2;3;H;1;1;D;G Poll;8;9;5;18;16;7;6;1;1;0;0;2.3;85;52;False
+Middlesbrough;Arsenal;0;4;A;0;3;A;D Gallagher;14;4;10;11;7;3;5;1;0;0;0;4;85;75;True
+Middlesbrough;Leicester;0;0;D;0;0;D;G Barber;13;4;3;17;16;6;4;3;2;0;0;2.5;85;41;False
+Middlesbrough;Leeds;2;3;A;0;1;A;N Barry;8;16;4;17;21;6;3;2;3;0;0;2;85;56;True
+Middlesbrough;Bolton;0;2;H;1;0;H;P Dowd;7;8;6;17;14;10;1;3;3;0;0;2.3;85;51;False
+Middlesbrough;Everton;1;0;H;1;0;H;A Wiley;9;4;5;12;14;4;6;2;3;0;0;2.3;85;47;True
+Middlesbrough;Southampton;1;0;A;0;1;A;B Knight;12;6;9;12;19;4;4;4;3;1;0;1.8;85;60;False
+Middlesbrough;Chelsea;1;2;A;0;1;A;M Halsey;10;6;6;14;18;2;8;1;2;0;0;4.33;85;87;True
+Middlesbrough;Newcastle;0;1;A;0;1;A;A Wiley;4;7;3;17;12;8;2;3;3;0;0;2.5;85;39;True
+Middlesbrough;Tottenham;0;0;D;0;0;D;M Dean;16;8;10;14;10;8;5;3;2;0;0;1.83;85;64;False
+Middlesbrough;Wolves;2;0;H;0;0;D;S Dunn;9;11;2;8;12;7;3;1;2;0;1;1.72;85;78;True
+Middlesbrough;Aston Villa;2;0;A;0;1;A;D Gallagher;8;4;3;19;16;5;2;1;2;0;0;2;85;38;False
+Middlesbrough;Liverpool;0;0;D;0;0;D;P Dowd;8;3;1;16;15;3;4;2;2;0;0;2.8;85;62;True
+Middlesbrough;Man City;1;0;A;0;1;A;M Riley;2;14;0;15;12;12;0;0;0;0;0;1.9;85;79;False
+Middlesbrough;Portsmouth;0;0;D;0;0;D;S Bennett;6;3;2;17;20;6;5;2;3;0;1;1.72;85;72;True
+Middlesbrough;Charlton;0;0;D;0;0;D;H Webb;10;6;3;13;11;3;7;1;1;0;0;2.1;85;60;True
+Middlesbrough;Blackburn;2;2;D;1;1;D;A Wiley;5;10;3;11;10;14;1;2;1;0;0;2.25;85;67;False
+Middlesbrough;Man United;0;1;A;0;1;A;M Messias;10;2;6;11;15;4;2;3;2;0;1;5;85;70;True
+Middlesbrough;Fulham;2;1;H;1;0;H;P Durkin;9;5;4;14;17;9;1;1;2;0;0;2.2;85;52;True
+Middlesbrough;Arsenal;1;4;H;2;0;H;A D'Urso;5;13;4;12;21;7;3;1;1;0;0;1.28;85;75;False
+Middlesbrough;Leicester;3;3;D;1;0;H;B Knight;14;7;8;15;12;6;6;2;5;0;0;1.72;85;41;True
+Middlesbrough;Leeds;3;0;A;0;0;D;G Poll;15;4;6;14;6;7;6;1;1;1;0;2.5;85;56;False
+Middlesbrough;Blackburn;0;1;A;0;1;A;R Styles;6;7;2;6;12;8;3;0;1;0;0;1.909;85;67;True
+Middlesbrough;Man United;3;2;A;1;2;A;P Durkin;12;13;8;13;17;10;5;1;1;0;0;1.25;85;70;False
+Middlesbrough;Newcastle;1;2;H;0;1;A;G Poll;8;9;4;20;21;7;3;0;3;0;0;1.727;85;39;False
+Middlesbrough;Birmingham;1;3;H;1;0;H;R Styles;8;5;6;13;20;4;5;3;4;0;1;2.1;85;63;False
+Middlesbrough;Tottenham;1;0;H;0;0;D;A D'Urso;10;6;2;10;15;3;5;1;1;0;0;2.2;85;64;True
+Middlesbrough;Charlton;0;1;H;1;0;H;M Dean;15;7;9;13;9;4;7;0;0;0;0;2.2;85;60;False
+Middlesbrough;Birmingham;5;3;H;4;2;H;U Rennie;18;9;12;11;13;4;4;2;0;0;0;2.2;85;63;True
+Middlesbrough;Everton;1;1;D;0;0;D;S Bennett;10;7;5;16;13;8;4;0;2;0;0;2.2;85;47;False
+Middlesbrough;Bolton;2;0;H;1;0;H;N Barry;13;6;8;13;15;7;8;2;2;0;0;1.909;85;51;True
+Middlesbrough;Chelsea;0;0;D;0;0;D;M Halsey;9;9;5;10;8;6;2;1;1;0;0;1.364;85;87;False
+Middlesbrough;Southampton;3;1;H;2;0;H;D Gallagher;16;18;8;11;14;6;3;0;0;0;0;2.1;85;60;True
+Middlesbrough;Wolves;0;2;H;1;0;H;A D'Urso;16;8;10;10;10;6;8;1;2;0;0;2.75;85;78;False
+Middlesbrough;Aston Villa;1;2;A;1;1;D;G Barber;12;21;9;12;15;12;8;0;1;0;1;2.3;85;38;True
+Middlesbrough;Liverpool;0;2;H;0;0;D;A D'Urso;12;8;6;12;14;7;3;1;1;0;0;1.57;85;62;False
+Middlesbrough;Man City;2;1;H;2;1;H;M Riley;14;7;6;9;14;5;4;1;1;0;0;2.1;85;79;True
+Middlesbrough;Portsmouth;1;5;H;3;1;H;M Halsey;19;10;4;12;8;7;2;0;0;0;0;2.25;85;72;False
+Middlesbrough;Newcastle;2;2;D;0;1;A;S Bennett;11;8;4;16;13;6;7;3;1;0;0;2.3;85;39;True
+Middlesbrough;Arsenal;3;5;H;1;1;D;S Dunn;9;11;5;8;14;7;5;1;1;0;0;1.36;85;75;False
+Middlesbrough;Fulham;2;0;A;0;0;D;D Gallagher;10;2;5;10;8;1;6;0;1;0;0;2.5;85;52;False
+Middlesbrough;Crystal Palace;2;1;H;0;0;D;M Dean;6;15;2;16;16;4;2;1;2;0;0;1.44;85;48;True
+Middlesbrough;Birmingham;2;1;H;1;1;D;G Poll;5;6;3;16;19;6;3;2;3;0;0;1.909;85;63;True
+Middlesbrough;Everton;0;1;H;0;0;D;H Webb;16;9;11;13;12;6;3;1;4;0;0;2.5;85;47;False
+Middlesbrough;Chelsea;0;1;A;0;0;D;M Halsey;17;4;12;10;15;3;7;0;1;0;0;3.5;85;87;True
+Middlesbrough;Man United;1;1;D;0;1;A;R Styles;13;10;9;8;13;10;2;1;3;0;0;1.4;85;70;False
+Middlesbrough;Blackburn;4;0;A;0;0;D;M Riley;16;5;10;12;14;2;10;2;1;1;0;2.5;85;67;False
+Middlesbrough;Portsmouth;1;1;D;0;1;A;M Atkinson;3;11;1;5;5;9;0;0;2;0;0;1.66;85;72;True
+Middlesbrough;Charlton;2;1;A;0;1;A;M Halsey;11;7;7;14;8;3;4;3;0;0;0;2.6;85;60;False
+Middlesbrough;Bolton;1;1;D;0;0;D;P Walton;7;5;4;13;12;3;3;1;3;0;1;2;85;51;True
+Middlesbrough;West Brom;2;1;A;1;1;D;S Dunn;11;6;7;14;14;7;10;0;0;0;0;3.1;85;44;False
+Middlesbrough;Liverpool;2;0;H;1;0;H;S Bennett;17;6;10;14;10;3;5;3;2;0;0;2.5;85;62;True
+Middlesbrough;Tottenham;0;2;H;0;0;D;P Dowd;8;9;3;11;13;5;7;1;2;0;1;2.5;85;64;False
+Middlesbrough;Man City;3;2;H;1;1;D;G Poll;9;7;6;14;18;6;4;0;3;0;0;1.83;85;79;True
+Middlesbrough;Southampton;2;2;D;1;0;H;N Barry;15;5;7;11;12;4;6;1;1;0;0;2.87;85;60;False
+Middlesbrough;Aston Villa;3;0;H;1;0;H;A D'Urso;14;8;6;6;18;5;6;0;1;0;0;1.9;85;38;True
+Middlesbrough;Birmingham;0;2;H;2;0;H;S Bennett;9;10;6;17;9;5;3;1;0;0;0;2.62;85;63;False
+Middlesbrough;Norwich;2;0;H;0;0;D;H Webb;10;11;2;13;10;8;4;1;1;0;0;1.5;85;86;True
+Middlesbrough;Man United;0;2;A;0;1;A;A Wiley;13;2;7;13;9;10;4;1;0;0;0;3.5;85;70;True
+Middlesbrough;Chelsea;0;2;H;2;0;H;S Bennett;2;10;1;15;9;4;3;2;1;0;0;1.36;85;87;False
+Middlesbrough;Everton;1;1;D;1;0;H;D Gallagher;13;12;5;12;10;9;6;1;2;0;0;2.2;85;47;True
+Middlesbrough;Norwich;4;4;D;1;1;D;M Messias;22;9;15;11;16;5;8;0;3;0;0;3.1;85;86;False
+Middlesbrough;Portsmouth;1;2;H;1;1;D;P Crossley;9;5;2;9;8;9;5;1;2;0;0;2.6;85;72;False
+Middlesbrough;Blackburn;1;0;H;1;0;H;M Riley;6;7;3;14;10;8;10;1;2;1;0;1.8;85;67;True
+Middlesbrough;Bolton;0;0;D;0;0;D;A Wiley;5;8;2;11;15;3;2;0;1;0;0;2.1;85;51;False
+Middlesbrough;Charlton;2;2;D;0;1;A;M Riley;5;18;2;10;15;10;1;0;3;0;0;1.9;85;60;True
+Middlesbrough;Aston Villa;0;2;H;0;0;D;R Styles;5;4;1;8;6;5;4;1;2;0;0;2.3;85;38;False
+Middlesbrough;Southampton;1;3;A;1;1;D;U Rennie;12;8;7;20;17;3;6;0;0;0;0;1.8;85;60;True
+Middlesbrough;Crystal Palace;1;0;A;0;1;A;S Dunn;7;13;5;6;19;8;3;0;4;0;0;2.37;85;48;False
+Middlesbrough;Arsenal;0;1;A;0;0;D;P Dowd;7;6;1;11;9;5;3;1;1;0;0;5;85;75;True
+Middlesbrough;Fulham;1;1;D;0;0;D;R Styles;7;4;2;11;12;2;6;1;0;0;0;1.83;85;52;True
+Middlesbrough;West Brom;4;0;H;3;0;H; H Webb;15;8;9;12;12;1;4;1;1;0;0;1.9;85;44;True
+Middlesbrough;Newcastle;0;0;D;0;0;D;M Halsey;5;5;3;8;9;7;1;1;2;0;0;2.25;85;39;False
+Middlesbrough;Liverpool;1;1;D;0;1;A;P Dowd;6;6;3;10;20;7;4;2;3;0;0;1.72;85;62;False
+Middlesbrough;Tottenham;1;0;H;1;0;H;D Gallagher;5;8;2;14;10;4;3;1;3;0;0;2.25;85;64;True
+Middlesbrough;Man City;1;1;D;0;1;A;R Styles;4;5;3;12;15;10;3;2;4;0;0;2.1;85;79;False
+Middlesbrough;Liverpool;0;0;D;0;0;D;M Halsey;16;2;7;17;11;5;0;2;3;1;0;2.87;85;62;True
+Middlesbrough;Tottenham;0;2;H;0;0;D;M Atkinson;12;8;3;16;10;5;6;3;1;0;0;1.9;85;64;False
+Middlesbrough;Birmingham;3;0;A;0;2;A;P Dowd;8;8;3;14;15;2;2;0;1;0;0;2.5;85;63;False
+Middlesbrough;Charlton;0;3;A;0;1;A;M Dean;12;6;8;18;15;6;1;2;1;0;0;1.83;85;60;True
+Middlesbrough;Arsenal;2;1;H;1;0;H;M Riley;13;5;8;17;16;6;7;3;4;0;0;5;85;75;True
+Middlesbrough;Wigan;1;1;D;0;1;A;U Rennie;10;4;3;11;16;4;5;0;1;0;0;2.7;85;39;False
+Middlesbrough;Sunderland;0;2;A;0;1;A;H Webb;4;11;2;13;21;8;2;3;2;0;0;1.57;85;38;True
+Middlesbrough;Aston Villa;3;2;A;0;1;A;M Dean;13;6;10;17;10;6;5;4;1;0;0;2.1;85;38;False
+Middlesbrough;Portsmouth;1;1;D;0;0;D;C Foy;9;7;4;12;12;6;3;2;3;0;0;1.72;85;72;True
+Middlesbrough;West Ham;1;2;H;0;0;D;S Bennett;19;8;9;11;9;4;7;1;2;0;0;2.37;85;47;False
+Middlesbrough;Man United;4;1;H;3;0;H;A Wiley;13;4;8;14;22;2;6;1;4;0;0;4.5;85;70;True
+Middlesbrough;Everton;0;1;H;1;0;H;M Riley;17;8;9;21;16;9;3;2;1;0;0;2.5;85;47;False
+Middlesbrough;Fulham;3;2;H;0;1;A;U Rennie;9;11;6;9;16;9;4;0;1;0;0;1.9;85;52;True
+Middlesbrough;West Brom;2;2;D;1;1;D;P Walton;9;8;6;15;13;6;5;1;1;0;0;1.72;85;44;True
+Middlesbrough;Chelsea;0;1;H;0;0;D;M Riley;10;9;5;15;14;6;4;0;0;0;0;1.25;85;87;False
+Middlesbrough;Liverpool;0;2;H;0;0;D;S Bennett;6;13;3;10;18;11;2;1;2;0;1;1.57;85;62;False
+Middlesbrough;Tottenham;3;3;D;2;1;H;H Webb;8;8;5;17;13;14;4;2;3;0;0;2.5;85;64;True
+Middlesbrough;Blackburn;0;2;A;0;1;A;U Rennie;7;5;4;14;16;2;3;4;2;0;0;2;85;67;True
+Middlesbrough;Man City;0;0;D;0;0;D;M Atkinson;8;4;3;6;12;4;7;0;1;0;0;2.25;85;79;True
+Middlesbrough;Newcastle;2;2;D;1;0;H;S Bennett;8;5;3;14;13;5;2;0;2;0;0;2.1;85;39;False
+Middlesbrough;Arsenal;0;7;H;4;0;H;R Styles;5;17;2;12;14;4;6;1;2;0;1;1.33;85;75;False
+Middlesbrough;Wigan;2;3;A;0;2;A;A Marriner;16;4;10;9;11;8;8;0;2;0;0;2.2;85;39;True
+Middlesbrough;Sunderland;3;0;A;0;2;A;A Wiley;7;7;4;18;9;2;5;1;1;0;0;2.75;85;38;False
+Middlesbrough;Aston Villa;0;4;A;0;2;A;L Mason;10;4;5;14;12;6;5;3;1;0;0;2.25;85;38;True
+Middlesbrough;Chelsea;3;0;H;2;0;H;S Bennett;17;6;10;17;7;5;9;0;3;0;0;7.5;85;87;True
+Middlesbrough;West Brom;2;0;A;0;2;A;M Dean;5;9;4;7;14;6;3;0;2;1;0;2.4;85;44;False
+Middlesbrough;Birmingham;1;0;H;1;0;H;G Poll;14;6;5;12;12;3;4;0;0;0;0;1.9;85;63;True
+Middlesbrough;Charlton;1;2;H;0;0;D;A Wiley;9;3;7;16;20;0;4;2;1;0;0;2.2;85;60;False
+Middlesbrough;Blackburn;2;3;H;2;1;H;C Foy;7;3;5;11;11;6;4;3;3;1;0;1.83;85;67;False
+Middlesbrough;Bolton;4;3;H;2;1;H;H Webb;11;10;6;11;12;1;6;2;2;0;0;2.6;85;51;True
+Middlesbrough;Man City;1;0;A;0;1;A;M Riley;16;2;9;15;17;2;9;0;1;0;0;2;85;79;False
+Middlesbrough;Newcastle;1;2;A;0;2;A;A Wiley;14;8;5;14;21;6;5;2;4;0;0;2.4;85;39;True
+Middlesbrough;Portsmouth;0;1;H;0;0;D;A Marriner;12;11;8;12;10;7;5;0;0;0;0;1.72;85;72;False
+Middlesbrough;West Ham;2;0;H;1;0;H;M Atkinson;14;8;6;6;12;4;7;0;1;0;0;2.5;85;47;True
+Middlesbrough;Everton;0;1;A;0;0;D;L Mason;8;3;4;13;17;4;6;2;2;0;0;2.5;85;47;True
+Middlesbrough;Man United;0;0;D;0;0;D;C Foy;10;6;6;11;10;10;2;2;2;0;0;1.25;85;70;False
+Middlesbrough;Bolton;1;1;D;0;0;D;H Webb;5;9;3;9;10;6;1;1;1;0;0;1.57;85;51;False
+Middlesbrough;Fulham;0;1;H;0;0;D;M Halsey;6;3;3;8;12;8;4;0;1;0;0;1.66;85;52;False
+Middlesbrough;Reading;2;3;H;2;2;D;M Halsey;7;9;5;8;15;8;2;1;3;0;0;2.5;85;50;False
+Middlesbrough;Chelsea;2;1;H;0;1;A;H Webb;8;2;5;15;7;3;3;2;2;0;0;8.5;85;87;True
+Middlesbrough;Portsmouth;0;4;A;0;1;A;C Foy;10;8;7;15;9;8;6;2;1;0;0;2;85;72;True
+Middlesbrough;Arsenal;1;1;D;0;1;A;R Styles;1;12;1;5;17;15;0;1;6;0;1;1.33;85;75;False
+Middlesbrough;Bolton;0;0;D;0;0;D;S Bennett;14;3;7;7;19;9;4;0;1;0;0;2;85;51;False
+Middlesbrough;Blackburn;0;1;A;0;1;A;G Poll;13;7;7;14;17;6;7;1;3;0;0;2.1;85;67;True
+Middlesbrough;Sheffield United;1;2;H;1;0;H;P Walton;7;7;2;8;12;10;4;1;3;0;0;2.6;85;60;False
+Middlesbrough;Everton;2;1;H;1;0;H;M Halsey;12;6;8;12;9;10;13;1;0;0;0;2.6;85;47;True
+Middlesbrough;Newcastle;1;0;H;0;0;D;M Atkinson;13;8;4;17;13;8;4;2;0;0;0;2.4;85;39;True
+Middlesbrough;Man City;0;1;H;1;0;H;H Webb;4;5;0;16;22;9;1;2;4;0;0;2.37;85;79;False
+Middlesbrough;Watford;0;2;H;1;0;H;D Gallagher;5;6;2;15;15;10;4;1;1;0;0;2.6;85;69;False
+Middlesbrough;West Ham;1;0;H;0;0;D;M Halsey;11;8;7;7;10;7;1;1;3;0;0;2.2;85;47;True
+Middlesbrough;Liverpool;0;0;D;0;0;D;L Mason;17;1;10;14;3;2;12;0;0;0;0;3.75;85;62;True
+Middlesbrough;Aston Villa;1;1;D;1;1;D;P Walton;9;4;4;18;11;9;4;1;3;0;0;1.8;85;38;False
+Middlesbrough;Man United;1;2;A;0;1;A;C Foy;11;5;7;12;16;6;9;2;3;0;0;6;85;70;True
+Middlesbrough;Tottenham;1;2;H;0;0;D;M Halsey;6;11;3;10;16;7;5;0;3;1;1;1.72;85;64;False
+Middlesbrough;Wigan;1;1;D;0;1;A;S Bennett;8;7;3;10;7;7;4;2;1;0;0;2.05;85;39;True
+Middlesbrough;Fulham;1;2;H;2;0;H;M Dean;16;6;10;19;16;5;6;0;0;0;0;2.25;85;52;False
+Middlesbrough;Charlton;2;0;H;1;0;H;R Styles;8;9;6;1;9;11;4;0;1;0;0;1.72;85;60;True
+Middlesbrough;Everton;0;0;D;0;0;D;P Dowd;7;4;2;12;17;12;2;2;1;0;0;1.83;85;47;False
+Middlesbrough;Blackburn;1;2;H;1;0;H;M Atkinson;8;7;5;16;21;6;3;1;3;0;0;2;85;67;False
+Middlesbrough;Sheffield United;3;1;H;1;1;D;C Foy;6;7;3;10;11;7;3;2;1;0;0;1.8;85;60;True
+Middlesbrough;Charlton;3;1;A;1;1;D;M Dean;12;9;9;12;15;5;3;3;1;0;0;2.5;85;60;False
+Middlesbrough;Bolton;5;1;H;4;1;H;A Wiley;11;5;5;12;13;1;8;1;3;0;1;2.5;85;51;True
+Middlesbrough;Portsmouth;0;0;D;0;0;D;D Gallagher;3;4;3;10;10;10;5;0;1;0;0;1.9;85;72;False
+Middlesbrough;Arsenal;1;1;D;0;0;D;M Riley;11;1;4;14;5;3;6;2;1;0;1;4.33;85;75;True
+Middlesbrough;Chelsea;0;3;H;1;0;H;C Foy;3;5;0;6;11;5;1;0;1;0;0;1.28;85;87;False
+Middlesbrough;Reading;2;1;H;1;0;H;M Halsey;10;6;4;9;12;9;5;1;1;0;0;2.25;85;50;True
+Middlesbrough;Newcastle;0;0;D;0;0;D;S Bennett;7;8;4;12;14;8;2;0;3;0;0;2;85;39;False
+Middlesbrough;Man City;0;2;A;0;0;D;K Stroud;14;5;8;13;21;10;3;1;2;0;0;1.95;85;79;True
+Middlesbrough;West Ham;0;2;H;2;0;H;M Halsey;10;6;3;11;17;3;4;0;1;0;0;2.2;85;47;False
+Middlesbrough;Watford;4;1;H;2;1;H;C Foy;6;14;3;7;14;9;3;0;0;0;0;1.61;85;69;True
+Middlesbrough;Aston Villa;1;3;A;1;1;D;D Gallagher;9;5;7;20;8;2;4;2;1;0;0;2.1;85;38;True
+Middlesbrough;Liverpool;0;2;H;0;0;D;G Poll;5;7;2;8;13;8;2;0;1;0;0;1.36;85;62;False
+Middlesbrough;Man United;1;1;D;1;1;D;P Walton;10;9;5;10;17;6;7;2;5;0;0;1.2;85;70;False
+Middlesbrough;Tottenham;2;3;A;0;1;A;L Mason;11;8;5;11;9;7;3;1;1;0;0;2.7;85;64;True
+Middlesbrough;Wigan;1;0;A;0;1;A;M Clattenburg;7;7;3;17;8;5;3;3;0;0;0;2.1;85;39;False
+Middlesbrough;Fulham;3;1;H;2;1;H;M Riley;8;10;5;11;12;10;3;1;0;0;0;1.9;85;52;True
+Middlesbrough;Blackburn;1;2;A;1;0;H;A Marriner;4;6;4;16;16;13;3;3;4;0;0;2.37;85;67;True
+Middlesbrough;Wigan;0;1;H;0;0;D;S Tanner;5;5;1;8;20;5;3;1;3;0;0;2.3;85;39;False
+Middlesbrough;Fulham;2;1;A;1;0;H;L Mason;9;6;6;9;12;8;7;1;3;0;0;2.1;85;52;False
+Middlesbrough;Newcastle;2;2;D;1;1;D;M Dean;5;7;3;13;10;5;2;6;3;0;0;2.6;85;39;True
+Middlesbrough;Birmingham;2;0;H;2;0;H;R Styles;9;7;4;8;12;11;5;1;3;0;0;2;85;63;True
+Middlesbrough;West Ham;0;3;H;0;0;D;S Bennett;16;7;12;14;14;5;8;2;1;0;0;2;85;47;False
+Middlesbrough;Sunderland;2;2;D;1;1;D;H Webb;11;5;6;18;11;7;2;3;4;0;0;2.1;85;38;True
+Middlesbrough;Everton;0;2;H;1;0;H;M Riley;13;9;5;17;21;2;6;0;4;0;0;1.8;85;47;False
+Middlesbrough;Man City;1;3;H;2;0;H;S Bennett;17;13;11;11;13;8;8;2;3;0;0;1.66;85;79;False
+Middlesbrough;Chelsea;0;2;A;0;1;A;M Halsey;9;4;6;9;9;6;6;1;1;0;0;6;85;87;True
+Middlesbrough;Man United;1;4;H;2;1;H;A Wiley;7;14;4;10;15;2;4;0;2;0;0;1.18;85;70;False
+Middlesbrough;Tottenham;1;1;D;0;1;A;M Dean;9;3;4;13;8;6;7;1;0;0;0;3;85;64;True
+Middlesbrough;Bolton;0;0;D;0;0;D;L Probert;8;7;7;16;22;6;7;1;2;0;0;2.1;85;51;False
+Middlesbrough;Aston Villa;0;3;A;0;1;A;K Stroud;11;8;8;16;17;11;6;2;1;0;0;2.75;85;38;True
+Middlesbrough;Reading;1;1;D;0;0;D;A Wiley;16;7;11;11;16;5;4;2;1;0;0;2;85;50;False
+Middlesbrough;Arsenal;2;1;H;1;0;H;H Webb;7;7;4;15;13;5;4;2;2;0;0;7;85;75;True
+Middlesbrough;Derby;1;0;A;0;1;A;R Styles;7;9;5;6;7;5;3;0;0;0;0;3.1;85;77;False
+Middlesbrough;West Ham;1;2;A;1;1;D;M Atkinson;8;2;4;15;12;7;4;2;3;0;0;2.3;85;47;True
+Middlesbrough;Birmingham;0;3;H;2;0;H;M Halsey;18;5;12;13;6;12;9;1;2;0;0;2.25;85;63;False
+Middlesbrough;Portsmouth;1;0;A;0;1;A;A Wiley;13;9;7;10;17;4;4;1;4;0;0;1.66;85;72;False
+Middlesbrough;Everton;0;2;A;0;0;D;M Riley;5;4;3;18;11;5;6;0;1;0;0;3;85;47;True
+Middlesbrough;Liverpool;1;1;D;1;0;H;A Marriner;14;3;7;4;11;3;9;1;1;0;0;5;85;62;True
+Middlesbrough;Blackburn;1;1;D;0;1;A;K Stroud;10;5;5;7;26;6;3;1;3;0;0;1.72;85;67;False
+Middlesbrough;Wigan;1;0;H;1;0;H;R Styles;10;3;6;12;13;4;9;0;1;0;0;1.9;85;39;True
+Middlesbrough;Newcastle;1;1;D;0;0;D;M Dean;19;8;11;13;11;11;6;1;4;0;0;2;85;39;False
+Middlesbrough;Fulham;1;0;H;1;0;H;P Dowd;10;6;5;12;10;7;3;1;2;0;0;1.9;85;52;True
+Middlesbrough;Liverpool;2;3;H;2;1;H;L Mason;6;8;3;8;11;6;2;2;5;0;1;1.4;85;62;False
+Middlesbrough;Reading;0;1;A;0;0;D;H Webb;6;5;3;10;17;7;2;4;5;0;0;1.83;85;50;True
+Middlesbrough;Aston Villa;1;1;D;0;1;A;S Bennett;10;3;2;15;21;4;4;0;4;0;0;1.61;85;38;False
+Middlesbrough;Arsenal;1;1;D;0;1;A;M Halsey;4;9;1;7;10;11;1;0;2;0;1;1.25;85;75;False
+Middlesbrough;Derby;1;0;H;1;0;H;M Atkinson;5;3;1;9;10;9;2;2;1;0;0;1.44;85;77;True
+Middlesbrough;Chelsea;0;1;H;1;0;H;P Dowd;7;6;3;11;9;8;3;1;1;0;0;1.3;85;87;False
+Middlesbrough;Man United;2;2;D;1;1;D;M Riley;15;7;7;20;11;4;10;3;1;0;0;8.5;85;70;True
+Middlesbrough;Tottenham;1;1;D;1;0;H;M Halsey;13;9;7;6;19;2;7;0;3;0;0;1.66;85;64;False
+Middlesbrough;Bolton;0;1;A;0;0;D;A Wiley;12;10;9;10;14;7;4;0;2;0;0;2.1;85;51;True
+Middlesbrough;Sunderland;2;3;H;2;1;H;S Bennett;10;5;6;13;9;7;1;3;2;0;0;2.3;85;38;False
+Middlesbrough;Portsmouth;2;0;H;1;0;H;P Walton;13;7;8;16;11;7;5;1;1;0;0;2;85;72;True
+Middlesbrough;Man City;8;1;H;2;0;H;P Dowd;8;15;2;10;9;7;0;2;1;0;1;2.1;85;79;True
+Middlesbrough;Tottenham;2;1;H;0;0;D;M Atkinson;8;10;5;11;12;7;9;1;2;0;0;3.2;85;64;True
+Middlesbrough;Liverpool;1;2;H;0;0;D;M Riley;9;8;4;10;12;14;3;2;1;0;0;1.36;85;62;False
+Middlesbrough;Stoke;2;1;H;1;0;H;M Dean;7;12;2;14;18;4;5;2;4;0;1;1.57;85;54;True
+Middlesbrough;Portsmouth;1;2;H;0;1;A;S Attwell;7;12;3;8;6;3;2;2;1;0;0;2;85;72;False
+Middlesbrough;Sunderland;0;2;H;0;0;D;H Webb;14;11;11;9;16;8;7;2;3;0;0;2.38;85;38;False
+Middlesbrough;West Brom;0;1;A;0;0;D;C Foy;14;13;9;14;13;11;8;2;4;0;0;1.8;85;44;True
+Middlesbrough;Wigan;1;0;A;0;0;D;M Atkinson;6;9;2;10;13;8;2;3;0;0;0;2.1;85;39;False
+Middlesbrough;Chelsea;0;5;A;0;1;A;P Dowd;21;4;14;13;9;5;7;2;0;0;0;6;85;87;True
+Middlesbrough;Blackburn;1;1;D;0;0;D;M Dean;5;5;2;17;11;9;2;3;1;0;0;2.1;85;67;False
+Middlesbrough;Man City;2;0;H;0;0;D;L Mason;13;3;8;10;15;3;3;1;3;0;0;2.88;85;79;True
+Middlesbrough;West Ham;1;1;D;0;1;A;A Marriner;13;7;8;10;14;5;4;3;4;0;0;2;85;47;True
+Middlesbrough;Aston Villa;2;1;A;1;1;D;R Styles;15;9;8;13;5;7;4;2;2;0;0;1.7;85;38;False
+Middlesbrough;Everton;1;1;D;0;1;A;H Webb;11;7;3;11;13;11;1;0;2;0;0;1.83;85;47;False
+Middlesbrough;Bolton;1;3;A;0;2;A;M Atkinson;11;5;5;10;15;8;0;2;5;0;0;1.91;85;51;True
+Middlesbrough;Newcastle;0;0;D;0;0;D;A Wiley;10;7;5;9;7;7;2;1;1;0;0;2.2;85;39;True
+Middlesbrough;Hull;1;2;H;0;0;D;S Tanner;9;7;7;10;8;8;6;1;1;0;1;2.38;85;35;False
+Middlesbrough;Arsenal;1;1;D;1;1;D;P Walton;17;3;11;8;11;5;10;0;1;0;0;4.5;85;75;True
+Middlesbrough;Fulham;0;3;H;1;0;H;K Stroud;12;13;5;12;7;6;4;0;2;0;0;2.2;85;52;False
+Middlesbrough;Everton;0;1;A;0;0;D;M Riley;11;5;6;28;14;5;8;5;1;0;0;2.5;85;47;True
+Middlesbrough;Man United;0;1;H;0;0;D;M Atkinson;7;13;2;10;17;8;4;2;0;0;0;1.2;85;70;False
+Middlesbrough;Sunderland;1;1;D;1;0;H;P Dowd;10;3;5;11;13;2;7;0;4;0;0;2.25;85;38;True
+Middlesbrough;West Brom;0;3;H;1;0;H;M Halsey;9;8;3;13;4;5;3;0;2;0;1;2.38;85;44;False
+Middlesbrough;Chelsea;0;2;H;0;0;D;L Probert;7;12;5;6;20;8;3;0;2;0;0;1.25;85;87;False
+Middlesbrough;Blackburn;0;0;D;0;0;D;C Foy;15;4;10;9;16;3;9;0;4;0;0;2.5;85;67;True
+Middlesbrough;Man City;0;1;H;0;0;D;A Marriner;7;12;4;6;10;13;3;0;1;0;0;1.61;85;79;False
+Middlesbrough;Wigan;0;0;D;0;0;D;M Dean;12;3;6;6;15;5;1;2;4;0;0;2.4;85;39;True
+Middlesbrough;Liverpool;2;0;H;1;0;H;R Styles;16;3;7;2;6;2;9;2;0;0;0;5.5;85;62;True
+Middlesbrough;Tottenham;0;4;H;3;0;H;H Webb;15;7;6;7;6;4;8;0;1;0;0;1.83;85;64;False
+Middlesbrough;Portsmouth;1;1;D;0;1;A;M Atkinson;8;11;4;9;11;12;4;1;3;1;0;2.2;85;72;True
+Middlesbrough;Stoke;0;1;H;0;0;D;L Mason;17;4;8;18;13;5;4;4;1;0;0;2.25;85;54;False
+Middlesbrough;Bolton;1;4;H;2;1;H;A Wiley;19;9;4;20;14;7;5;2;1;0;0;2.1;85;51;False
+Middlesbrough;Hull;3;1;H;2;1;H;P Dowd;12;9;6;15;16;3;3;3;3;0;0;2.1;85;35;True
+Middlesbrough;Fulham;0;0;D;0;0;D;P Walton;11;14;6;10;14;9;1;3;1;0;0;2.25;85;52;True
+Middlesbrough;Arsenal;0;2;H;1;0;H;C Foy;5;11;4;8;13;8;1;0;0;0;0;1.5;85;75;False
+Middlesbrough;Man United;0;2;A;0;1;A;M Halsey;13;5;4;7;7;3;3;1;1;0;0;6.5;85;70;True
+Middlesbrough;Newcastle;1;3;H;1;1;D;M Dean;11;9;5;7;15;11;1;3;1;0;0;2;85;39;False
+Middlesbrough;Aston Villa;1;1;D;1;0;H;M Riley;8;6;6;11;16;6;8;0;2;0;0;2.5;85;38;True
+Middlesbrough;West Ham;1;2;H;1;0;H;H Webb;17;8;6;14;10;4;5;0;1;0;0;2.25;85;47;False

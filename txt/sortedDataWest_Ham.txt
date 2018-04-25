@@ -1,0 +1,350 @@
+West Ham;Blackburn;3;1;H;0;1;A;A Wiley;11;5;5;11;14;2;6;0;1;0;1;2.5;47;67;True
+West Ham;Newcastle;0;0;D;0;0;D;D Gallagher;6;6;1;9;11;10;2;1;1;0;1;1.61;47;39;False
+West Ham;Bolton;1;2;A;0;0;D;P Dowd;10;6;6;13;16;7;7;1;4;0;0;2.5;47;51;True
+West Ham;Aston Villa;4;0;H;2;0;H;R Styles;14;9;8;15;12;4;11;0;1;0;0;2.5;47;38;True
+West Ham;Fulham;2;1;A;0;0;D;G Poll;10;6;3;11;14;4;6;2;1;0;0;2.2;47;52;False
+West Ham;Arsenal;0;0;D;0;0;D;M Dean;8;0;2;11;7;4;3;2;0;0;0;5;47;75;True
+West Ham;Sunderland;1;1;D;1;0;H;M Atkinson;6;8;3;12;15;5;3;1;5;0;0;2.5;47;38;False
+West Ham;Man City;1;2;H;1;0;H;M Clattenburg;6;17;3;11;13;9;3;2;0;0;0;1.9;47;79;False
+West Ham;Middlesbrough;2;1;H;0;0;D;S Bennett;19;8;9;11;9;4;7;1;2;0;0;2.37;47;85;True
+West Ham;Liverpool;0;2;H;1;0;H;U Rennie;4;9;2;15;13;10;5;2;0;0;0;1.57;47;62;False
+West Ham;West Brom;1;0;H;0;0;D;P Walton;10;6;6;15;12;8;5;2;0;0;0;1.83;47;44;True
+West Ham;Tottenham;1;1;D;1;0;H;A Wiley;8;8;4;16;13;9;7;3;1;0;0;1.66;47;64;False
+West Ham;Man United;1;2;A;1;0;H;S Bennett;16;3;10;15;7;4;5;2;3;0;0;5;47;70;True
+West Ham;Birmingham;2;1;A;1;2;A;M Atkinson;10;6;4;12;5;11;8;1;1;0;0;2.3;47;63;False
+West Ham;Blackburn;2;3;H;0;1;A;M Riley;6;5;3;13;14;4;1;3;6;0;0;2;47;67;False
+West Ham;Everton;2;1;A;1;1;D;P Walton;7;3;2;10;11;4;9;2;1;0;0;2.1;47;47;False
+West Ham;Newcastle;2;4;A;1;2;A;P Dowd;10;7;7;9;16;3;2;3;3;0;0;2.5;47;39;True
+West Ham;Portsmouth;1;1;D;1;0;H;A Wiley;14;9;4;14;10;6;5;3;1;1;0;2.37;47;72;False
+West Ham;Wigan;0;2;A;0;2;A;S Bennett;8;1;4;14;15;5;3;1;1;0;0;2.1;47;39;True
+West Ham;Charlton;0;2;H;1;0;H;G Poll;8;7;3;15;8;6;13;1;0;0;0;2.2;47;60;False
+West Ham;Chelsea;1;3;A;0;1;A;H Webb;17;3;10;10;11;2;5;1;3;0;0;9;47;87;True
+West Ham;Aston Villa;2;1;A;1;0;H;P Dowd;10;8;7;15;21;4;10;1;3;0;0;2;47;38;False
+West Ham;Fulham;2;1;H;2;0;H;U Rennie;12;5;6;16;12;4;7;2;2;0;0;2.1;47;52;True
+West Ham;Arsenal;3;2;A;1;2;A;M Halsey;4;10;4;6;15;12;2;1;1;0;0;1.4;47;75;False
+West Ham;Sunderland;2;0;H;0;0;D;R Styles;7;7;3;13;11;6;5;1;3;0;1;1.5;47;38;True
+West Ham;Birmingham;3;0;H;1;0;H;D Gallagher;17;8;7;10;7;4;6;0;2;0;0;1.9;47;63;True
+West Ham;Everton;2;2;D;2;1;H;M Riley;13;3;5;12;10;1;9;3;3;0;0;2.1;47;47;True
+West Ham;Bolton;1;4;H;3;0;H;M Dean;9;10;5;12;18;7;6;1;5;0;0;2;47;51;False
+West Ham;Portsmouth;2;4;A;0;3;A;A Wiley;12;6;8;13;12;5;4;1;1;0;0;2;47;72;True
+West Ham;Wigan;2;1;A;1;0;H;D Gallagher;5;8;3;10;20;4;1;3;0;0;0;2;47;39;False
+West Ham;Man United;0;1;H;1;0;H;G Poll;9;13;3;10;12;3;6;0;0;0;0;1.28;47;70;False
+West Ham;Charlton;0;0;D;0;0;D;R Styles;8;7;2;9;6;12;8;0;1;0;0;2.1;47;60;True
+West Ham;Chelsea;1;4;H;2;1;H;C Foy;6;5;4;7;14;5;5;0;2;1;0;1.25;47;87;False
+West Ham;Man City;1;0;H;1;0;H;S Bennett;6;6;2;18;11;9;3;0;2;0;0;2.1;47;79;True
+West Ham;Middlesbrough;0;2;H;1;0;H;M Atkinson;14;8;6;6;12;4;7;0;1;0;0;2.5;47;85;False
+West Ham;Liverpool;1;2;A;0;1;A;H Webb;13;7;7;11;7;6;3;0;0;1;1;4.75;47;62;True
+West Ham;West Brom;1;0;A;0;1;A;G Poll;10;4;5;8;15;9;6;0;0;0;0;2.3;47;44;False
+West Ham;Tottenham;2;1;H;1;1;D;C Foy;14;7;6;17;7;11;4;1;0;0;0;4.5;47;64;True
+West Ham;Charlton;3;1;H;0;1;A;H Webb;4;5;2;14;14;6;0;2;2;0;1;2;47;60;True
+West Ham;Watford;1;1;D;0;0;D;M Atkinson;8;4;4;12;12;5;1;0;0;0;0;2.87;47;69;False
+West Ham;Liverpool;1;2;H;2;1;H;A Wiley;8;8;3;15;6;6;1;1;0;0;0;1.44;47;62;False
+West Ham;Aston Villa;1;1;D;0;1;A;S Bennett;10;1;6;15;9;3;5;2;2;0;0;2.1;47;38;True
+West Ham;Newcastle;0;2;A;0;0;D;R Styles;16;7;9;11;11;5;6;3;3;0;0;2.1;47;39;True
+West Ham;Man City;0;2;H;0;0;D;C Foy;4;8;0;12;15;4;6;0;0;0;0;2.25;47;79;False
+West Ham;Reading;0;1;A;0;1;A;U Rennie;2;8;1;8;7;10;5;4;2;0;0;1.9;47;50;True
+West Ham;Portsmouth;0;2;H;1;0;H;G Poll;6;6;3;20;11;4;4;4;4;0;0;2;47;72;False
+West Ham;Tottenham;0;1;H;1;0;H;S Bennett;5;5;2;14;15;9;9;3;4;0;0;1.8;47;64;False
+West Ham;Blackburn;2;1;H;1;0;H;A Wiley;13;5;7;16;10;5;8;1;1;0;0;2.5;47;67;True
+West Ham;Arsenal;1;0;H;0;0;D;R Styles;11;5;5;11;8;8;3;3;2;0;0;5.5;47;75;True
+West Ham;Middlesbrough;0;1;H;0;0;D;M Halsey;11;8;7;7;10;7;1;1;3;0;0;2.2;47;85;False
+West Ham;Chelsea;0;1;H;1;0;H;M Dean;7;9;1;10;8;5;6;1;4;0;0;1.18;47;87;False
+West Ham;Sheffield United;1;0;H;1;0;H;M Riley;13;7;5;16;22;5;9;2;4;0;0;1.8;47;60;True
+West Ham;Everton;0;2;H;0;0;D;M Atkinson;16;5;11;16;9;3;14;2;2;0;0;1.9;47;47;False
+West Ham;Wigan;0;2;A;0;0;D;A Wiley;9;6;4;12;16;7;9;0;3;0;0;2;47;39;True
+West Ham;Bolton;0;4;H;1;0;H;H Webb;3;10;1;11;11;4;3;2;2;0;0;1.75;47;51;False
+West Ham;Man United;1;0;H;0;0;D;P Dowd;19;4;11;25;10;1;11;3;2;0;0;6.5;47;70;True
+West Ham;Fulham;0;0;D;0;0;D;C Foy;13;7;4;17;17;2;7;1;2;0;1;2.37;47;52;False
+West Ham;Portsmouth;1;2;A;0;2;A;M Atkinson;12;7;6;12;13;6;4;2;1;0;0;2.25;47;72;True
+West Ham;Man City;0;1;A;0;0;D;S Bennett;7;6;5;12;15;6;2;1;2;0;0;2.1;47;79;True
+West Ham;Reading;0;6;H;4;0;H;L Mason;9;9;3;6;13;3;3;1;0;0;0;2.1;47;50;False
+West Ham;Fulham;3;3;D;1;1;D;G Poll;9;7;6;20;21;8;5;3;6;1;0;2.1;47;52;True
+West Ham;Newcastle;2;2;D;1;2;A;U Rennie;12;7;7;16;26;10;2;3;4;0;0;1.8;47;39;False
+West Ham;Liverpool;1;2;A;0;0;D;M Atkinson;15;6;9;11;8;4;9;1;1;0;0;5;47;62;True
+West Ham;Aston Villa;0;1;H;1;0;H;C Foy;7;6;2;13;21;9;6;0;1;0;0;1.83;47;38;False
+West Ham;Watford;0;1;A;0;1;A;A Wiley;8;10;5;17;23;10;4;4;2;0;0;1.83;47;69;True
+West Ham;Charlton;0;4;H;3;0;H;R Styles;11;5;8;13;7;7;6;3;2;0;0;2.3;47;60;False
+West Ham;Tottenham;3;4;A;2;0;H;M Dean;12;6;7;15;12;6;3;6;1;0;0;3.2;47;64;True
+West Ham;Blackburn;2;1;A;0;0;D;H Webb;10;3;7;18;22;10;9;4;4;1;0;1.72;47;67;False
+West Ham;Middlesbrough;2;0;H;2;0;H;M Halsey;10;6;3;11;17;3;4;0;1;0;0;2.2;47;85;True
+West Ham;Arsenal;1;0;A;0;1;A;G Poll;6;15;5;10;15;14;1;0;1;0;0;1.4;47;75;False
+West Ham;Sheffield United;0;3;H;1;0;H;S Bennett;11;5;3;11;8;4;2;2;3;0;0;2.4;47;60;False
+West Ham;Chelsea;1;4;A;1;2;A;M Dean;14;10;7;21;9;9;5;5;2;0;0;7;47;87;True
+West Ham;Everton;1;0;H;1;0;H;M Clattenburg;10;7;2;16;10;5;7;2;1;0;0;2.4;47;47;True
+West Ham;Wigan;3;0;A;0;1;A;G Poll;12;6;7;5;17;5;1;1;2;0;0;2.1;47;39;False
+West Ham;Bolton;3;1;H;3;0;H;M Riley;8;6;3;17;21;5;3;2;5;0;0;2.15;47;51;True
+West Ham;Man United;1;0;A;0;1;A;M Atkinson;6;20;4;13;11;14;3;0;2;0;0;1.57;47;70;False
+West Ham;Man City;0;2;A;0;1;A;P Walton;14;2;5;13;11;5;3;0;4;0;0;2;47;79;True
+West Ham;Birmingham;1;0;A;0;0;D;M Halsey;13;3;5;16;15;9;5;4;2;0;0;2.37;47;63;False
+West Ham;Wigan;1;1;D;0;0;D;A Marriner;12;4;3;11;12;6;1;1;2;0;0;1.9;47;39;True
+West Ham;Reading;3;0;A;0;1;A;H Webb;13;3;9;10;11;14;4;0;1;0;0;2.2;47;50;False
+West Ham;Middlesbrough;3;0;H;0;0;D;S Bennett;16;7;12;14;14;5;8;2;1;0;0;2;47;85;True
+West Ham;Newcastle;1;3;H;2;1;H;M Riley;13;4;8;16;15;1;5;1;3;0;0;2;47;39;False
+West Ham;Arsenal;0;1;A;0;1;A;A Wiley;16;4;12;15;14;3;14;2;2;0;0;4.5;47;75;True
+West Ham;Aston Villa;0;1;H;1;0;H;S Tanner;8;5;3;17;12;7;4;3;2;0;0;1.83;47;38;False
+West Ham;Sunderland;3;1;H;1;0;H;C Foy;16;7;10;8;17;6;7;3;2;0;0;1.9;47;38;True
+West Ham;Portsmouth;0;0;D;0;0;D;M Dean;10;3;3;18;9;11;5;2;4;0;0;1.8;47;72;False
+West Ham;Bolton;1;1;D;1;0;H;P Walton;11;7;6;13;13;8;3;2;1;0;0;1.9;47;51;True
+West Ham;Derby;5;0;A;0;1;A;M Clattenburg;16;2;11;12;9;4;5;2;2;0;0;3.25;47;77;False
+West Ham;Tottenham;1;1;D;1;0;H;M Riley;9;9;5;33;5;7;8;3;4;0;0;2.75;47;64;True
+West Ham;Chelsea;0;1;H;0;0;D;H Webb;4;5;1;15;26;7;0;5;3;0;0;1.25;47;87;False
+West Ham;Blackburn;1;0;A;0;0;D;A Wiley;11;7;5;15;17;9;5;1;1;0;0;1.83;47;67;False
+West Ham;Everton;0;2;A;0;1;A;S Tanner;12;3;8;16;14;9;2;1;2;0;0;2.5;47;47;True
+West Ham;Middlesbrough;2;1;A;1;1;D;M Atkinson;8;2;4;15;12;7;4;2;3;0;0;2.3;47;85;False
+West Ham;Reading;1;1;D;1;0;H;P Walton;13;11;10;8;6;10;6;2;2;0;1;1.9;47;50;True
+West Ham;Man United;2;1;H;0;1;A;M Dean;7;5;3;10;12;6;3;2;0;0;0;7;47;70;True
+West Ham;Arsenal;0;2;H;2;0;H;C Foy;15;13;7;5;7;5;7;0;3;0;0;1.33;47;75;False
+West Ham;Fulham;2;1;H;1;1;D;M Riley;9;9;2;19;13;8;7;0;1;0;0;1.72;47;52;True
+West Ham;Man City;1;1;D;1;1;D;P Dowd;11;6;5;15;20;5;10;2;4;0;0;2;47;79;False
+West Ham;Liverpool;1;0;H;0;0;D;A Wiley;13;2;5;11;19;4;6;0;3;0;0;4;47;62;True
+West Ham;Wigan;0;1;H;1;0;H;M Atkinson;5;3;1;11;12;6;3;1;3;0;0;2.62;47;39;False
+West Ham;Birmingham;1;1;D;1;1;D;M Clattenburg;5;10;3;12;20;7;4;0;5;1;0;1.8;47;63;True
+West Ham;Fulham;1;0;A;0;0;D;H Webb;12;14;6;12;17;5;8;3;0;1;0;2.7;47;52;False
+West Ham;Chelsea;0;4;A;0;3;A;P Walton;13;7;8;14;6;6;1;0;2;0;1;4.5;47;87;True
+West Ham;Liverpool;0;4;H;1;0;H;S Bennett;2;11;2;9;15;16;3;0;3;0;0;1.44;47;62;False
+West Ham;Tottenham;0;4;H;2;0;H;C Foy;8;11;4;6;17;8;4;0;2;0;1;1.8;47;64;False
+West Ham;Blackburn;2;1;H;1;1;D;M Atkinson;9;6;5;11;13;8;10;1;3;0;0;2.5;47;67;True
+West Ham;Everton;1;1;D;1;0;H;M Halsey;13;7;5;10;10;4;4;0;0;0;0;1.72;47;47;False
+West Ham;Sunderland;1;2;H;1;1;D;A Marriner;10;12;4;9;10;13;4;2;1;0;0;2.25;47;38;False
+West Ham;Portsmouth;0;1;A;0;0;D;L Probert;18;8;9;16;11;7;4;0;0;0;0;2.25;47;72;True
+West Ham;Bolton;0;1;H;0;0;D;P Walton;11;9;7;12;11;12;5;1;1;0;0;2.1;47;51;False
+West Ham;Derby;2;1;H;1;0;H;S Tanner;12;8;8;11;13;5;11;2;1;0;0;1.36;47;77;True
+West Ham;Newcastle;2;2;D;2;2;D;U Rennie;4;11;3;13;11;6;1;2;3;0;0;2.5;47;39;True
+West Ham;Man United;1;4;H;3;1;H;M Riley;9;4;5;15;16;4;2;1;3;1;0;1.16;47;70;False
+West Ham;Aston Villa;2;2;D;1;1;D;M Dean;13;8;8;9;21;7;8;2;2;0;0;3.2;47;38;True
+West Ham;Wigan;2;1;H;2;0;H;S Bennett;22;8;9;14;11;6;10;2;1;0;0;1.91;47;39;True
+West Ham;Man City;0;3;H;0;0;D;H Webb;3;9;0;12;16;6;3;0;2;0;1;2.3;47;79;False
+West Ham;Blackburn;4;1;H;2;1;H;M Riley;12;6;7;14;21;10;4;1;5;0;0;2.5;47;67;True
+West Ham;West Brom;2;3;H;2;2;D;L Probert;21;8;13;9;18;8;8;1;1;0;0;2.4;47;44;False
+West Ham;Newcastle;3;1;H;2;0;H;P Dowd;11;6;8;8;21;2;6;1;2;0;0;2.1;47;39;True
+West Ham;Fulham;2;1;A;0;2;A;A Marriner;16;6;10;15;13;2;4;4;1;1;0;2.3;47;52;False
+West Ham;Bolton;1;3;A;0;2;A;M Dean;12;5;6;15;8;7;7;4;3;0;0;1.83;47;51;True
+West Ham;Hull;0;1;H;0;0;D;C Foy;14;4;5;11;11;3;5;2;1;0;0;2.62;47;35;False
+West Ham;Arsenal;0;2;A;0;0;D;P Dowd;20;3;10;13;9;4;9;2;3;1;0;6;47;75;True
+West Ham;Man United;0;2;H;2;0;H;P Walton;4;12;1;10;9;3;1;1;2;0;0;1.2;47;70;False
+West Ham;Middlesbrough;1;1;D;0;1;A;A Marriner;13;7;8;10;14;5;4;3;4;0;0;2;47;85;False
+West Ham;Everton;1;3;A;0;0;D;M Halsey;12;13;7;9;10;9;4;1;1;0;0;2.6;47;47;True
+West Ham;Portsmouth;0;0;D;0;0;D;M Atkinson;11;5;7;6;11;8;7;0;1;0;0;2.5;47;72;True
+West Ham;Sunderland;1;0;A;0;1;A;M Dean;10;6;5;13;16;4;2;2;1;0;0;2.1;47;38;False
+West Ham;Liverpool;0;0;D;0;0;D;P Walton;7;8;3;5;7;17;5;1;1;0;0;1.3;47;62;False
+West Ham;Tottenham;0;2;A;0;0;D;C Foy;17;4;12;13;16;7;5;2;0;0;0;2.75;47;64;True
+West Ham;Chelsea;1;1;D;0;1;A;M Riley;4;12;2;13;20;9;4;3;2;0;0;1.25;47;87;False
+West Ham;Aston Villa;0;1;A;0;0;D;M Halsey;10;13;4;7;10;7;6;2;1;0;0;3;47;38;True
+West Ham;Portsmouth;4;1;A;1;1;D;S Bennett;16;14;9;14;9;9;5;1;3;0;0;2.2;47;72;False
+West Ham;Stoke;2;1;H;0;1;A;M Jones;8;7;5;10;13;8;4;3;3;0;1;1.72;47;54;True
+West Ham;Newcastle;2;2;D;1;1;D;A Wiley;12;12;11;10;18;8;3;1;0;0;0;2.2;47;39;False
+West Ham;Fulham;3;1;H;1;1;D;P Dowd;9;7;5;13;17;3;3;1;3;0;0;2.1;47;52;True
+West Ham;Hull;2;0;H;1;0;H;H Webb;15;13;12;11;15;11;5;0;1;0;0;1.83;47;35;True
+West Ham;Arsenal;0;0;D;0;0;D;S Bennett;2;8;2;12;12;13;3;2;2;0;0;1.5;47;75;False
+West Ham;Man United;0;1;A;0;0;D;P Dowd;11;5;6;14;8;5;11;1;1;0;0;6.5;47;70;True
+West Ham;Bolton;1;2;H;2;0;H;S Tanner;17;8;12;18;14;4;13;0;2;0;0;2.3;47;51;False
+West Ham;Man City;1;0;H;0;0;D;M Dean;9;9;2;14;18;4;7;2;2;0;0;2.5;47;79;True
+West Ham;Wigan;1;0;A;0;1;A;S Attwell;8;8;4;9;11;8;1;2;5;1;1;2.2;47;39;False
+West Ham;West Brom;0;0;D;0;0;D;M Halsey;8;4;4;10;10;3;4;1;1;0;0;1.67;47;44;True
+West Ham;Blackburn;1;1;D;0;1;A;C Foy;6;11;2;14;9;6;1;2;1;0;0;1.9;47;67;False
+West Ham;Sunderland;2;0;H;1;0;H;M Jones;14;11;9;10;7;11;8;1;1;0;0;2.1;47;38;True
+West Ham;Tottenham;0;1;H;0;0;D;M Atkinson;8;9;6;9;12;10;1;1;4;0;0;1.73;47;64;False
+West Ham;Aston Villa;1;1;D;1;0;H;R Styles;18;7;9;9;10;12;11;2;3;0;0;1.67;47;38;False
+West Ham;Chelsea;0;1;A;0;0;D;M Dean;20;6;8;9;11;3;5;1;0;0;0;4.75;47;87;True
+West Ham;Stoke;1;0;A;0;1;A;P Walton;7;7;3;8;9;7;0;3;2;0;0;2.37;47;54;False
+West Ham;Liverpool;0;3;A;0;2;A;A Wiley;16;3;9;10;17;2;4;3;2;0;0;6.5;47;62;True
+West Ham;Everton;1;3;H;1;1;D;P Dowd;8;9;3;15;14;6;3;1;2;0;1;1.73;47;47;False
+West Ham;Middlesbrough;2;1;H;1;0;H;H Webb;17;8;6;14;10;4;5;0;1;0;0;2.25;47;85;True
+West Ham;Wolves;2;0;A;0;1;A;C Foy;16;11;13;9;5;8;6;0;0;0;0;2.63;47;78;False
+West Ham;Tottenham;1;2;A;0;0;D;M Clattenburg;17;8;10;13;11;4;8;2;1;0;0;3.1;47;64;True
+West Ham;Blackburn;0;0;D;0;0;D;P Dowd;11;9;5;13;18;5;2;1;3;0;0;2.2;47;67;False
+West Ham;Wigan;0;1;H;0;0;D;A Wiley;12;6;5;13;11;6;7;2;1;0;0;2.3;47;39;False
+West Ham;Liverpool;2;3;A;2;2;D;A Marriner;19;5;15;13;17;4;4;3;3;0;0;6.5;47;62;True
+West Ham;Man City;1;3;H;2;1;H;C Foy;12;12;8;18;14;11;5;1;1;0;0;1.44;47;79;False
+West Ham;Fulham;2;2;D;1;0;H;P Dowd;10;10;6;12;9;8;4;3;2;0;1;2.2;47;52;True
+West Ham;Stoke;1;2;H;1;1;D;M Atkinson;12;4;11;16;13;5;6;3;3;0;0;2.1;47;54;False
+West Ham;Arsenal;2;2;D;0;2;A;C Foy;15;9;10;17;15;6;8;3;2;1;0;7;47;75;True
+West Ham;Sunderland;2;2;D;1;2;A;A Marriner;15;7;9;12;16;7;3;3;3;1;1;2;47;38;False
+West Ham;Aston Villa;2;1;H;1;0;H;S Bennett;13;7;10;11;12;6;14;2;4;0;1;2.75;47;38;True
+West Ham;Everton;1;2;A;0;1;A;A Wiley;9;7;6;12;18;5;4;0;5;0;0;2.4;47;47;True
+West Ham;Hull;3;3;D;3;2;H;M Clattenburg;16;8;10;9;17;5;3;0;4;1;0;2.88;47;35;False
+West Ham;Burnley;5;3;H;3;0;H;C Foy;16;5;10;10;15;1;7;2;1;0;1;1.8;47;33;True
+West Ham;Man United;0;4;A;0;1;A;P Walton;18;7;11;8;16;2;8;0;1;0;0;8;47;70;True
+West Ham;Birmingham;0;1;H;0;0;D;L Mason;14;9;7;12;13;11;7;3;4;0;1;2.1;47;63;False
+West Ham;Bolton;1;3;H;0;0;D;A Marriner;9;12;6;10;7;8;4;4;1;0;0;2.25;47;51;False
+West Ham;Chelsea;1;1;D;1;0;H;M Dean;20;5;6;17;16;5;5;4;3;0;0;8.5;47;87;True
+West Ham;Portsmouth;2;0;H;1;0;H;L Probert;11;5;7;10;19;6;4;0;3;0;0;2.1;47;72;True
+West Ham;Tottenham;0;2;H;1;0;H;C Foy;3;9;2;9;14;9;3;2;3;0;0;1.44;47;64;False
+West Ham;Aston Villa;0;0;D;0;0;D;M Jones;8;10;3;7;12;16;4;1;3;0;0;1.53;47;38;False
+West Ham;Portsmouth;1;1;D;0;0;D;A Marriner;12;8;4;16;9;6;4;3;1;0;0;2.5;47;72;False
+West Ham;Blackburn;0;0;D;0;0;D;P Walton;8;6;4;17;13;10;7;0;1;0;0;2.1;47;67;True
+West Ham;Burnley;1;2;H;1;0;H;H Webb;20;4;11;15;13;3;5;2;1;0;0;2.6;47;33;False
+West Ham;Birmingham;2;0;H;1;0;H;M Dean;9;10;4;12;9;3;6;1;2;0;0;2.25;47;63;True
+West Ham;Hull;3;0;H;1;0;H;M Atkinson;7;12;3;13;12;9;2;1;1;0;1;1.75;47;35;True
+West Ham;Man United;0;3;H;1;0;H;A Wiley;10;9;4;10;12;6;7;0;1;0;0;1.2;47;70;False
+West Ham;Bolton;1;2;A;0;2;A;L Probert;15;8;7;13;21;6;3;2;5;0;1;1.8;47;51;True
+West Ham;Chelsea;1;4;H;1;1;D;M Clattenburg;4;15;2;13;10;11;1;0;1;0;0;1.22;47;87;False
+West Ham;Arsenal;0;2;H;1;0;H;M Atkinson;8;5;4;7;24;4;2;1;4;1;0;1.25;47;75;False
+West Ham;Wolves;1;3;A;0;1;A;P Dowd;5;10;4;9;24;8;5;0;2;0;0;1.8;47;78;True
+West Ham;Stoke;0;1;A;0;0;D;A Marriner;12;7;7;14;17;6;7;0;2;0;0;2.1;47;54;True
+West Ham;Everton;2;2;D;1;0;H;H Webb;10;5;5;7;17;2;8;2;3;0;0;1.44;47;47;False
+West Ham;Sunderland;1;0;H;0;0;D;M Jones;9;6;7;12;20;2;7;1;3;0;0;2;47;38;True
+West Ham;Liverpool;0;3;H;2;0;H;P Walton;6;8;2;8;12;9;2;0;2;0;0;1.33;47;62;False
+West Ham;Wigan;3;2;H;2;1;H;A Wiley;12;7;10;9;10;4;5;1;2;0;0;1.83;47;39;True
+West Ham;Fulham;2;3;H;1;0;H;A Marriner;7;3;5;10;14;9;3;0;0;0;0;2.38;47;52;False
+West Ham;Man City;1;1;D;1;1;D;H Webb;17;8;6;12;7;4;3;2;0;0;0;4;47;79;True
+West Ham;Aston Villa;0;3;H;2;0;H;M Dean;12;11;2;15;15;16;7;1;2;0;0;2;47;38;False
+West Ham;Bolton;1;3;A;0;0;D;A Marriner;12;10;8;11;18;8;5;2;4;0;0;2.25;47;51;True
+West Ham;Man United;0;3;H;1;0;H;M Clattenburg;7;11;2;6;11;9;3;1;2;0;0;1.14;47;70;False
+West Ham;Chelsea;1;3;A;0;2;A;C Foy;17;7;9;13;10;1;5;2;2;0;0;10;47;87;True
+West Ham;Stoke;1;1;D;0;1;A;L Mason;13;3;6;14;8;6;3;3;2;0;0;1.91;47;54;False
+West Ham;Tottenham;1;0;H;1;0;H;M Atkinson;17;15;11;10;11;14;7;2;0;0;0;3.5;47;64;True
+West Ham;Fulham;1;1;D;0;1;A;A Marriner;17;5;5;15;8;2;3;3;1;0;0;2.25;47;52;True
+West Ham;Wolves;1;1;D;1;0;H;M Clattenburg;9;5;7;10;8;8;3;0;1;0;0;2.25;47;78;False
+West Ham;Newcastle;1;2;A;1;1;D;C Foy;13;1;8;12;6;2;6;0;0;0;0;2.38;47;39;True
+West Ham;Arsenal;0;1;H;0;0;D;M Jones;6;13;3;14;18;7;4;2;2;0;0;1.17;47;75;False
+West Ham;Birmingham;2;2;D;0;0;D;M Oliver;16;5;8;12;14;3;4;0;1;0;0;1.91;47;63;False
+West Ham;West Brom;2;2;D;1;1;D;M Dean;14;5;6;13;5;6;7;3;0;0;0;2.3;47;44;True
+West Ham;Blackpool;0;0;D;0;0;D;K Friend;16;4;5;7;7;8;7;0;1;0;0;1.91;47;26;True
+West Ham;Liverpool;0;3;H;3;0;H;L Probert;6;11;1;8;8;10;2;0;1;0;0;1.57;47;62;False
+West Ham;Wigan;3;1;H;1;0;H;M Halsey;10;9;10;8;8;7;2;0;0;0;0;2;47;39;True
+West Ham;Sunderland;0;1;H;1;0;H;M Atkinson;8;12;2;6;8;9;3;1;3;0;0;1.83;47;38;False
+West Ham;Man City;1;3;A;0;1;A;P Dowd;12;3;7;10;13;2;6;1;3;0;0;4.5;47;79;True
+West Ham;Blackburn;1;1;D;0;0;D;M Dean;11;5;3;12;10;9;4;2;3;0;0;1.8;47;67;False
+West Ham;Fulham;3;1;A;1;2;A;M Halsey;10;6;7;12;10;8;4;1;1;0;0;1.91;47;52;False
+West Ham;Everton;1;1;D;1;1;D;H Webb;13;2;5;12;15;4;7;1;0;0;0;3.4;47;47;True
+West Ham;Wolves;2;0;H;0;0;D;L Probert;15;6;10;7;14;5;10;0;1;0;0;2;47;78;True
+West Ham;Newcastle;0;5;H;3;0;H;M Dean;13;7;6;10;10;4;3;0;4;0;0;1.83;47;39;False
+West Ham;Arsenal;0;3;A;0;2;A;A Marriner;19;6;13;8;7;4;10;1;0;0;0;6;47;75;True
+West Ham;Everton;2;2;D;0;1;A;P Walton;13;6;5;8;12;12;2;1;2;0;1;1.5;47;47;False
+West Ham;Blackpool;3;1;A;1;3;A;S Attwell;12;8;10;9;12;10;7;0;1;0;0;2.38;47;26;False
+West Ham;Birmingham;0;1;A;0;0;D;C Foy;9;9;3;18;13;5;5;3;1;0;0;2;47;63;True
+West Ham;West Brom;3;3;D;3;0;H;L Mason;18;11;11;12;13;4;9;2;3;0;0;1.91;47;44;False
+West Ham;Liverpool;3;1;H;2;0;H;M Halsey;12;11;8;10;8;6;8;0;1;0;0;3.4;47;62;True
+West Ham;Stoke;3;0;H;2;0;H;A Marriner;7;10;5;9;10;7;3;0;3;0;0;2.25;47;54;True
+West Ham;Tottenham;0;0;D;0;0;D;M Dean;11;14;5;6;13;6;2;0;4;0;0;1.57;47;64;False
+West Ham;Man United;2;4;A;2;0;H;L Mason;18;2;9;10;9;0;16;1;2;0;0;4.5;47;70;True
+West Ham;Bolton;0;3;H;2;0;H;L Probert;14;12;8;6;10;5;10;1;0;0;0;2.2;47;51;False
+West Ham;Aston Villa;1;2;A;1;1;D;M Halsey;21;7;11;8;3;5;11;0;0;0;0;2.25;47;38;True
+West Ham;Chelsea;0;3;H;1;0;H;P Dowd;12;11;7;7;13;5;7;1;2;0;0;1.2;47;87;False
+West Ham;Man City;1;2;H;2;1;H;H Webb;7;12;4;13;8;8;5;3;1;0;0;1.4;47;79;False
+West Ham;Blackburn;1;1;D;0;1;A;P Walton;8;15;4;7;14;7;3;3;0;0;0;1.95;47;67;True
+West Ham;Wigan;2;3;H;0;2;A;M Dean;13;10;10;7;10;10;6;1;1;0;0;2.1;47;39;False
+West Ham;Sunderland;0;3;A;0;1;A;A Taylor;17;12;12;7;8;4;6;0;2;0;0;2;47;38;True
+West Ham;Aston Villa;1;0;H;1;0;H;8;4;6;17;8;6;4;0;1;0;0;2.2;3.3;47;38;True
+West Ham;Swansea;0;3;H;2;0;H;10;7;6;13;17;5;4;2;4;0;0;2.1;3.3;47;56;False
+West Ham;Fulham;3;0;H;3;0;H;17;12;13;12;5;6;6;0;0;0;0;2.5;3.25;47;52;True
+West Ham;Norwich;0;0;D;0;0;D;20;14;4;10;12;8;5;0;1;0;0;2.38;3.4;47;86;False
+West Ham;Sunderland;1;1;D;0;1;A;20;11;2;12;10;10;1;2;1;0;0;2.1;3.3;47;38;True
+West Ham;QPR;2;1;A;0;2;A;13;9;10;9;21;4;13;1;8;1;0;2.05;3.4;47;30;False
+West Ham;Arsenal;1;3;A;1;1;D;7;3;14;12;7;4;16;3;2;0;0;4;3.6;47;75;True
+West Ham;Southampton;4;1;H;0;0;D;9;8;4;10;12;6;3;0;2;0;0;1.83;3.75;47;60;True
+West Ham;Wigan;1;2;H;1;0;H;17;13;11;10;16;6;6;3;4;0;0;2.25;3.4;47;39;False
+West Ham;Man City;0;0;D;0;0;D;6;1;8;11;12;3;7;3;0;0;0;5;3.8;47;79;True
+West Ham;Newcastle;1;0;A;0;1;A;14;9;5;8;14;11;4;1;2;0;0;1.95;3.6;47;39;False
+West Ham;Stoke;1;1;D;0;1;A;16;11;6;8;9;12;4;1;0;0;0;2;3.4;47;54;True
+West Ham;Tottenham;1;3;H;1;0;H;25;13;6;9;10;4;2;1;2;0;0;1.67;3.75;47;64;False
+West Ham;Man United;0;1;H;1;0;H;23;13;3;7;9;5;5;1;1;0;0;1.22;6.5;47;70;False
+West Ham;Chelsea;3;1;H;0;1;A;16;13;9;15;6;14;5;1;2;0;0;4;3.5;47;87;True
+West Ham;Liverpool;2;3;A;2;1;H;9;6;8;12;10;2;5;1;2;0;0;3;3.3;47;62;True
+West Ham;West Brom;0;0;D;0;0;D;19;10;2;12;9;8;2;3;3;0;0;2;3.5;47;44;False
+West Ham;Everton;1;2;A;1;0;H;6;5;8;12;8;3;5;1;0;1;1;2.88;3.25;47;47;True
+West Ham;Reading;0;1;H;1;0;H;3;2;3;17;10;2;2;3;4;0;0;2.88;3.25;47;50;False
+West Ham;Norwich;2;1;H;2;0;H;14;8;3;14;7;11;3;0;0;0;0;2.1;3.4;47;86;True
+West Ham;Sunderland;0;3;H;1;0;H;18;14;4;10;13;4;6;0;3;0;0;2.38;3.3;47;38;False
+West Ham;QPR;1;1;D;0;1;A;22;13;6;6;11;12;2;1;0;0;0;2.1;3.5;47;30;True
+West Ham;Arsenal;1;5;H;1;1;D;23;17;5;9;10;13;5;0;1;0;0;1.44;4.75;47;75;False
+West Ham;Fulham;1;3;H;1;0;H;13;6;4;8;9;2;8;2;0;0;0;2.2;3.5;47;52;False
+West Ham;Swansea;1;0;H;0;0;D;18;9;7;7;9;5;3;1;1;0;0;2.4;3.4;47;56;True
+West Ham;Aston Villa;1;2;H;0;0;D;7;2;7;15;12;4;10;3;2;0;0;2.63;3.4;47;38;False
+West Ham;Tottenham;2;3;A;1;1;D;8;6;16;12;7;6;12;4;1;0;0;3.6;3.5;47;64;True
+West Ham;Stoke;1;0;A;0;1;A;10;2;7;12;12;4;2;1;2;0;0;2.15;3.25;47;54;False
+West Ham;Chelsea;0;2;H;1;0;H;24;14;9;5;14;5;5;0;2;0;0;1.4;5;47;87;False
+West Ham;West Brom;3;1;H;2;0;H;14;8;11;10;13;5;3;1;1;0;1;2.3;3.4;47;44;True
+West Ham;Liverpool;0;0;D;0;0;D;19;12;4;8;4;12;2;0;1;0;0;1.36;5.5;47;62;False
+West Ham;Southampton;1;1;D;0;0;D;15;11;4;9;18;7;4;2;3;0;0;1.91;3.75;47;60;False
+West Ham;Man United;2;2;D;1;1;D;10;4;9;9;7;2;5;1;0;0;0;5.5;3.9;47;70;True
+West Ham;Wigan;2;0;H;1;0;H;17;11;10;12;11;3;6;3;1;0;0;2.3;3.5;47;39;True
+West Ham;Man City;1;2;H;1;0;H;16;10;6;9;7;9;4;1;3;0;0;1.29;6;47;79;False
+West Ham;Newcastle;0;0;D;0;0;D;9;3;6;12;12;7;3;1;1;0;0;2.38;3.4;47;39;True
+West Ham;Everton;0;2;H;1;0;H;23;13;2;8;11;7;1;1;2;0;0;1.5;4.5;47;47;False
+West Ham;Reading;4;2;H;2;0;H;21;12;7;14;8;6;4;2;1;0;0;1.67;4;47;50;True
+West Ham;Cardiff;2;0;H;1;0;H;H Webb;12;4;1;10;7;4;3;0;1;0;0;2;47;62;True
+West Ham;Newcastle;0;0;D;0;0;D;P Dowd;6;0;1;12;14;5;4;0;1;0;0;2.3;47;39;False
+West Ham;Stoke;0;1;A;0;0;D;J Moss;15;0;5;10;12;3;4;2;1;0;0;2;47;54;True
+West Ham;Southampton;0;0;D;0;0;D;A Marriner;6;5;1;12;10;10;4;1;3;0;0;1.85;47;60;False
+West Ham;Everton;2;3;A;1;0;H;L Mason;10;1;4;16;12;5;5;2;1;1;0;3.3;47;47;True
+West Ham;Hull;0;1;H;1;0;H;K Friend;18;2;5;11;12;6;6;1;2;0;0;2.38;47;35;False
+West Ham;Tottenham;3;0;A;0;0;D;L Probert;16;4;5;5;9;6;7;0;0;0;0;1.44;47;64;False
+West Ham;Man City;1;3;A;0;1;A;M Oliver;16;2;9;7;12;5;5;1;2;0;0;5.5;47;79;True
+West Ham;Swansea;0;0;D;0;0;D;P Dowd;15;5;4;12;14;9;6;1;3;0;0;1.75;47;56;False
+West Ham;Aston Villa;0;0;D;0;0;D;H Webb;8;4;2;8;15;5;1;0;2;0;0;2.25;47;38;True
+West Ham;Norwich;1;3;H;0;1;A;J Moss;12;6;4;12;11;4;2;1;1;0;0;2.63;47;86;False
+West Ham;Chelsea;0;3;A;0;2;A;C Foy;20;1;8;12;10;8;4;0;0;0;0;6;47;87;True
+West Ham;Fulham;3;0;H;0;0;D;M Atkinson;10;12;0;11;8;6;3;3;2;0;0;1.91;47;52;True
+West Ham;Crystal Palace;0;1;H;1;0;H;L Mason;11;5;2;10;9;3;4;1;2;0;0;3.25;47;48;False
+West Ham;Liverpool;1;4;H;1;0;H;M Oliver;8;9;1;9;12;8;4;0;3;0;1;1.29;47;62;False
+West Ham;Sunderland;0;0;D;0;0;D;A Marriner;19;2;6;11;5;2;9;1;0;0;0;1.95;47;38;True
+West Ham;Man United;1;3;H;2;0;H;M Jones;4;8;1;7;16;8;2;1;4;0;0;1.36;47;70;False
+West Ham;Arsenal;1;3;A;0;0;D;P Dowd;29;5;8;11;6;0;10;1;1;0;0;6.5;47;75;True
+West Ham;West Brom;3;3;D;1;2;A;M Dean;22;6;7;10;13;6;5;3;2;0;0;2.38;47;44;True
+West Ham;Fulham;1;2;H;1;1;D;M Clattenburg;11;11;3;6;5;12;4;2;1;0;1;2.5;47;52;False
+West Ham;Cardiff;2;0;A;0;1;A;L Mason;10;7;3;7;16;8;7;1;3;0;1;2;47;62;False
+West Ham;Newcastle;1;3;A;1;2;A;A Marriner;19;2;9;9;6;4;3;0;0;0;0;3;47;39;True
+West Ham;Chelsea;0;0;D;0;0;D;N Swarbrick;1;9;1;12;11;13;3;1;3;0;0;1.18;47;87;False
+West Ham;Swansea;2;0;H;2;0;H;H Webb;20;4;0;7;7;8;11;1;0;1;0;2.9;47;56;True
+West Ham;Aston Villa;2;0;A;0;0;D;M Dean;10;1;2;9;8;8;10;0;2;0;0;2.1;47;38;False
+West Ham;Norwich;2;0;H;0;0;D;M Oliver;13;7;6;12;16;5;5;1;3;0;0;2.05;47;86;True
+West Ham;Southampton;3;1;H;2;1;H;M Clattenburg;25;5;5;10;8;5;11;0;1;0;0;3.2;47;60;True
+West Ham;Everton;0;1;H;0;0;D;J Moss;6;3;1;9;8;11;5;1;1;0;0;1.53;47;47;False
+West Ham;Stoke;1;3;H;1;1;D;C Pawson;8;9;2;13;13;6;4;1;1;0;0;2.25;47;54;False
+West Ham;Man United;0;2;A;0;2;A;L Mason;16;1;7;8;8;12;7;2;1;0;0;4.5;47;70;True
+West Ham;Hull;2;1;H;1;0;H;M Dean;10;3;3;12;9;4;5;0;1;0;1;2.4;47;35;True
+West Ham;Sunderland;2;1;A;0;1;A;H Webb;11;7;6;11;14;8;3;2;4;0;0;2.3;47;38;False
+West Ham;Liverpool;1;2;A;1;1;D;A Taylor;17;1;8;10;9;4;4;4;0;0;0;9;47;62;True
+West Ham;Arsenal;1;3;H;1;1;D;K Friend;12;8;2;14;12;4;3;2;2;0;0;1.4;47;75;False
+West Ham;Crystal Palace;0;1;A;0;0;D;M Atkinson;11;4;3;7;16;3;11;1;1;0;0;2.2;47;48;True
+West Ham;West Brom;0;1;H;1;0;H;M Dean;9;6;3;14;8;7;6;0;1;0;0;1.91;47;44;False
+West Ham;Tottenham;2;0;H;2;0;H;P Dowd;12;8;3;10;16;10;6;0;4;0;1;4.33;47;64;True
+West Ham;Man City;0;2;H;1;0;H;M Atkinson;3;7;0;7;9;12;1;2;2;0;0;1.17;47;79;False
+West Ham;Tottenham;0;1;A;0;0;D;C Foy;10;4;4;12;10;8;5;1;0;1;1;3.8;47;64;True
+West Ham;Crystal Palace;3;1;A;0;2;A;M Clattenburg;17;4;8;14;11;6;9;1;3;0;0;2.5;47;48;False
+West Ham;Southampton;1;3;A;1;1;D;M Dean;18;2;8;11;13;2;9;2;1;0;0;2.8;47;60;True
+West Ham;Hull;2;2;D;1;0;H;M Atkinson;16;6;4;12;7;3;10;3;1;0;0;2.15;47;35;False
+West Ham;Liverpool;3;1;H;2;1;H;C Pawson;11;7;5;16;11;7;5;4;1;0;0;4.5;47;62;True
+West Ham;Man United;1;2;H;2;1;H;L Mason;13;3;4;10;12;7;10;1;3;1;0;1.4;47;70;False
+West Ham;QPR;2;0;H;1;0;H;A Taylor;10;3;3;10;11;7;5;2;2;0;0;1.91;47;30;True
+West Ham;Burnley;3;1;A;0;0;D;K Friend;22;3;6;3;10;5;7;0;1;0;0;2.8;47;33;False
+West Ham;Man City;2;1;H;1;0;H;M Atkinson;21;4;5;12;14;4;8;2;1;0;0;6.5;47;79;True
+West Ham;Stoke;2;2;D;1;0;H;C Foy;10;6;2;14;13;9;2;1;1;0;0;2.38;47;54;False
+West Ham;Aston Villa;0;0;D;0;0;D;J Moss;12;5;4;9;10;13;2;0;3;0;0;1.75;47;38;True
+West Ham;Everton;1;2;H;1;0;H;M Clattenburg;14;4;3;10;13;1;5;2;3;0;0;1.85;47;47;False
+West Ham;Newcastle;1;0;H;0;0;D;M Dean;7;3;1;9;16;6;2;3;2;0;1;2.15;47;39;True
+West Ham;West Brom;2;1;A;1;2;A;M Jones;11;5;6;11;17;7;3;2;1;0;0;2.5;47;44;False
+West Ham;Swansea;3;1;H;1;1;D;C Foy;11;7;2;11;18;7;4;0;1;0;1;2.35;47;56;True
+West Ham;Sunderland;1;1;D;1;1;D;P Dowd;19;4;8;11;18;6;8;2;2;0;0;2.95;47;38;False
+West Ham;Leicester;2;0;H;1;0;H;M Atkinson;10;2;4;8;17;9;4;0;3;0;0;1.75;47;41;True
+West Ham;Chelsea;0;2;H;1;0;H;M Oliver;6;9;0;8;14;8;6;0;3;0;0;1.33;47;87;False
+West Ham;Arsenal;1;2;A;0;2;A;N Swarbrick;21;4;7;12;13;7;8;3;3;0;0;3.5;47;75;True
+West Ham;West Brom;1;1;D;1;1;D;J Moss;14;3;3;6;13;0;1;1;0;0;0;1.85;47;44;True
+West Ham;Swansea;1;1;D;0;1;A;M Dean;11;3;5;9;7;4;5;0;1;0;0;2.25;47;56;False
+West Ham;Hull;3;0;H;0;0;D;M Atkinson;9;6;3;5;14;4;7;1;3;0;0;1.75;47;35;True
+West Ham;Liverpool;0;2;H;0;0;D;A Marriner;7;7;2;12;12;5;7;1;1;0;0;1.67;47;62;False
+West Ham;Man United;1;1;D;0;0;D;M Clattenburg;18;6;6;7;13;9;9;2;2;0;1;4.2;47;70;True
+West Ham;Southampton;0;0;D;0;0;D;C Pawson;4;7;1;12;11;8;2;2;1;0;1;1.73;47;60;False
+West Ham;Tottenham;2;2;D;0;1;A;J Moss;12;8;5;6;12;7;9;0;2;0;0;1.8;47;64;False
+West Ham;Crystal Palace;1;3;A;0;1;A;M Dean;12;5;5;12;19;11;7;2;2;0;1;2.15;47;48;True
+West Ham;Chelsea;0;1;A;0;1;A;A Marriner;12;5;3;10;10;5;4;3;4;0;0;6.25;47;87;True
+West Ham;Arsenal;0;3;H;1;0;H;A Taylor;7;9;1;10;9;7;5;1;1;0;0;1.4;47;75;False
+West Ham;Sunderland;1;0;H;0;0;D;L Mason;7;4;3;14;11;6;4;0;1;0;0;1.8;47;38;True
+West Ham;Leicester;1;2;H;1;1;D;M Clattenburg;14;7;7;12;10;7;6;0;3;0;0;2.38;47;41;False
+West Ham;Stoke;1;1;D;1;0;H;R East;18;3;2;17;13;4;10;3;1;0;0;2.3;47;54;True
+West Ham;Man City;0;2;H;2;0;H;A Taylor;9;3;3;10;6;6;3;2;2;0;0;1.25;47;79;False
+West Ham;QPR;0;0;D;0;0;D;M Jones;8;7;2;14;12;6;6;1;0;0;0;2.38;47;30;False
+West Ham;Burnley;1;0;H;1;0;H;J Moss;8;7;2;11;7;13;3;3;2;0;1;2.25;47;33;True
+West Ham;Aston Villa;0;1;H;1;0;H;L Mason;5;5;1;6;13;2;6;1;1;0;0;1.91;47;38;False
+West Ham;Everton;1;2;A;0;0;D;K Friend;21;3;5;12;14;7;8;1;4;0;0;2.9;47;47;True
+West Ham;Newcastle;0;2;H;0;0;D;M Atkinson;4;4;1;9;9;2;3;2;1;0;0;1.83;47;39;False
+West Ham;Arsenal;2;0;A;0;1;A;M Atkinson;8;6;4;12;9;5;4;1;3;0;0;1.29;47;75;False
+West Ham;Leicester;1;2;A;0;2;A;A Taylor;11;3;6;11;12;8;4;1;3;1;0;2.25;47;41;True
+West Ham;Bournemouth;3;4;A;0;2;A;J Moss;15;4;7;8;11;5;4;0;0;1;0;2.38;47;80;True
+West Ham;Liverpool;3;0;A;0;2;A;K Friend;12;1;5;17;11;5;7;3;1;1;1;1.36;47;62;False
+West Ham;Newcastle;2;0;H;1;0;H;A Taylor;14;3;4;8;11;6;7;0;2;0;0;2.25;47;39;True
+West Ham;Man City;2;1;A;1;2;A;R Madley;6;8;3;10;7;16;3;1;2;0;0;1.29;47;79;False
+West Ham;Norwich;2;2;D;1;1;D;M Dean;16;7;7;7;17;7;5;0;0;0;0;2.25;47;86;True
+West Ham;Sunderland;2;2;D;2;1;H;N Swarbrick;20;3;6;14;11;1;8;2;4;1;0;3.2;47;38;False

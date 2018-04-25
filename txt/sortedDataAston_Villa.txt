@@ -1,0 +1,464 @@
+Aston Villa;Portsmouth;1;2;H;1;0;H;G Barber;9;3;5;18;22;7;9;2;1;0;1;2.375;38;72;False
+Aston Villa;Liverpool;0;0;D;0;0;D;P Durkin;15;9;9;16;7;8;9;0;1;0;0;3;38;62;True
+Aston Villa;Arsenal;0;2;H;0;0;D;M Dean;6;6;3;16;16;2;6;3;4;0;0;1.286;38;75;False
+Aston Villa;Leicester;3;1;H;3;0;H;S Bennett;5;8;4;18;17;11;1;1;2;0;1;1.667;38;41;True
+Aston Villa;Man City;1;4;H;0;1;A;M Halsey;8;9;4;11;11;4;3;0;1;0;0;1.83;38;79;False
+Aston Villa;Charlton;2;1;H;1;0;H;C Foy;8;6;3;13;13;10;2;3;2;0;0;1.9;38;60;True
+Aston Villa;Chelsea;0;1;H;1;0;H;J Winter;7;5;1;7;9;6;5;0;2;0;0;1.33;38;87;False
+Aston Villa;Bolton;1;1;D;0;0;D;R Styles;15;8;5;14;16;9;5;1;5;0;0;1.8;38;51;True
+Aston Villa;Birmingham;0;0;D;0;0;D;M Riley;2;3;1;16;20;3;4;2;1;0;0;2.25;38;63;False
+Aston Villa;Everton;0;0;D;0;0;D;A D'Urso;8;6;2;11;12;9;3;0;1;0;0;2;38;47;True
+Aston Villa;Newcastle;1;1;D;1;1;D;M Messias;11;13;6;9;17;15;3;2;3;0;1;1.57;38;39;False
+Aston Villa;Middlesbrough;0;2;A;0;1;A;D Gallagher;8;4;3;19;16;5;2;1;2;0;0;2;38;85;True
+Aston Villa;Tottenham;1;2;H;0;0;D;J Winter;13;5;6;14;15;3;3;0;1;0;0;1.9;38;64;False
+Aston Villa;Southampton;1;0;H;1;0;H;M Messias;7;12;3;13;13;9;4;0;1;0;0;2.25;38;60;True
+Aston Villa;Man United;0;4;H;2;0;H;S Dunn;10;8;3;6;11;6;5;0;1;0;0;1.28;38;70;False
+Aston Villa;Wolves;3;2;H;2;1;H;G Poll;8;8;5;12;14;4;6;3;4;0;0;1.727;38;78;True
+Aston Villa;Blackburn;2;0;A;0;0;D;D Gallagher;15;5;7;7;11;9;1;1;0;0;0;1.909;38;67;False
+Aston Villa;Leeds;0;0;D;0;0;D;S Bennett;13;3;4;15;13;7;5;0;2;0;0;2.3;38;56;False
+Aston Villa;Fulham;3;0;H;1;0;H;B Knight;9;8;3;17;7;8;3;0;0;0;0;2.2;38;52;True
+Aston Villa;Portsmouth;2;1;H;1;0;H;J Winter;11;13;4;17;14;9;6;0;0;0;0;1.66;38;72;True
+Aston Villa;Liverpool;0;1;H;1;0;H;G Barber;8;4;2;14;15;3;6;3;2;0;0;1.66;38;62;False
+Aston Villa;Arsenal;0;2;A;0;1;A;M Halsey;13;5;9;17;21;3;2;4;1;0;0;5.5;38;75;True
+Aston Villa;Leicester;5;0;A;0;0;D;J Winter;14;9;10;12;7;5;9;0;1;0;0;2.5;38;41;False
+Aston Villa;Leeds;2;0;H;1;0;H;U Rennie;7;7;4;15;16;3;10;2;2;0;0;1.615;38;56;True
+Aston Villa;Fulham;2;1;A;1;2;A;B Knight;10;6;3;16;17;6;5;2;1;1;0;2.2;38;52;False
+Aston Villa;Birmingham;2;2;D;1;0;H;J Winter;13;8;9;15;14;7;5;0;1;0;0;2.1;38;63;True
+Aston Villa;Everton;0;2;H;0;0;D;M Messias;12;7;8;13;18;5;11;4;2;0;0;2.375;38;47;False
+Aston Villa;Wolves;4;0;A;0;3;A;P Durkin;15;1;7;10;14;8;13;1;2;0;0;2.7;38;78;False
+Aston Villa;Blackburn;0;2;A;0;2;A;A D'Urso;16;7;7;11;14;4;6;0;2;0;0;1.8;38;67;True
+Aston Villa;Charlton;2;1;A;1;1;D;B Knight;19;9;11;11;14;3;12;1;1;0;0;2.2;38;60;False
+Aston Villa;Man City;1;1;D;1;0;H;U Rennie;7;3;4;13;13;5;4;1;2;0;0;1.909;38;79;True
+Aston Villa;Bolton;2;2;D;0;1;A;M Messias;7;7;3;10;12;6;4;1;3;0;0;2.5;38;51;False
+Aston Villa;Chelsea;3;2;H;1;1;D;J Winter;6;3;2;8;14;7;2;0;1;0;0;3.5;38;87;True
+Aston Villa;Newcastle;0;0;D;0;0;D;B Knight;5;1;4;17;13;7;3;1;4;0;1;2.375;38;39;True
+Aston Villa;Middlesbrough;2;1;A;1;1;D;G Barber;12;21;9;12;15;12;8;0;1;0;1;2.3;38;85;False
+Aston Villa;Tottenham;1;0;H;1;0;H;N Barry;10;6;5;15;20;5;5;2;1;0;0;1.66;38;64;True
+Aston Villa;Southampton;1;1;D;1;1;D;H Webb;14;10;7;10;13;4;4;1;0;0;0;2.87;38;60;False
+Aston Villa;Man United;0;2;A;0;2;A;R Styles;12;8;8;21;15;9;4;4;3;0;2;2.2;38;70;True
+Aston Villa;Southampton;2;0;H;2;0;H;U Rennie;6;5;2;14;9;12;6;0;0;0;0;1.9;38;60;True
+Aston Villa;West Brom;1;1;D;1;1;D;M Halsey;9;5;4;12;20;12;4;2;2;0;0;2.87;38;44;False
+Aston Villa;Charlton;0;3;H;2;0;H;H Webb;9;5;4;6;7;4;12;0;1;0;0;2.5;38;60;False
+Aston Villa;Newcastle;4;2;H;1;2;A;M Riley;12;13;10;23;11;9;4;3;1;0;0;2.4;38;39;True
+Aston Villa;Chelsea;0;0;D;0;0;D;R Styles;18;5;10;9;12;2;9;0;1;0;0;4.333;38;87;True
+Aston Villa;Norwich;0;0;D;0;0;D;B Knight;18;3;9;10;13;1;6;1;1;0;0;2.75;38;86;False
+Aston Villa;Crystal Palace;1;1;D;1;1;D;M Clattenburg;13;5;8;10;15;5;8;2;1;0;0;1.5;38;48;True
+Aston Villa;Blackburn;2;2;D;1;1;D;P Walton;15;7;9;14;17;5;8;2;2;0;0;2.37;38;67;False
+Aston Villa;Arsenal;1;3;H;2;1;H;G Poll;5;15;2;11;22;6;3;2;4;0;0;1.3;38;75;False
+Aston Villa;Fulham;2;0;H;1;0;H;P Dowd;7;5;1;21;14;8;4;0;1;0;0;1.8;38;52;True
+Aston Villa;Everton;1;1;D;1;1;D;S Dunn;9;8;5;10;19;8;3;1;1;0;0;2.1;38;47;False
+Aston Villa;Portsmouth;3;0;H;3;0;H;M Halsey;7;9;2;8;13;6;4;1;1;0;0;1.83;38;72;True
+Aston Villa;Bolton;2;1;A;1;1;D;A D'Urso;10;7;5;10;17;9;5;1;1;0;0;2.25;38;51;False
+Aston Villa;Tottenham;1;0;H;0;0;D;C Foy;11;5;6;17;11;5;5;0;0;0;0;2;38;64;True
+Aston Villa;Man City;0;2;H;2;0;H;M Riley;7;6;3;14;19;8;8;1;1;0;1;2.3;38;79;False
+Aston Villa;Liverpool;1;1;D;1;1;D;M Halsey;12;2;7;10;10;3;9;1;0;0;0;2.5;38;62;True
+Aston Villa;Birmingham;1;2;A;0;2;A;S Dunn;9;3;5;9;28;6;0;2;4;0;0;2;38;63;True
+Aston Villa;Middlesbrough;0;3;H;1;0;H;A D'Urso;14;8;6;6;18;5;6;0;1;0;0;1.9;38;85;False
+Aston Villa;Chelsea;0;1;H;1;0;H;P Walton;9;7;7;12;13;6;3;3;3;0;0;1.3;38;87;False
+Aston Villa;Man United;0;1;A;0;1;A;G Poll;15;6;7;14;10;6;9;0;3;0;0;4.75;38;70;True
+Aston Villa;Blackburn;1;0;H;0;0;D;H Webb;9;3;4;9;9;6;7;1;0;0;0;1.9;38;67;True
+Aston Villa;Crystal Palace;0;2;H;1;0;H;A D'Urso;12;9;6;8;14;7;7;2;3;0;0;2.5;38;48;False
+Aston Villa;Norwich;3;0;H;2;0;H;M Riley;7;10;1;15;12;7;5;0;0;0;0;1.72;38;86;True
+Aston Villa;Man United;1;3;H;1;0;H;M Halsey;10;11;6;11;21;4;2;2;5;0;0;1.33;38;70;False
+Aston Villa;Fulham;1;1;D;0;0;D;C Foy;12;3;2;12;17;4;8;1;3;0;0;2.25;38;52;False
+Aston Villa;Arsenal;1;3;A;0;3;A;S Bennett;15;1;6;13;11;5;2;2;0;0;0;4.5;38;75;True
+Aston Villa;Portsmouth;2;1;A;1;1;D;D Gallagher;6;3;4;14;22;6;3;2;1;0;0;2.3;38;72;False
+Aston Villa;Everton;1;3;A;0;1;A;G Poll;15;6;9;22;17;3;7;3;0;0;0;2.25;38;47;True
+Aston Villa;Middlesbrough;2;0;H;0;0;D;R Styles;5;4;1;8;6;5;4;1;2;0;0;2.3;38;85;True
+Aston Villa;Birmingham;0;2;H;0;0;D;M Riley;5;4;4;12;20;2;3;3;3;0;0;2.3;38;63;False
+Aston Villa;Newcastle;3;0;A;0;1;A;B Knight;8;12;5;14;24;8;6;1;2;3;0;1.72;38;39;False
+Aston Villa;West Brom;1;1;D;1;0;H;R Styles;7;7;5;6;10;5;5;1;2;1;1;1.83;38;44;True
+Aston Villa;Southampton;3;2;A;2;0;H;A D'Urso;11;8;7;10;17;5;8;1;2;0;0;2.2;38;60;False
+Aston Villa;Charlton;0;0;D;0;0;D;B Knight;12;5;3;14;9;6;5;0;1;0;0;1.9;38;60;True
+Aston Villa;Bolton;1;1;D;1;0;H; U Rennie;12;10;6;17;13;7;5;0;2;0;0;2.37;38;51;True
+Aston Villa;Tottenham;1;5;H;3;1;H;M Clattenburg;4;14;3;13;17;9;3;1;2;0;0;1.9;38;64;False
+Aston Villa;Man City;1;2;A;0;2;A;R Beeby;10;8;4;8;18;6;2;1;1;0;0;2.37;38;79;True
+Aston Villa;Liverpool;1;2;H;2;0;H;B Knight;13;7;4;10;16;9;5;0;0;0;0;1.66;38;62;False
+Aston Villa;Bolton;2;2;D;2;2;D;M Riley;13;2;6;14;16;7;8;0;2;0;0;2.3;38;51;True
+Aston Villa;Man United;0;1;H;0;0;D;P Dowd;3;12;3;13;21;11;7;2;1;0;0;1.22;38;70;False
+Aston Villa;Portsmouth;1;1;D;1;1;D;G Poll;7;11;3;12;10;13;4;3;1;0;1;2.5;38;72;False
+Aston Villa;Blackburn;1;0;H;1;0;H;M Clattenburg;9;3;2;13;16;4;11;2;2;0;0;2.1;38;67;True
+Aston Villa;West Ham;0;4;H;2;0;H;R Styles;14;9;8;15;12;4;11;0;1;0;0;2.5;38;47;False
+Aston Villa;Tottenham;1;1;D;1;0;H;S Bennett;13;6;7;14;14;4;3;1;2;0;0;2.6;38;64;True
+Aston Villa;Chelsea;1;2;H;1;1;D;B Knight;3;6;2;8;17;9;1;1;1;0;0;1.22;38;87;False
+Aston Villa;Middlesbrough;2;3;A;0;1;A;M Dean;13;6;10;17;10;6;5;4;1;0;0;2.1;38;85;True
+Aston Villa;Birmingham;1;0;A;0;1;A;G Poll;4;5;1;13;19;11;5;2;2;0;0;2.37;38;63;False
+Aston Villa;Wigan;0;2;A;0;1;A;R Beeby;6;5;6;12;13;9;5;0;0;0;0;2;38;39;True
+Aston Villa;Man City;1;3;H;2;0;H;D Gallagher;11;5;5;17;10;2;6;1;1;0;0;1.83;38;79;False
+Aston Villa;Liverpool;0;2;A;0;0;D;S Bennett;10;2;6;16;11;3;5;2;2;0;0;3.2;38;62;True
+Aston Villa;Sunderland;3;1;A;0;0;D;C Foy;16;6;11;10;13;6;5;2;1;0;0;2.5;38;38;False
+Aston Villa;Charlton;1;0;H;0;0;D;M Clattenburg;5;10;3;9;12;10;3;2;2;0;0;2.25;38;60;True
+Aston Villa;Newcastle;1;1;D;1;0;H;A Wiley;9;2;6;17;15;6;4;1;2;0;0;1.72;38;39;False
+Aston Villa;Bolton;1;1;D;0;0;D;P Dowd;6;7;3;16;22;6;3;2;4;0;0;1.83;38;51;False
+Aston Villa;Man United;0;2;A;0;1;A;M Dean;17;7;10;19;16;2;6;1;0;0;0;5.5;38;70;True
+Aston Villa;Everton;4;0;H;1;0;H;M Riley;10;7;5;12;11;4;9;0;0;0;0;2.1;38;47;True
+Aston Villa;Fulham;3;3;D;2;1;H;A D'Urso;9;3;4;13;12;6;10;0;4;0;0;2.1;38;52;False
+Aston Villa;Arsenal;0;0;D;0;0;D;U Rennie;10;5;3;19;11;10;1;1;1;0;0;5.5;38;75;True
+Aston Villa;West Brom;2;1;A;0;0;D;R Styles;13;5;7;9;13;7;6;2;3;0;0;2.5;38;44;False
+Aston Villa;West Ham;1;2;A;1;0;H;P Dowd;10;8;7;15;21;4;10;1;3;0;0;2;38;47;True
+Aston Villa;Tottenham;0;0;D;0;0;D;G Poll;4;13;1;10;15;9;2;0;2;0;1;1.61;38;64;False
+Aston Villa;Chelsea;1;1;D;0;1;A;R Styles;11;2;5;6;15;5;4;1;3;0;0;7.5;38;87;True
+Aston Villa;Middlesbrough;4;0;A;0;2;A;L Mason;10;4;5;14;12;6;5;3;1;0;0;2.25;38;85;False
+Aston Villa;Newcastle;1;2;A;1;2;A;M Riley;9;7;6;23;20;11;7;4;2;0;1;2.2;38;39;True
+Aston Villa;Charlton;0;0;D;0;0;D;C Foy;11;6;7;9;9;1;8;0;1;0;0;2.1;38;60;False
+Aston Villa;Portsmouth;1;0;H;1;0;H;M Dean;11;8;6;15;14;16;10;1;1;0;0;1.72;38;72;True
+Aston Villa;Blackburn;0;2;H;0;0;D;D Gallagher;12;5;5;10;16;3;6;0;1;0;0;1.83;38;67;False
+Aston Villa;Everton;1;4;H;3;0;H;R Styles;9;7;7;6;11;4;9;1;3;0;0;1.8;38;47;False
+Aston Villa;Fulham;0;0;D;0;0;D;L Mason;9;6;3;11;8;8;4;0;0;0;0;2;38;52;True
+Aston Villa;Arsenal;0;5;H;2;0;H;M Atkinson;9;16;4;9;11;8;8;0;1;0;0;1.28;38;75;False
+Aston Villa;West Brom;0;0;D;0;0;D;M Halsey;7;3;4;15;10;6;10;1;2;0;0;1.9;38;44;True
+Aston Villa;Birmingham;3;1;H;1;1;D;G Poll;12;7;8;22;12;5;5;4;3;0;0;2.4;38;63;True
+Aston Villa;Wigan;2;3;H;1;0;H;P Walton;9;11;4;10;13;8;7;2;2;0;0;1.9;38;39;False
+Aston Villa;Man City;0;1;A;0;0;D;C Foy;15;5;6;12;9;4;9;1;1;0;0;2.1;38;79;True
+Aston Villa;Liverpool;1;3;H;1;0;H;M Halsey;7;9;3;7;11;6;5;0;0;0;0;1.36;38;62;False
+Aston Villa;Sunderland;2;1;H;1;0;H;M Dean;14;9;7;11;10;7;7;4;2;0;0;1.53;38;38;True
+Aston Villa;Arsenal;1;1;D;0;0;D;G Poll;5;11;3;10;19;18;1;1;2;0;0;1.28;38;75;False
+Aston Villa;Reading;2;1;H;1;1;D;L Mason;5;6;3;9;6;2;7;2;1;0;1;1.9;38;50;True
+Aston Villa;Newcastle;2;0;H;2;0;H;H Webb;8;7;5;14;12;2;3;2;2;0;0;2.37;38;39;True
+Aston Villa;West Ham;1;1;D;0;1;A;S Bennett;10;1;6;15;9;3;5;2;2;0;0;2.1;38;47;False
+Aston Villa;Watford;0;0;D;0;0;D;M Dean;9;5;4;12;10;7;1;1;0;0;0;2.75;38;69;False
+Aston Villa;Charlton;2;0;H;1;0;H;M Riley;8;5;3;10;14;4;4;0;1;0;0;1.8;38;60;True
+Aston Villa;Chelsea;1;1;D;1;1;D;G Poll;9;10;5;13;14;7;5;0;2;0;0;1.3;38;87;False
+Aston Villa;Tottenham;1;1;D;0;0;D;M Atkinson;10;6;5;13;11;2;2;0;1;0;1;2.25;38;64;True
+Aston Villa;Fulham;1;1;D;1;1;D;C Foy;5;1;2;12;13;4;1;0;2;0;0;1.72;38;52;True
+Aston Villa;Liverpool;1;3;H;3;0;H;S Bennett;7;6;5;11;17;8;4;0;1;0;0;1.53;38;62;False
+Aston Villa;Blackburn;2;0;H;1;0;H;H Webb;5;5;3;15;13;4;3;1;3;0;0;2;38;67;True
+Aston Villa;Everton;1;0;A;0;1;A;P Dowd;17;4;9;16;19;6;2;2;3;0;0;2;38;47;False
+Aston Villa;Wigan;0;0;D;0;0;D;S Bennett;7;5;3;6;11;6;6;1;0;0;0;2.37;38;39;False
+Aston Villa;Middlesbrough;1;1;D;1;1;D;P Walton;9;4;4;18;11;9;4;1;3;0;0;1.8;38;85;True
+Aston Villa;Man City;1;3;A;0;2;A;M Dean;11;4;8;15;11;1;5;1;0;0;0;1.83;38;79;True
+Aston Villa;Portsmouth;2;2;D;0;1;A;U Rennie;8;6;4;14;19;6;7;2;4;1;0;2.2;38;72;False
+Aston Villa;Sheffield United;2;2;D;0;1;A;M Halsey;7;10;5;11;16;10;4;2;1;0;0;2.62;38;60;False
+Aston Villa;Bolton;0;1;A;0;0;D;M Clattenburg;7;9;3;16;19;8;2;0;4;0;0;2.4;38;51;True
+Aston Villa;Man United;0;3;A;0;0;D;S Bennett;14;3;10;12;11;6;8;2;2;0;0;5.5;38;70;True
+Aston Villa;Tottenham;1;2;H;0;0;D;U Rennie;9;10;7;12;14;4;4;1;2;0;0;1.8;38;64;False
+Aston Villa;Charlton;1;2;H;0;1;A;R Styles;6;8;2;10;10;7;4;2;1;0;1;2.6;38;60;False
+Aston Villa;Chelsea;0;0;D;0;0;D;P Dowd;22;2;12;7;13;5;8;1;3;0;0;6.5;38;87;True
+Aston Villa;Man United;1;3;H;3;0;H;H Webb;7;17;5;8;15;8;4;1;1;0;0;1.25;38;70;False
+Aston Villa;Watford;2;0;H;0;0;D;P Walton;11;6;6;11;20;7;6;2;0;0;0;1.57;38;69;True
+Aston Villa;Newcastle;1;3;H;2;1;H;H Webb;14;4;9;15;15;3;7;1;1;0;0;2.1;38;39;False
+Aston Villa;West Ham;1;0;H;1;0;H;C Foy;7;6;2;13;21;9;6;0;1;0;0;1.83;38;47;True
+Aston Villa;Reading;0;2;H;1;0;H;M Clattenburg;17;9;7;13;11;12;8;2;1;0;0;2.1;38;50;False
+Aston Villa;Fulham;1;1;D;1;1;D;L Mason;9;7;4;10;21;5;8;0;2;0;0;2.37;38;52;False
+Aston Villa;Arsenal;0;1;A;0;1;A;M Atkinson;10;6;5;12;14;6;4;1;1;0;0;3.6;38;75;True
+Aston Villa;Liverpool;0;0;D;0;0;D;L Mason;7;3;3;11;12;2;6;2;3;0;0;4;38;62;True
+Aston Villa;Everton;1;1;D;0;1;A;H Webb;18;10;8;18;16;5;6;3;3;0;0;2.37;38;47;True
+Aston Villa;Blackburn;2;1;A;1;1;D;M Atkinson;9;3;7;17;12;4;10;2;1;0;0;2;38;67;False
+Aston Villa;Wigan;1;1;D;0;1;A;M Halsey;2;7;1;11;11;13;1;2;3;0;1;1.9;38;39;True
+Aston Villa;Middlesbrough;3;1;A;1;1;D;D Gallagher;9;5;7;20;8;2;4;2;1;0;0;2.1;38;85;False
+Aston Villa;Portsmouth;0;0;D;0;0;D;M Atkinson;5;8;2;10;20;15;3;0;1;0;0;2.2;38;72;True
+Aston Villa;Man City;2;0;A;0;1;A;M Halsey;15;7;7;14;8;5;6;1;0;0;0;2.3;38;79;False
+Aston Villa;Sheffield United;3;0;H;2;0;H;P Walton;9;11;2;14;14;13;5;2;2;0;0;1.9;38;60;True
+Aston Villa;Bolton;2;2;D;1;1;D;M Clattenburg;8;2;3;10;11;7;6;2;1;0;0;1.86;38;51;False
+Aston Villa;Liverpool;1;2;A;0;1;A;M Riley;17;6;7;18;11;4;2;4;2;0;0;4;38;62;True
+Aston Villa;Newcastle;0;0;D;0;0;D;H Webb;11;2;5;16;12;8;6;0;2;0;0;1.83;38;39;False
+Aston Villa;Fulham;2;1;H;0;1;A;S Bennett;10;4;5;11;13;12;3;1;2;0;1;1.8;38;52;True
+Aston Villa;Chelsea;2;0;H;0;0;D;M Clattenburg;20;5;8;17;11;2;13;4;1;0;0;5.5;38;87;True
+Aston Villa;Man City;0;1;H;0;0;D;M Atkinson;11;8;2;11;14;8;6;1;1;0;0;2.37;38;79;False
+Aston Villa;Everton;2;0;H;1;0;H;L Probert;8;3;6;17;12;6;3;1;0;0;0;2.25;38;47;True
+Aston Villa;Tottenham;4;4;D;1;3;A;M Dean;7;12;7;10;13;13;3;2;3;0;0;1.9;38;64;False
+Aston Villa;West Ham;1;0;H;1;0;H;S Tanner;8;5;3;17;12;7;4;3;2;0;0;1.83;38;47;True
+Aston Villa;Man United;1;4;A;1;3;A;R Styles;21;5;13;8;8;3;9;2;2;2;0;4.5;38;70;True
+Aston Villa;Bolton;1;1;D;1;0;H;M Atkinson;8;6;3;15;13;7;3;2;1;0;0;2.7;38;51;False
+Aston Villa;Derby;2;0;H;0;0;D;M Halsey;8;7;2;7;20;7;4;0;3;0;0;1.4;38;77;True
+Aston Villa;Birmingham;2;1;A;0;1;A;S Bennett;13;8;6;17;8;8;5;3;2;0;0;2.7;38;63;False
+Aston Villa;Middlesbrough;3;0;A;0;1;A;K Stroud;11;8;8;16;17;11;6;2;1;0;0;2.75;38;85;False
+Aston Villa;Blackburn;4;0;A;0;1;A;P Dowd;7;10;7;11;16;11;2;0;1;1;0;2.2;38;67;False
+Aston Villa;Arsenal;1;2;A;1;2;A;C Foy;14;5;9;16;10;4;7;3;2;0;0;4;38;75;True
+Aston Villa;Portsmouth;1;3;A;0;2;A;M Riley;12;6;8;18;23;7;5;2;5;0;0;2.1;38;72;True
+Aston Villa;Sunderland;1;1;D;1;0;H;S Bennett;14;7;11;17;14;5;13;2;2;0;0;3.25;38;38;False
+Aston Villa;Man City;1;1;D;1;1;D;L Mason;6;6;2;15;15;7;4;2;4;0;0;2.1;38;79;True
+Aston Villa;Chelsea;4;4;D;1;2;A;P Dowd;9;8;4;7;11;3;7;3;2;2;1;1.4;38;87;False
+Aston Villa;Wigan;2;1;A;1;0;H;H Webb;5;3;4;18;9;6;5;1;1;0;0;3.25;38;39;False
+Aston Villa;Tottenham;2;1;H;1;0;H;S Tanner;9;4;6;5;16;8;2;0;3;0;0;2.37;38;64;True
+Aston Villa;Reading;3;1;H;1;0;H;U Rennie;6;8;3;15;11;13;7;0;2;0;0;1.61;38;50;True
+Aston Villa;Liverpool;2;2;D;1;0;H;M Clattenburg;4;7;3;11;15;8;2;2;2;0;0;1.61;38;62;False
+Aston Villa;Blackburn;1;1;D;0;0;D;H Webb;9;3;4;14;15;2;7;0;2;0;0;1.9;38;67;True
+Aston Villa;Fulham;1;2;H;0;0;D;C Foy;11;8;6;9;13;3;10;1;2;0;0;3.25;38;52;False
+Aston Villa;Newcastle;4;1;H;0;1;A;L Mason;5;8;3;19;11;7;5;2;1;0;0;1.83;38;39;True
+Aston Villa;Reading;2;1;A;0;1;A;M Atkinson;19;6;11;10;15;11;7;2;1;0;0;3.1;38;50;False
+Aston Villa;Arsenal;1;1;D;0;1;A;M Clattenburg;5;7;4;8;13;8;7;1;2;0;0;1.57;38;75;False
+Aston Villa;Middlesbrough;1;1;D;0;1;A;S Bennett;10;3;2;15;21;4;4;0;4;0;0;1.61;38;85;True
+Aston Villa;Portsmouth;0;2;H;2;0;H;C Foy;16;5;10;17;13;3;6;3;1;1;1;2.37;38;72;False
+Aston Villa;Sunderland;0;1;A;0;0;D;H Webb;12;3;3;9;11;4;4;0;2;0;0;1.57;38;38;True
+Aston Villa;Man United;0;4;H;2;0;H;M Halsey;13;7;6;7;5;4;7;1;1;0;0;1.3;38;70;False
+Aston Villa;Bolton;4;0;H;1;0;H;M Atkinson;6;6;3;15;9;5;4;2;1;0;0;1.66;38;51;True
+Aston Villa;Derby;6;0;A;0;3;A;K Stroud;16;5;12;15;15;3;2;0;0;0;0;6;38;77;False
+Aston Villa;Birmingham;5;1;H;2;0;H;M Clattenburg;11;9;6;11;20;7;8;0;1;0;0;1.8;38;63;True
+Aston Villa;Everton;2;2;D;0;0;D;P Dowd;6;7;3;10;17;9;6;3;3;0;0;2.25;38;47;False
+Aston Villa;Wigan;0;2;A;0;0;D;R Styles;9;5;5;7;8;8;2;0;1;0;0;1.53;38;39;True
+Aston Villa;West Ham;2;2;D;1;1;D;M Dean;13;8;8;9;21;7;8;2;2;0;0;3.2;38;47;False
+Aston Villa;Man City;4;2;H;0;0;D;P Dowd;13;10;8;8;11;7;8;0;1;0;0;1.91;38;79;True
+Aston Villa;Stoke;2;3;H;1;0;H;M Halsey;5;2;2;15;5;2;8;1;0;0;0;5;38;54;False
+Aston Villa;Liverpool;0;0;D;0;0;D;M Atkinson;8;2;3;9;13;5;8;0;2;0;0;3;38;62;True
+Aston Villa;Tottenham;2;1;A;0;1;A;S Bennett;17;10;13;15;12;12;8;1;4;0;0;2.1;38;64;False
+Aston Villa;West Brom;2;1;A;1;2;A;M Dean;10;6;5;22;16;5;6;3;3;0;0;3.25;38;44;False
+Aston Villa;Sunderland;2;1;H;2;1;H;P Walton;9;8;3;8;9;5;5;1;1;0;0;1.57;38;38;True
+Aston Villa;Chelsea;0;2;H;2;0;H;C Foy;8;15;3;11;13;7;1;0;3;0;0;1.5;38;87;False
+Aston Villa;Portsmouth;0;0;D;0;0;D;M Riley;8;3;3;18;19;11;2;1;3;0;1;1.83;38;72;True
+Aston Villa;Wigan;4;0;A;0;1;A;M Jones;9;5;7;14;8;9;4;1;2;0;0;2.6;38;39;False
+Aston Villa;Blackburn;3;2;H;1;1;D;K Stroud;11;4;5;5;17;4;5;0;1;0;0;1.67;38;67;True
+Aston Villa;Newcastle;0;2;H;0;0;D;S Bennett;6;7;1;13;21;2;6;4;3;0;0;3;38;39;False
+Aston Villa;Middlesbrough;1;2;A;1;1;D;R Styles;15;9;8;13;5;7;4;2;2;0;0;1.7;38;85;True
+Aston Villa;Arsenal;2;0;A;0;0;D;M Riley;9;8;6;9;22;8;5;2;4;0;0;1.5;38;75;False
+Aston Villa;Man United;0;0;D;0;0;D;C Foy;12;7;7;12;15;3;6;1;0;0;0;5;38;70;True
+Aston Villa;Fulham;0;0;D;0;0;D;M Jones;5;4;2;9;16;11;4;0;2;0;0;1.57;38;52;True
+Aston Villa;Everton;3;2;A;1;1;D;M Atkinson;5;7;5;18;16;10;6;2;1;0;0;2.62;38;47;False
+Aston Villa;Bolton;4;2;H;2;1;H;L Probert;9;7;5;7;16;10;3;0;1;0;0;1.67;38;51;True
+Aston Villa;West Ham;1;0;A;0;0;D;M Halsey;10;13;4;7;10;7;6;2;1;0;0;3;38;47;False
+Aston Villa;Arsenal;2;2;D;0;1;A;L Mason;8;9;6;10;10;7;6;4;4;0;0;2.5;38;75;True
+Aston Villa;Hull;1;0;A;0;0;D;S Bennett;7;3;3;11;8;9;5;1;2;0;0;4.33;38;35;False
+Aston Villa;West Brom;2;1;H;2;0;H;S Bennett;9;13;6;12;17;10;7;1;1;0;0;1.4;38;44;True
+Aston Villa;Sunderland;2;1;A;1;0;H;M Dean;4;6;3;14;17;8;6;4;2;0;1;3.25;38;38;False
+Aston Villa;Portsmouth;1;0;A;0;1;A;P Walton;9;8;2;9;10;17;5;2;2;1;0;3.25;38;72;False
+Aston Villa;Wigan;0;0;D;0;0;D;R Styles;9;11;4;13;10;6;2;1;1;0;0;1.61;38;39;True
+Aston Villa;Blackburn;2;0;A;0;1;A;S Bennett;15;8;8;11;9;4;13;2;0;0;0;2.87;38;67;False
+Aston Villa;Chelsea;0;1;A;0;1;A;M Halsey;18;5;12;9;12;6;11;1;3;0;0;3.3;38;87;True
+Aston Villa;Stoke;2;2;D;1;0;H;H Webb;7;7;3;7;12;6;6;1;1;0;0;1.4;38;54;True
+Aston Villa;Man City;0;2;H;1;0;H;C Foy;7;7;5;7;11;6;5;1;2;0;0;2.5;38;79;False
+Aston Villa;Tottenham;1;2;A;0;1;A;S Bennett;10;5;9;12;9;9;5;1;3;0;0;2;38;64;True
+Aston Villa;Liverpool;0;5;H;3;0;H;M Atkinson;6;7;4;10;13;4;6;1;3;0;1;1.44;38;62;False
+Aston Villa;Man United;2;3;H;1;1;D;M Riley;8;9;8;11;15;8;4;1;2;0;0;1.4;38;70;False
+Aston Villa;Everton;3;3;D;1;2;A;H Webb;10;8;6;9;15;11;7;0;2;0;0;2.2;38;47;True
+Aston Villa;West Ham;1;1;D;1;0;H;R Styles;18;7;9;9;10;12;11;2;3;0;0;1.67;38;47;True
+Aston Villa;Bolton;1;1;D;0;1;A;L Probert;14;6;6;12;9;4;5;0;1;0;0;3.1;38;51;False
+Aston Villa;Hull;1;0;H;1;0;H;M Dean;9;8;5;13;10;13;7;0;2;0;0;1.53;38;35;True
+Aston Villa;Fulham;1;3;H;1;1;D;M Halsey;7;11;2;10;9;7;5;1;0;0;0;2.62;38;52;False
+Aston Villa;Middlesbrough;1;1;D;1;0;H;M Riley;8;6;6;11;16;6;8;0;2;0;0;2.5;38;85;False
+Aston Villa;Newcastle;1;0;H;1;0;H;C Foy;8;5;3;8;10;5;3;0;2;0;1;2.3;38;39;True
+Aston Villa;Wigan;0;2;A;0;1;A;M Clattenburg;14;5;7;15;14;4;6;2;2;0;0;1.67;38;39;True
+Aston Villa;Liverpool;3;1;A;0;2;A;M Atkinson;7;12;4;15;11;10;4;3;2;0;0;1.44;38;62;False
+Aston Villa;Fulham;2;0;H;1;0;H;S Bennett;6;4;3;9;9;9;4;1;2;0;0;1.73;38;52;True
+Aston Villa;Birmingham;1;0;A;0;0;D;H Webb;12;7;5;10;20;7;1;1;2;0;0;3.4;38;63;False
+Aston Villa;Portsmouth;2;0;H;2;0;H;S Attwell;17;5;12;17;12;7;5;2;0;0;0;1.4;38;72;True
+Aston Villa;Blackburn;1;2;H;1;1;D;M Clattenburg;10;7;5;14;11;6;5;2;3;1;0;3.1;38;67;False
+Aston Villa;Man City;1;1;D;1;0;H;M Dean;9;6;7;10;8;6;6;1;2;0;0;2.75;38;79;True
+Aston Villa;Chelsea;2;1;H;1;1;D;K Friend;21;5;13;19;13;6;9;2;1;0;0;4.5;38;87;True
+Aston Villa;Wolves;1;1;D;0;0;D;P Walton;12;4;8;10;16;8;3;1;2;0;0;3.5;38;78;False
+Aston Villa;Everton;1;1;D;1;0;H;L Probert;13;4;8;15;16;3;4;1;3;1;1;2.5;38;47;False
+Aston Villa;West Ham;1;2;H;1;0;H;S Bennett;13;7;10;11;12;6;14;2;4;0;1;2.75;38;47;False
+Aston Villa;Bolton;5;1;H;2;1;H;M Clattenburg;13;13;9;17;16;8;1;1;4;0;0;1.8;38;51;True
+Aston Villa;Burnley;1;1;D;1;0;H;H Webb;10;6;6;6;12;6;8;0;3;0;0;3.4;38;33;False
+Aston Villa;Tottenham;1;1;D;1;0;H;P Dowd;23;4;17;10;8;7;9;0;1;0;0;2.5;38;64;True
+Aston Villa;Hull;3;0;H;2;0;H;S Attwell;5;6;1;15;15;9;3;4;3;0;0;1.44;38;35;True
+Aston Villa;Man United;1;0;A;0;1;A;M Atkinson;8;9;5;4;14;9;4;1;1;0;0;1.5;38;70;False
+Aston Villa;Sunderland;2;0;A;0;1;A;K Friend;11;5;4;16;14;7;1;2;2;1;0;2.88;38;38;False
+Aston Villa;Stoke;1;0;H;0;0;D;L Probert;13;8;5;9;12;3;4;0;1;0;0;1.4;38;54;True
+Aston Villa;Arsenal;0;3;H;0;0;D;P Dowd;7;12;3;14;18;10;4;1;3;0;0;1.73;38;75;False
+Aston Villa;Liverpool;0;1;A;0;0;D;L Probert;12;7;9;13;11;8;10;1;1;0;0;2.8;38;62;True
+Aston Villa;West Ham;0;0;D;0;0;D;M Jones;8;10;3;7;12;16;4;1;3;0;0;1.53;38;47;True
+Aston Villa;Arsenal;0;0;D;0;0;D;L Probert;12;2;8;16;15;7;7;2;2;0;0;3.2;38;75;True
+Aston Villa;Fulham;2;0;A;0;2;A;L Mason;9;8;6;10;15;9;3;0;2;0;0;2.7;38;52;False
+Aston Villa;Tottenham;0;0;D;0;0;D;C Foy;10;15;5;10;13;12;4;0;0;0;0;2.1;38;64;False
+Aston Villa;Man United;1;1;D;1;1;D;P Walton;12;6;6;9;10;1;7;0;1;0;1;4.2;38;70;True
+Aston Villa;Burnley;5;2;H;1;1;D;S Attwell;13;8;10;5;12;9;5;0;3;0;0;1.36;38;33;True
+Aston Villa;Stoke;0;0;D;0;0;D;K Friend;10;6;5;6;6;8;6;0;4;0;0;3.3;38;54;False
+Aston Villa;Wigan;2;1;A;1;1;D;S Bennett;18;6;10;10;14;7;8;2;1;0;0;3.6;38;39;False
+Aston Villa;Wolves;2;2;D;1;2;A;M Clattenburg;7;3;4;10;12;7;5;1;2;0;0;1.4;38;78;True
+Aston Villa;Sunderland;1;1;D;1;1;D;M Dean;10;4;5;5;7;6;7;0;0;0;0;1.53;38;38;True
+Aston Villa;Chelsea;1;7;H;2;1;H;P Walton;7;11;5;12;5;8;6;3;2;0;0;1.4;38;87;False
+Aston Villa;Bolton;1;0;A;0;1;A;M Jones;13;10;9;13;14;6;8;2;0;0;0;2.88;38;51;False
+Aston Villa;Everton;2;2;D;0;1;A;M Atkinson;13;7;10;11;9;7;6;2;2;0;0;2.25;38;47;True
+Aston Villa;Portsmouth;2;1;A;1;1;D;L Probert;12;12;9;5;10;7;6;0;0;0;0;5.5;38;72;False
+Aston Villa;Hull;2;0;A;0;1;A;M Dean;11;10;5;8;7;11;9;2;2;0;0;3.5;38;35;False
+Aston Villa;Birmingham;1;0;H;0;0;D;M Atkinson;16;6;14;12;16;7;5;1;4;0;0;1.62;38;63;True
+Aston Villa;Man City;1;3;H;2;1;H;M Clattenburg;10;12;6;6;9;13;5;1;2;0;0;1.83;38;79;False
+Aston Villa;Blackburn;0;1;A;0;0;D;S Bennett;9;12;3;14;12;11;5;2;1;0;0;1.57;38;67;True
+Aston Villa;West Ham;3;0;H;2;0;H;M Dean;12;11;2;15;15;16;7;1;2;0;0;2;38;47;True
+Aston Villa;Newcastle;0;6;H;3;0;H;M Atkinson;3;14;1;15;12;10;2;3;1;0;0;3.2;38;39;False
+Aston Villa;Everton;1;0;H;1;0;H;M Jones;15;6;9;19;10;4;16;4;0;0;0;2.5;38;47;True
+Aston Villa;Stoke;1;2;H;0;1;A;L Probert;10;12;6;11;14;8;7;1;2;0;0;2.5;38;54;False
+Aston Villa;Bolton;1;1;D;1;1;D;M Dean;13;6;7;15;8;8;4;1;2;0;0;1.8;38;51;True
+Aston Villa;Wolves;2;1;A;0;1;A;M Halsey;10;12;8;15;19;5;4;1;2;0;0;2.88;38;78;False
+Aston Villa;Tottenham;1;2;H;1;1;D;M Clattenburg;13;10;4;12;19;10;4;1;3;0;0;1.91;38;64;False
+Aston Villa;Chelsea;0;0;D;0;0;D;L Mason;13;5;6;11;11;9;5;4;3;0;0;5;38;87;True
+Aston Villa;Sunderland;0;1;H;1;0;H;M Halsey;11;6;7;11;13;4;11;1;2;0;0;2.4;38;38;False
+Aston Villa;Birmingham;0;0;D;0;0;D;H Webb;10;3;6;13;11;1;4;2;3;0;0;1.8;38;63;True
+Aston Villa;Fulham;1;1;D;0;1;A;P Walton;15;10;8;12;4;3;3;1;0;0;0;2.2;38;52;False
+Aston Villa;Blackpool;3;2;H;1;1;D;A Taylor;12;12;6;7;10;11;8;2;3;0;0;1.62;38;26;True
+Aston Villa;Man United;2;2;D;0;0;D;M Dean;16;6;10;11;9;9;7;3;4;0;0;4.5;38;70;True
+Aston Villa;Blackburn;0;2;H;1;0;H;M Oliver;16;5;11;15;10;5;8;0;1;0;0;2.3;38;67;False
+Aston Villa;Arsenal;2;4;A;0;2;A;M Clattenburg;17;4;10;10;7;3;8;1;1;0;0;3.4;38;75;True
+Aston Villa;Liverpool;0;3;H;2;0;H;P Dowd;5;7;2;12;13;4;3;0;1;0;0;1.62;38;62;False
+Aston Villa;West Brom;2;1;H;1;0;H;M Halsey;11;3;4;8;14;6;13;0;2;0;0;2.1;38;44;True
+Aston Villa;Tottenham;1;2;A;0;1;A;M Atkinson;13;15;8;13;11;8;4;3;3;0;1;3.2;38;64;True
+Aston Villa;Man City;0;4;H;3;0;H;M Oliver;9;8;4;14;12;8;6;1;2;0;0;1.44;38;79;False
+Aston Villa;Chelsea;3;3;D;1;1;D;L Mason;16;10;10;17;11;9;6;2;7;0;0;1.25;38;87;False
+Aston Villa;Sunderland;0;1;A;0;0;D;P Walton;11;2;5;9;12;5;9;3;3;1;1;2.2;38;38;True
+Aston Villa;Birmingham;1;1;D;0;0;D;M Clattenburg;13;4;3;14;14;5;7;1;2;0;0;2.4;38;63;False
+Aston Villa;Man City;1;0;H;1;0;H;H Webb;24;8;14;11;11;2;13;1;1;0;0;3.5;38;79;True
+Aston Villa;Wigan;2;1;A;0;0;D;J Moss;11;8;10;9;13;7;4;2;3;0;0;3.2;38;39;False
+Aston Villa;Man United;1;3;H;2;0;H;C Foy;9;11;5;6;6;5;5;0;0;0;0;1.33;38;70;False
+Aston Villa;Fulham;2;2;D;1;0;H;L Mason;13;5;9;15;11;3;6;3;2;0;0;1.91;38;52;True
+Aston Villa;Blackpool;1;1;D;1;1;D;H Webb;7;5;4;13;14;4;8;2;1;0;1;3.25;38;26;False
+Aston Villa;Blackburn;4;1;H;0;0;D;M Atkinson;5;10;2;4;12;10;2;0;3;0;1;1.73;38;67;True
+Aston Villa;Bolton;2;3;H;1;1;D;K Friend;10;9;6;18;11;8;5;5;2;0;0;2.25;38;51;False
+Aston Villa;Wolves;0;1;A;0;1;A;P Dowd;8;5;5;15;19;8;3;1;3;0;0;1.83;38;78;True
+Aston Villa;Everton;2;2;D;1;0;H;M Jones;7;7;5;13;16;5;7;3;2;0;0;1.83;38;47;False
+Aston Villa;Newcastle;1;0;H;1;0;H;S Attwell;6;7;4;8;10;9;2;2;2;0;0;1.83;38;39;True
+Aston Villa;West Ham;2;1;A;1;1;D;M Halsey;21;7;11;8;3;5;11;0;0;0;0;2.25;38;47;False
+Aston Villa;Stoke;1;1;D;1;1;D;C Foy;4;2;3;9;9;7;8;0;3;0;0;1.8;38;54;True
+Aston Villa;West Brom;1;2;H;0;1;A;P Dowd;11;4;6;12;12;3;7;3;1;1;0;2.38;38;44;False
+Aston Villa;Wigan;1;1;D;1;1;D;M Jones;7;7;4;6;11;2;5;2;0;0;0;1.8;38;39;True
+Aston Villa;Arsenal;2;1;A;0;2;A;M Oliver;8;15;5;9;10;13;2;1;4;0;0;1.36;38;75;False
+Aston Villa;Liverpool;1;0;H;1;0;H;L Probert;9;8;4;12;12;4;5;2;2;0;0;3.2;38;62;True
+Aston Villa;Fulham;0;0;D;0;0;D;L Mason;7;9;1;10;18;2;3;2;4;0;0;2.2;38;52;False
+Aston Villa;Blackburn;3;1;H;2;0;H;S Attwell;10;6;6;9;13;5;4;3;0;0;0;1.73;38;67;True
+Aston Villa;Wolves;0;0;D;0;0;D;M Atkinson;3;5;2;10;9;11;8;1;3;0;0;2.1;38;78;True
+Aston Villa;Everton;2;2;D;1;0;H;M Oliver;7;10;3;13;11;8;0;1;1;0;0;2;38;47;False
+Aston Villa;Newcastle;1;1;D;1;0;H;N Swarbrick;21;2;13;13;10;4;9;1;1;0;0;1.91;38;39;True
+Aston Villa;QPR;1;1;D;0;0;D;M Oliver;8;9;4;14;19;11;8;1;6;1;0;2.3;38;30;False
+Aston Villa;Wigan;2;0;H;1;0;H;M Clattenburg;14;10;9;12;6;5;10;0;1;0;0;1.62;38;39;True
+Aston Villa;Man City;1;4;H;1;0;H;A Taylor;8;10;6;10;6;5;1;1;1;0;0;1.33;38;79;False
+Aston Villa;West Brom;1;2;A;1;1;D;P Dowd;8;0;5;11;8;3;8;2;3;1;0;2;38;44;True
+Aston Villa;Sunderland;2;2;D;1;1;D;C Foy;10;8;5;7;13;5;6;1;3;0;0;2.1;38;38;False
+Aston Villa;Norwich;3;2;H;1;1;D;K Friend;9;6;7;11;9;6;6;1;5;0;0;1.83;38;86;True
+Aston Villa;Tottenham;0;2;H;2;0;H;M Halsey;5;9;1;4;5;11;3;0;2;0;0;1.57;38;64;False
+Aston Villa;Swansea;0;0;D;0;0;D;N Swarbrick;9;2;4;9;17;4;6;3;4;0;0;2.2;38;56;False
+Aston Villa;Man United;0;1;A;0;1;A;L Probert;11;3;5;4;11;5;5;0;0;0;0;5;38;70;True
+Aston Villa;Bolton;2;1;A;0;2;A;P Dowd;17;12;11;10;7;6;10;1;2;0;0;2.5;38;51;False
+Aston Villa;Liverpool;0;2;A;0;2;A;P Walton;19;8;12;5;14;4;10;1;2;0;0;4.2;38;62;True
+Aston Villa;Arsenal;1;2;A;0;1;A;J Moss;8;4;6;10;8;7;15;2;3;1;0;5;38;75;True
+Aston Villa;Stoke;0;0;D;0;0;D;M Clattenburg;10;2;4;13;10;7;7;3;0;0;0;1.91;38;54;False
+Aston Villa;Chelsea;3;1;A;1;1;D;M Halsey;12;5;9;7;13;9;2;1;1;0;0;1.29;38;87;False
+Aston Villa;Swansea;0;2;A;0;1;A;A Taylor;8;2;4;11;6;14;0;2;4;0;0;1.83;38;56;True
+Aston Villa;Everton;1;1;D;0;0;D;M Clattenburg;7;11;4;12;11;9;3;1;1;0;0;2.4;38;47;True
+Aston Villa;Wolves;3;2;A;2;1;H;M Oliver;11;9;5;11;8;12;3;1;0;1;0;2.5;38;78;False
+Aston Villa;QPR;2;2;D;1;2;A;N Swarbrick;3;15;3;3;12;9;3;0;1;0;0;1.8;38;30;True
+Aston Villa;Newcastle;1;2;H;1;1;D;M Halsey;13;8;8;6;11;4;4;1;2;0;0;2;38;39;False
+Aston Villa;Man City;0;1;A;0;0;D;M Oliver;17;5;10;15;5;5;8;3;0;0;0;5.5;38;79;True
+Aston Villa;Wigan;0;0;D;0;0;D;K Friend;10;6;3;8;8;14;7;0;4;0;0;2.75;38;39;False
+Aston Villa;Blackburn;1;1;D;0;1;A;H Webb;17;9;12;9;5;4;8;1;0;0;0;2.38;38;67;False
+Aston Villa;Fulham;1;0;H;0;0;D;J Moss;5;8;1;9;11;10;4;2;0;0;0;2.5;38;52;True
+Aston Villa;Arsenal;0;3;H;2;0;H;P Dowd;3;12;2;6;13;15;5;0;5;0;0;1.33;38;75;False
+Aston Villa;Chelsea;2;4;A;0;1;A;L Mason;12;5;9;13;5;6;4;1;0;0;0;4.5;38;87;True
+Aston Villa;Liverpool;1;1;D;0;1;A;M Oliver;5;5;3;4;9;11;3;1;1;0;0;1.44;38;62;False
+Aston Villa;Stoke;1;1;D;1;0;H;M Dean;7;3;3;9;9;5;4;3;0;0;0;2.2;38;54;True
+Aston Villa;Man United;0;4;H;2;0;H;M Halsey;10;16;4;9;7;11;4;3;3;0;0;1.22;38;70;False
+Aston Villa;Sunderland;0;0;D;0;0;D;A Taylor;10;7;5;11;8;8;5;0;2;0;1;2.3;38;38;True
+Aston Villa;Bolton;1;2;A;0;0;D;C Foy;12;6;11;9;16;9;6;1;2;0;0;1.91;38;51;True
+Aston Villa;West Brom;0;0;D;0;0;D;M Clattenburg;8;7;5;14;16;10;3;0;4;0;0;2.1;38;44;False
+Aston Villa;Tottenham;1;1;D;1;0;H;L Probert;21;2;10;10;8;4;19;1;2;0;1;4.2;38;64;True
+Aston Villa;Norwich;0;2;H;2;0;H;M Atkinson;9;12;5;6;10;9;6;1;2;0;0;2.2;38;86;False
+Aston Villa;West Ham;0;1;H;1;0;H;8;4;6;17;8;6;4;0;1;0;0;2.2;3.3;38;47;False
+Aston Villa;Everton;1;3;A;0;3;A;7;3;11;10;7;1;9;1;0;1;0;2.9;3.4;38;47;True
+Aston Villa;Newcastle;1;1;D;0;1;A;16;6;9;6;20;10;6;1;4;0;0;1.62;3.75;38;39;False
+Aston Villa;Swansea;2;0;H;1;0;H;17;13;5;11;4;11;5;3;1;0;0;2.38;3.25;38;56;True
+Aston Villa;Southampton;1;4;H;0;1;A;12;4;2;5;13;1;4;1;3;0;0;2.4;3.3;38;60;False
+Aston Villa;West Brom;1;1;D;0;0;D;19;8;7;9;11;11;4;1;1;0;0;2.4;3.3;38;44;True
+Aston Villa;Tottenham;0;2;H;0;0;D;23;10;5;7;10;8;0;1;3;0;0;1.44;4.33;38;64;False
+Aston Villa;Fulham;0;1;H;0;0;D;17;8;4;7;11;6;4;1;2;0;0;1.8;3.6;38;52;False
+Aston Villa;Norwich;1;1;D;1;0;H;7;5;6;12;7;3;8;2;0;1;0;2;3.5;38;86;True
+Aston Villa;Sunderland;1;0;A;0;0;D;11;1;6;10;17;6;7;2;3;0;0;2.1;3.3;38;38;False
+Aston Villa;Man United;2;3;A;1;0;H;10;7;7;12;7;5;6;1;1;0;0;7;4.5;38;70;True
+Aston Villa;Man City;0;5;H;1;0;H;21;8;8;9;4;9;4;0;1;0;0;1.2;6.5;38;79;False
+Aston Villa;Arsenal;0;0;D;0;0;D;10;8;6;6;9;7;6;1;0;0;0;4.75;3.75;38;75;True
+Aston Villa;Reading;1;0;H;0;0;D;15;7;6;10;5;8;3;1;0;0;0;1.95;3.4;38;50;True
+Aston Villa;QPR;1;1;D;1;1;D;17;12;3;5;6;11;4;1;2;0;0;1.95;3.5;38;30;False
+Aston Villa;Stoke;0;0;D;0;0;D;9;5;0;8;13;3;2;0;1;0;1;2.4;3.2;38;54;True
+Aston Villa;Liverpool;3;1;A;0;2;A;26;17;6;4;11;7;2;1;2;0;0;1.36;4.75;38;62;False
+Aston Villa;Chelsea;0;8;H;3;0;H;24;18;4;6;11;8;4;0;0;0;0;1.33;5.5;38;87;False
+Aston Villa;Tottenham;0;4;A;0;0;D;4;1;16;11;7;2;16;1;0;0;0;3.75;3.5;38;64;True
+Aston Villa;Wigan;0;3;A;0;1;A;11;4;6;16;8;4;3;3;2;0;0;2.4;3.25;38;39;True
+Aston Villa;Swansea;2;2;D;1;1;D;23;13;6;7;15;3;2;0;4;0;0;1.57;4;38;56;False
+Aston Villa;Southampton;0;1;A;0;1;A;16;10;4;9;6;9;5;1;1;0;0;2.55;3.5;38;60;True
+Aston Villa;West Brom;2;2;D;0;2;A;25;9;7;8;10;8;8;3;3;0;0;1.75;4;38;44;False
+Aston Villa;Newcastle;1;2;A;0;2;A;10;4;7;16;9;3;4;5;2;0;0;2.9;3.4;38;39;True
+Aston Villa;Everton;3;3;D;1;2;A;22;13;4;6;23;15;2;1;4;0;0;1.4;5;38;47;False
+Aston Villa;West Ham;2;1;H;0;0;D;7;2;7;15;12;4;10;3;2;0;0;2.63;3.4;38;47;True
+Aston Villa;Arsenal;1;2;H;1;0;H;24;14;3;7;12;12;3;1;2;0;0;1.33;5.5;38;75;False
+Aston Villa;Man City;0;1;A;0;1;A;10;5;12;10;14;6;5;2;0;0;0;7.5;4.5;38;79;True
+Aston Villa;Reading;2;1;A;1;2;A;10;4;7;8;7;6;1;2;3;0;0;2.45;3.4;38;50;False
+Aston Villa;QPR;3;2;H;1;1;D;10;6;11;16;10;9;6;3;2;0;0;2.3;3.4;38;30;True
+Aston Villa;Liverpool;1;2;A;1;0;H;10;7;12;9;8;7;8;1;1;0;0;5;4;38;62;True
+Aston Villa;Stoke;3;1;A;0;1;A;6;2;8;16;11;4;2;3;1;0;0;2.1;3.4;38;54;False
+Aston Villa;Fulham;1;1;D;0;0;D;15;7;3;5;15;8;5;1;2;0;0;2.3;3.3;38;52;True
+Aston Villa;Man United;0;3;H;3;0;H;10;5;5;10;6;5;3;1;0;0;0;1.25;6.75;38;70;False
+Aston Villa;Sunderland;6;1;H;2;1;H;18;15;4;10;15;4;4;0;3;0;1;2.3;3.4;38;38;True
+Aston Villa;Norwich;2;1;A;0;0;D;9;4;6;15;13;6;5;2;3;0;0;2.55;3.3;38;86;False
+Aston Villa;Chelsea;1;2;A;1;0;H;12;7;8;13;8;6;7;2;3;1;1;4.5;3.8;38;87;True
+Aston Villa;Wigan;2;2;D;2;1;H;12;6;2;8;12;4;2;2;1;0;0;2.15;3.6;38;39;False
+Aston Villa;Arsenal;3;1;A;1;1;D;A Taylor;9;4;4;15;18;4;3;4;5;1;0;1.44;38;75;False
+Aston Villa;Chelsea;1;2;H;1;1;D;K Friend;7;3;3;12;13;1;2;1;4;0;0;1.29;38;87;False
+Aston Villa;Liverpool;0;1;A;0;1;A;M Clattenburg;5;3;1;9;8;8;2;3;3;0;0;4;38;62;True
+Aston Villa;Newcastle;1;2;A;0;1;A;M Dean;17;1;8;9;11;4;2;1;4;0;0;2.15;38;39;True
+Aston Villa;Norwich;1;0;A;0;1;A;C Foy;16;1;4;15;10;7;4;1;0;0;0;2.4;38;86;False
+Aston Villa;Man City;3;2;H;0;1;A;M Jones;20;4;7;13;9;2;13;1;1;0;0;6.5;38;79;True
+Aston Villa;Hull;0;0;D;0;0;D;M Clattenburg;18;1;4;7;11;7;7;2;1;0;0;2.45;38;35;False
+Aston Villa;Tottenham;0;2;A;0;1;A;P Dowd;13;2;6;13;12;4;7;3;4;0;0;4;38;64;True
+Aston Villa;Everton;0;2;A;0;0;D;A Taylor;15;3;4;14;8;8;6;0;2;0;0;3.4;38;47;True
+Aston Villa;West Ham;0;0;D;0;0;D;H Webb;8;4;2;8;15;5;1;0;2;0;0;2.25;38;47;False
+Aston Villa;Cardiff;2;0;H;0;0;D;M Atkinson;8;6;2;10;3;5;3;1;1;0;0;2;38;62;True
+Aston Villa;West Brom;2;2;D;2;0;H;M Oliver;15;4;7;9;14;4;2;1;2;0;0;2.15;38;44;False
+Aston Villa;Sunderland;0;0;D;0;0;D;N Swarbrick;7;4;1;14;12;7;6;2;1;0;0;2;38;38;True
+Aston Villa;Southampton;3;2;A;0;1;A;J Moss;6;9;3;9;13;8;2;3;2;0;0;1.7;38;60;False
+Aston Villa;Fulham;0;2;H;2;0;H;M Dean;10;10;2;12;13;4;7;0;2;0;0;2.75;38;52;False
+Aston Villa;Man United;0;3;A;0;2;A;C Foy;14;6;5;15;8;3;4;4;2;0;0;5.25;38;70;True
+Aston Villa;Stoke;1;2;H;0;0;D;C Pawson;14;2;4;13;17;6;7;1;5;0;0;2.3;38;54;False
+Aston Villa;Crystal Palace;0;1;A;0;0;D;H Webb;12;4;7;11;8;7;5;2;2;0;0;1.91;38;48;True
+Aston Villa;Swansea;1;1;D;1;1;D;R East;17;3;3;13;9;2;8;3;2;0;0;3;38;56;True
+Aston Villa;Sunderland;1;0;A;0;1;A;M Jones;13;1;5;8;11;10;2;4;3;0;0;2.15;38;38;False
+Aston Villa;Arsenal;1;2;A;0;2;A;N Swarbrick;8;5;4;12;9;3;5;2;2;0;0;6;38;75;True
+Aston Villa;Liverpool;2;2;D;1;2;A;J Moss;12;6;3;14;18;2;3;1;4;0;0;1.22;38;62;False
+Aston Villa;West Brom;4;3;H;3;3;D;M Clattenburg;12;6;4;15;10;3;3;1;3;0;0;2.6;38;44;True
+Aston Villa;Everton;1;2;H;0;1;A;R Madley;4;6;1;4;18;13;1;1;0;0;0;1.53;38;47;False
+Aston Villa;West Ham;0;2;A;0;0;D;M Dean;10;1;2;9;8;8;10;0;2;0;0;2.1;38;47;True
+Aston Villa;Cardiff;0;0;D;0;0;D;C Foy;18;3;6;5;9;7;9;0;0;0;0;2.5;38;62;False
+Aston Villa;Newcastle;0;1;H;0;0;D;M Atkinson;10;5;2;12;10;10;1;2;2;0;0;2.1;38;39;False
+Aston Villa;Norwich;4;1;H;4;1;H;A Taylor;7;4;4;12;10;6;2;0;3;0;0;2.1;38;86;True
+Aston Villa;Chelsea;1;0;H;0;0;D;C Foy;15;4;2;14;8;4;5;4;0;0;2;7;38;87;True
+Aston Villa;Stoke;1;4;A;1;3;A;M Clattenburg;10;3;5;16;10;5;3;5;1;0;0;2.2;38;54;True
+Aston Villa;Man United;1;4;H;2;1;H;M Atkinson;10;6;1;10;16;0;5;2;4;0;0;1.45;38;70;False
+Aston Villa;Fulham;1;2;A;0;0;D;M Oliver;16;6;8;10;13;2;7;3;2;0;0;2.05;38;52;True
+Aston Villa;Crystal Palace;0;1;H;0;0;D;H Webb;7;4;4;7;12;2;4;0;2;0;0;2.15;38;48;False
+Aston Villa;Southampton;0;0;D;0;0;D;L Mason;3;1;2;11;11;5;3;0;2;0;0;3.4;38;60;True
+Aston Villa;Swansea;1;4;H;2;1;H;M Clattenburg;11;8;3;9;12;9;6;1;3;0;0;1.7;38;56;False
+Aston Villa;Hull;3;1;H;3;1;H;M Dean;7;9;2;14;9;8;5;0;0;0;0;2.5;38;35;True
+Aston Villa;Man City;0;4;H;0;0;D;M Oliver;5;9;0;8;9;7;2;1;2;0;0;1.14;38;79;False
+Aston Villa;Tottenham;0;3;H;3;0;H;J Moss;4;6;1;11;11;5;1;1;0;0;0;1.5;38;64;False
+Aston Villa;Stoke;1;0;A;0;0;D;A Taylor;7;2;2;14;9;2;8;0;3;0;0;1.95;38;54;False
+Aston Villa;Newcastle;0;0;D;0;0;D;M Dean;11;0;4;11;8;7;7;4;0;0;1;2.5;38;39;True
+Aston Villa;Hull;2;1;H;2;0;H;M Clattenburg;9;4;3;9;10;3;7;1;4;0;0;2.3;38;35;True
+Aston Villa;Liverpool;1;0;A;0;1;A;L Mason;5;1;1;9;10;7;6;2;1;0;0;1.3;38;62;False
+Aston Villa;Arsenal;0;3;A;0;3;A;M Jones;9;2;3;11;9;5;5;1;3;0;0;4.75;38;75;True
+Aston Villa;Chelsea;0;3;H;1;0;H;P Dowd;7;8;1;11;9;9;2;2;2;0;0;1.22;38;87;False
+Aston Villa;Man City;0;2;A;0;0;D;C Foy;27;1;7;4;6;0;7;0;1;0;0;7.5;38;79;True
+Aston Villa;Everton;0;3;H;1;0;H;A Taylor;10;6;2;11;16;3;4;2;2;0;0;1.6;38;47;False
+Aston Villa;QPR;0;2;H;1;0;H;L Mason;15;4;6;11;14;2;4;0;2;0;0;2.38;38;30;False
+Aston Villa;Tottenham;1;2;A;1;0;H;N Swarbrick;18;1;7;12;11;3;9;3;3;1;0;3.75;38;64;True
+Aston Villa;West Ham;0;0;D;0;0;D;J Moss;12;5;4;9;10;13;2;0;3;0;0;1.75;38;47;False
+Aston Villa;Southampton;1;1;D;1;0;H;P Dowd;15;1;4;15;17;2;8;1;2;0;0;5.25;38;60;True
+Aston Villa;Burnley;1;1;D;0;1;A;G Scott;18;4;7;8;8;1;5;3;4;0;0;2.15;38;33;False
+Aston Villa;Crystal Palace;1;0;A;0;1;A;M Oliver;5;5;3;16;15;8;2;2;2;0;0;2.1;38;48;False
+Aston Villa;Leicester;2;1;H;1;1;D;C Pawson;10;7;4;9;14;5;5;4;4;0;1;2.4;38;41;True
+Aston Villa;West Brom;0;1;H;0;0;D;M Dean;7;5;2;17;12;4;2;4;2;0;1;2.15;38;44;False
+Aston Villa;Man United;1;1;D;1;0;H;L Mason;16;4;9;9;10;3;9;1;1;1;0;6.25;38;70;True
+Aston Villa;Swansea;0;1;H;1;0;H;R East;11;2;3;17;12;4;0;1;4;0;0;1.75;38;56;False
+Aston Villa;Sunderland;0;0;D;0;0;D;M Atkinson;15;3;3;4;11;4;4;1;4;1;0;2.35;38;38;True
+Aston Villa;Crystal Palace;0;0;D;0;0;D;R Madley;6;3;0;11;12;5;2;1;1;0;0;2.4;38;48;True
+Aston Villa;Leicester;0;1;H;1;0;H;M Oliver;12;3;1;18;6;6;6;1;1;1;1;2.2;38;41;False
+Aston Villa;Liverpool;0;2;A;0;1;A;M Clattenburg;12;4;5;13;11;9;5;1;1;0;0;4.5;38;62;True
+Aston Villa;Arsenal;0;5;H;1;0;H;A Taylor;9;8;2;6;10;7;7;0;2;0;0;1.25;38;75;False
+Aston Villa;Chelsea;1;2;A;0;1;A;N Swarbrick;12;1;5;8;7;7;7;3;2;0;0;10;38;87;True
+Aston Villa;Hull;0;2;H;1;0;H;M Oliver;11;4;4;16;11;3;7;1;2;0;0;2.38;38;35;False
+Aston Villa;Stoke;1;2;A;1;1;D;R East;11;2;6;11;14;11;3;1;3;1;0;2.7;38;54;True
+Aston Villa;Newcastle;0;1;H;1;0;H;L Mason;13;5;3;6;16;9;5;1;5;0;0;1.95;38;39;False
+Aston Villa;West Brom;2;1;H;1;0;H;J Moss;3;8;1;15;13;0;3;2;4;0;0;2.88;38;44;True
+Aston Villa;Sunderland;4;0;A;0;4;A;N Swarbrick;14;2;8;10;9;2;5;1;1;0;0;2.38;38;38;False
+Aston Villa;Swansea;0;1;A;0;0;D;R Madley;9;3;6;13;9;4;9;0;0;0;0;2.5;38;56;True
+Aston Villa;Man United;1;3;H;1;0;H;R East;4;7;2;15;12;10;2;0;1;0;0;1.3;38;70;False
+Aston Villa;QPR;3;3;D;2;1;H;C Pawson;11;7;5;8;12;7;3;0;4;0;0;2.15;38;30;True
+Aston Villa;Tottenham;1;0;A;0;1;A;L Probert;10;3;3;11;12;9;6;3;2;0;1;1.62;38;64;False
+Aston Villa;Man City;2;3;H;1;0;H;M Dean;13;4;4;13;11;7;6;1;2;0;0;1.29;38;79;False
+Aston Villa;Everton;3;2;H;2;0;H;M Clattenburg;9;4;5;13;12;5;3;2;1;0;0;2.75;38;47;True
+Aston Villa;West Ham;1;0;H;1;0;H;L Mason;5;5;1;6;13;2;6;1;1;0;0;1.91;38;47;True
+Aston Villa;Southampton;1;6;H;5;1;H;R Madley;9;11;4;19;7;6;3;1;1;0;0;1.75;38;60;False
+Aston Villa;Burnley;0;1;A;0;1;A;M Jones;6;5;3;9;6;7;2;1;2;0;0;2.1;38;33;True
+Aston Villa;Bournemouth;1;0;A;0;0;D;M Clattenburg;7;2;3;13;13;6;3;3;4;0;0;2;38;80;False
+Aston Villa;Man United;0;1;A;0;1;A;M Dean;9;1;2;14;10;3;5;2;2;0;0;5.5;38;70;True
+Aston Villa;Crystal Palace;1;2;H;0;0;D;K Stroud;11;6;2;12;15;6;4;3;3;0;0;1.85;38;48;False
+Aston Villa;Sunderland;2;2;D;2;1;H;R Madley;7;6;3;10;14;5;4;2;1;0;0;1.91;38;38;True
+Aston Villa;Leicester;2;3;H;0;1;A;M Dean;11;6;4;8;13;4;5;2;1;0;0;1.91;38;41;False
+Aston Villa;West Brom;0;1;A;0;1;A;M Atkinson;11;3;6;10;11;2;7;2;3;0;0;2.3;38;44;True
+Aston Villa;Liverpool;2;3;H;1;0;H;J Moss;10;12;4;8;13;11;1;0;0;0;0;1.53;38;62;False
+Aston Villa;Stoke;0;1;A;0;0;D;M Jones;12;2;5;12;12;9;5;1;0;0;0;2.5;38;54;True

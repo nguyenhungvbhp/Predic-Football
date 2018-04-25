@@ -1,0 +1,266 @@
+Portsmouth;Aston Villa;2;1;H;1;0;H;G Barber;9;3;5;18;22;7;9;2;1;0;1;2.375;72;38;True
+Portsmouth;Man City;1;1;D;0;1;A;M Messias;4;11;2;8;22;11;7;2;3;0;0;1.667;72;79;False
+Portsmouth;Bolton;4;0;H;0;0;D;D Gallagher;13;8;4;12;14;0;4;2;4;0;0;2.1;72;51;True
+Portsmouth;Wolves;0;0;D;0;0;D;A D'Urso;9;2;2;15;16;4;6;3;5;0;0;2.75;72;78;False
+Portsmouth;Arsenal;1;1;D;1;1;D;A Wiley;8;7;2;11;19;7;1;2;3;0;0;1.28;72;75;False
+Portsmouth;Blackburn;1;2;A;0;2;A;P Durkin;12;6;10;17;18;7;6;2;3;0;0;2.25;72;67;True
+Portsmouth;Birmingham;0;2;H;1;0;H;S Bennett;10;5;5;10;16;4;4;1;3;0;0;1.9;72;63;False
+Portsmouth;Charlton;1;2;A;1;0;H;G Poll;11;8;6;20;14;6;9;3;2;0;0;2.1;72;60;True
+Portsmouth;Liverpool;1;0;H;1;0;H;S Dunn;13;6;7;22;10;5;3;2;2;0;0;4;72;62;True
+Portsmouth;Newcastle;0;3;H;2;0;H;P Durkin;9;8;4;12;14;6;6;0;1;0;0;1.53;72;39;False
+Portsmouth;Man United;0;3;H;1;0;H;N Barry;9;4;3;13;12;3;3;0;3;0;0;1.25;72;70;False
+Portsmouth;Leeds;6;1;H;2;1;H;C Foy;6;6;5;9;11;3;2;1;4;0;0;1.83;72;56;True
+Portsmouth;Fulham;0;2;H;2;0;H;A Wiley;12;4;6;9;16;2;11;0;3;0;1;1.83;72;52;False
+Portsmouth;Leicester;0;2;A;0;1;A;M Dean;7;7;3;12;14;11;4;5;1;0;0;1.8;72;41;True
+Portsmouth;Middlesbrough;0;0;D;0;0;D;S Bennett;6;3;2;17;20;6;5;2;3;0;1;1.72;72;85;False
+Portsmouth;Everton;1;2;A;1;2;A;U Rennie;9;10;4;13;13;7;10;1;1;0;0;2.2;72;47;True
+Portsmouth;Southampton;0;3;H;1;0;H;J Winter;11;7;7;7;21;8;5;0;3;0;0;1.727;72;60;False
+Portsmouth;Tottenham;2;0;H;0;0;D;S Dunn;5;8;3;10;10;3;6;1;1;0;0;2.5;72;64;True
+Portsmouth;Chelsea;0;3;H;0;0;D;G Barber;7;8;3;8;14;7;1;0;0;0;0;1.25;72;87;False
+Portsmouth;Aston Villa;1;2;H;1;0;H;J Winter;11;13;4;17;14;9;6;0;0;0;0;1.66;72;38;False
+Portsmouth;Man City;4;2;H;1;2;A;M Messias;15;8;6;7;8;2;7;0;2;0;0;2.5;72;79;True
+Portsmouth;Bolton;0;1;H;0;0;D;P Dowd;8;6;3;9;13;2;2;1;1;0;1;1.83;72;51;False
+Portsmouth;Wolves;0;0;D;0;0;D;H Webb;8;10;4;9;6;6;6;0;1;0;0;1.909;72;78;True
+Portsmouth;Tottenham;3;4;H;2;1;H;P Walton;16;13;9;16;13;6;5;1;0;0;0;1.667;72;64;False
+Portsmouth;Chelsea;0;2;A;0;1;A;G Poll;10;5;4;8;13;9;10;1;2;0;0;5.5;72;87;True
+Portsmouth;Newcastle;1;1;D;0;1;A;A D'Urso;5;8;2;9;9;8;6;2;2;0;0;3.2;72;39;True
+Portsmouth;Everton;0;1;H;0;0;D;N Barry;5;6;3;10;12;6;4;0;2;0;0;1.727;72;47;False
+Portsmouth;Liverpool;0;3;H;2;0;H;B Knight;4;13;4;9;20;10;8;0;1;0;0;1.44;72;62;False
+Portsmouth;Southampton;1;0;H;0;0;D;M Halsey;13;8;8;16;12;6;4;0;2;0;0;2.6;72;60;True
+Portsmouth;Blackburn;2;1;A;1;1;D;P Durkin;8;9;4;11;10;5;3;0;0;0;0;1.8;72;67;False
+Portsmouth;Charlton;1;1;D;1;0;H;A D'Urso;10;3;8;14;8;6;2;1;1;0;0;1.8;72;60;False
+Portsmouth;Birmingham;3;1;H;1;0;H;B Knight;6;6;2;19;11;4;4;1;2;0;1;2.375;72;63;True
+Portsmouth;Man United;1;0;H;1;0;H;N Barry;19;4;12;14;8;3;13;2;1;0;0;4.5;72;70;True
+Portsmouth;Leeds;2;1;A;0;1;A;U Rennie;7;6;5;9;21;9;2;2;2;0;0;2.1;72;56;False
+Portsmouth;Fulham;1;1;D;0;0;D;S Dunn;11;7;7;14;13;10;3;1;4;0;0;2.2;72;52;True
+Portsmouth;Arsenal;1;1;D;1;0;H;M Riley;20;6;9;13;10;5;12;0;2;0;0;4.5;72;75;True
+Portsmouth;Leicester;1;3;H;2;0;H;G Poll;14;9;7;11;15;8;3;0;2;0;0;2.4;72;41;False
+Portsmouth;Middlesbrough;5;1;H;3;1;H;M Halsey;19;10;4;12;8;7;2;0;0;0;0;2.25;72;85;True
+Portsmouth;Birmingham;1;1;D;1;1;D;H Webb;16;8;11;13;16;8;4;2;4;0;0;2.4;72;63;True
+Portsmouth;Charlton;1;2;H;1;0;H;A Wiley;10;14;6;9;11;5;6;0;1;0;0;2;72;60;False
+Portsmouth;Fulham;4;3;H;3;2;H;B Knight;18;13;10;12;12;6;8;0;2;0;0;2.3;72;52;True
+Portsmouth;Crystal Palace;3;1;H;1;1;D;P Dowd;6;7;3;14;21;8;7;0;2;0;0;1.8;72;48;True
+Portsmouth;Blackburn;0;1;H;0;0;D;M Clattenburg;6;3;2;13;15;13;4;0;3;0;0;2.2;72;67;False
+Portsmouth;Everton;0;1;A;0;0;D;D Gallagher;9;6;2;12;16;3;6;1;1;0;0;2.25;72;47;True
+Portsmouth;Norwich;2;2;D;0;1;A;M Messias;13;9;5;13;7;8;2;1;4;0;0;2.37;72;86;False
+Portsmouth;Tottenham;1;0;H;0;0;D;U Rennie;16;6;7;12;11;3;5;0;0;0;0;2.6;72;64;True
+Portsmouth;Middlesbrough;1;1;D;0;1;A;M Atkinson;3;11;1;5;5;9;0;0;2;0;0;1.66;72;85;False
+Portsmouth;Man United;2;0;H;0;0;D;N Barry;20;7;9;19;9;3;9;0;2;0;0;5.5;72;70;True
+Portsmouth;Aston Villa;0;3;H;3;0;H;M Halsey;7;9;2;8;13;6;4;1;1;0;0;1.83;72;38;False
+Portsmouth;Southampton;1;2;H;1;1;D;G Poll;13;5;6;14;15;4;8;1;3;0;0;2.4;72;60;False
+Portsmouth;Man City;1;3;A;1;1;D;M Messias;18;7;13;8;14;8;11;3;0;0;0;2.3;72;79;True
+Portsmouth;Bolton;1;0;A;0;1;A;S Dunn;8;10;4;13;14;7;6;0;1;0;0;1.61;72;51;False
+Portsmouth;West Brom;3;2;H;1;2;A;P Walton;10;10;4;14;14;8;3;0;2;0;0;1.83;72;44;True
+Portsmouth;Newcastle;1;1;D;1;1;D;M Riley;6;2;3;12;15;6;2;1;2;0;0;1.57;72;39;False
+Portsmouth;Liverpool;1;1;D;0;0;D;M Clattenburg;7;7;4;6;9;6;4;0;0;0;0;1.44;72;62;False
+Portsmouth;Arsenal;0;1;A;0;0;D;H Webb;13;5;5;13;9;5;7;0;1;0;0;6.5;72;75;True
+Portsmouth;Crystal Palace;1;0;A;0;0;D;N Barry;11;10;6;10;14;9;7;0;2;0;0;2.5;72;48;False
+Portsmouth;Chelsea;0;2;A;0;0;D;A Wiley;12;2;9;12;15;5;4;1;3;0;0;6.5;72;87;True
+Portsmouth;Norwich;1;1;D;0;1;A;P Dowd;6;6;5;13;6;7;5;3;0;0;1;1.66;72;86;True
+Portsmouth;Everton;1;2;H;1;1;D;P Walton;9;7;6;5;9;8;1;0;0;0;0;1.72;72;47;False
+Portsmouth;Blackburn;0;1;A;0;0;D;A D'Urso;14;1;6;13;23;5;6;2;6;2;0;2.2;72;67;True
+Portsmouth;Chelsea;0;3;H;3;0;H;M Riley;9;9;5;2;9;2;3;0;0;0;0;1.2;72;87;False
+Portsmouth;Middlesbrough;2;1;H;1;1;D;P Crossley;9;5;2;9;8;9;5;1;2;0;0;2.6;72;85;True
+Portsmouth;Tottenham;1;3;H;1;1;D;S Dunn;6;10;3;10;8;9;2;0;0;0;0;1.72;72;64;False
+Portsmouth;Aston Villa;1;2;A;1;1;D;D Gallagher;6;3;4;14;22;6;3;2;1;0;0;2.3;72;38;True
+Portsmouth;Man United;1;2;H;1;0;H;M Halsey;8;6;4;15;15;4;3;1;2;0;0;1.22;72;70;False
+Portsmouth;Arsenal;0;3;H;1;0;H;C Foy;5;6;2;12;15;7;3;0;2;0;0;1.36;72;75;False
+Portsmouth;Newcastle;1;1;D;1;1;D;M Messias;11;6;6;15;19;4;3;5;4;0;0;2.75;72;39;True
+Portsmouth;Fulham;1;3;H;0;1;A;M Clattenburg;8;7;4;14;10;5;5;3;3;0;0;2.1;72;52;False
+Portsmouth;Charlton;4;2;H;2;2;D;G Poll;8;9;4;11;14;5;4;1;3;0;0;2.3;72;60;True
+Portsmouth;Birmingham;0;0;D;0;0;D;P Walton;5;4;4;16;12;7;5;1;2;0;0;1.9;72;63;False
+Portsmouth;Liverpool;1;2;A;1;2;A;H Webb;19;6;12;10;8;5;4;1;0;0;0;3.2;72;62;True
+Portsmouth;Southampton;4;1;H;4;1;H; S Dunn;11;8;8;15;11;4;7;2;1;0;0;2.25;72;60;True
+Portsmouth;Man City;0;2;H;2;0;H;A Marriner;7;7;3;14;6;7;5;0;1;0;0;1.72;72;79;False
+Portsmouth;Bolton;1;1;D;0;1;A;M Messias;12;4;4;12;23;2;9;0;2;0;0;2.75;72;51;True
+Portsmouth;West Brom;0;2;H;0;0;D;M Riley;8;5;2;12;13;6;1;0;1;0;0;1.57;72;44;False
+Portsmouth;Tottenham;0;2;A;0;1;A;B Knight;11;7;6;13;23;7;2;0;2;0;0;2.75;72;64;True
+Portsmouth;West Brom;1;2;H;1;0;H;M Riley;10;2;2;21;19;3;3;4;3;0;0;2.2;72;44;False
+Portsmouth;Aston Villa;1;1;D;1;1;D;G Poll;7;11;3;12;10;13;4;3;1;0;1;2.5;72;38;True
+Portsmouth;Man City;1;2;H;0;0;D;A Wiley;7;9;2;13;17;12;3;1;2;0;0;1.61;72;79;False
+Portsmouth;Everton;1;0;A;0;0;D;M Atkinson;12;6;8;10;12;11;6;2;1;0;0;1.72;72;47;False
+Portsmouth;Birmingham;1;1;D;1;1;D;D Gallagher;3;9;2;16;14;7;3;2;0;0;1;2.3;72;63;True
+Portsmouth;Bolton;0;1;H;1;0;H;M Clattenburg;6;2;4;9;6;7;3;2;2;0;0;1.72;72;51;False
+Portsmouth;Newcastle;0;0;D;0;0;D;S Bennett;6;6;3;12;12;4;4;1;2;0;0;2.8;72;39;True
+Portsmouth;Middlesbrough;1;1;D;0;0;D;C Foy;9;7;4;12;12;6;3;2;3;0;0;1.72;72;85;False
+Portsmouth;Charlton;1;2;A;1;0;H;H Webb;11;6;7;10;15;6;5;2;3;0;0;2.6;72;60;True
+Portsmouth;Sunderland;4;1;A;1;0;H;M Halsey;5;2;5;11;9;11;2;0;1;0;0;2.25;72;38;False
+Portsmouth;Wigan;0;2;A;0;0;D;M Clattenburg;7;4;5;11;13;5;8;1;2;0;0;2.3;72;39;True
+Portsmouth;Liverpool;0;3;H;2;0;H;P Walton;7;11;5;7;8;7;6;1;1;0;0;1.4;72;62;False
+Portsmouth;Chelsea;0;2;A;0;1;A;P Dowd;12;2;6;22;7;2;1;5;1;0;0;9;72;87;True
+Portsmouth;Man United;0;3;H;1;0;H;C Foy;8;12;4;9;16;11;4;0;1;0;0;1.2;72;70;False
+Portsmouth;Tottenham;1;3;H;0;1;A;U Rennie;8;9;5;6;19;6;3;0;0;0;0;1.44;72;64;False
+Portsmouth;West Brom;1;0;H;0;0;D;M Halsey;4;4;2;15;7;6;8;1;1;0;0;2.2;72;44;True
+Portsmouth;West Ham;1;1;D;1;0;H;A Wiley;14;9;4;14;10;6;5;3;1;1;0;2.37;72;47;True
+Portsmouth;Arsenal;0;4;H;4;0;H;M Clattenburg;6;4;4;12;13;3;1;0;1;0;0;1.22;72;75;False
+Portsmouth;Fulham;1;0;H;1;0;H;M Riley;9;7;4;14;7;8;8;1;2;0;0;2.4;72;52;True
+Portsmouth;Blackburn;1;2;H;2;1;H;M Dean;8;7;4;11;12;4;6;1;4;0;0;1.66;72;67;False
+Portsmouth;Everton;0;1;A;0;1;A;A Marriner;9;8;3;21;13;4;8;2;2;0;0;2.2;72;47;True
+Portsmouth;Birmingham;0;5;H;2;0;H;C Foy;10;6;4;11;23;7;2;1;1;0;0;2.1;72;63;False
+Portsmouth;Bolton;1;1;D;0;0;D;D Gallagher;8;5;2;12;9;6;4;0;0;0;0;2.8;72;51;True
+Portsmouth;Newcastle;0;2;H;1;0;H;M Halsey;3;10;1;9;8;7;1;0;1;0;0;1.8;72;39;False
+Portsmouth;Man United;1;3;A;0;3;A;U Rennie;6;6;4;12;16;16;2;0;0;0;0;6;72;70;True
+Portsmouth;Chelsea;0;2;H;0;0;D;M Riley;5;8;1;7;13;6;7;0;1;0;0;1.14;72;87;False
+Portsmouth;Aston Villa;0;1;H;1;0;H;M Dean;11;8;6;15;14;16;10;1;1;0;0;1.72;72;38;False
+Portsmouth;Man City;2;1;H;0;0;D;M Halsey;9;5;4;11;7;8;1;0;0;0;0;2.8;72;79;True
+Portsmouth;West Ham;4;2;A;0;3;A;A Wiley;12;6;8;13;12;5;4;1;1;0;0;2;72;47;False
+Portsmouth;Fulham;3;1;A;1;2;A;C Foy;10;4;7;9;16;7;8;2;2;1;0;1.9;72;52;False
+Portsmouth;Blackburn;2;2;D;1;1;D;S Bennett;4;12;3;12;10;7;3;1;3;0;0;2.5;72;67;True
+Portsmouth;Arsenal;1;1;D;0;1;A;U Rennie;9;4;3;9;9;3;10;1;1;0;0;5;72;75;True
+Portsmouth;Middlesbrough;1;0;H;0;0;D;A Marriner;12;11;8;12;10;7;5;0;0;0;0;1.72;72;85;True
+Portsmouth;Charlton;1;2;H;0;1;A;H Webb;11;9;5;10;17;6;9;1;1;0;0;2.25;72;60;False
+Portsmouth;Sunderland;2;1;H;0;0;D;M Dean;7;15;6;9;15;8;5;2;3;0;0;1.36;72;38;True
+Portsmouth;Wigan;2;1;A;1;0;H;M Riley;16;7;8;11;8;3;9;3;1;1;0;2.4;72;39;False
+Portsmouth;Liverpool;1;3;A;0;0;D;G Poll;8;4;4;5;11;5;6;1;0;0;0;5;72;62;True
+Portsmouth;Blackburn;3;0;H;1;0;H;A Wiley;9;16;7;20;17;6;2;2;1;0;2;2.3;72;67;True
+Portsmouth;Man City;0;0;D;0;0;D;D Gallagher;3;3;1;15;13;8;0;2;1;0;0;2.2;72;79;False
+Portsmouth;Middlesbrough;4;0;A;0;1;A;C Foy;10;8;7;15;9;8;6;2;1;0;0;2;72;85;False
+Portsmouth;Wigan;1;0;H;0;0;D;P Walton;11;7;5;14;5;6;9;0;1;0;0;1.83;72;39;True
+Portsmouth;Charlton;1;0;A;0;0;D;P Dowd;12;5;5;6;10;9;4;0;2;0;0;2.3;72;60;False
+Portsmouth;Bolton;0;1;A;0;1;A;U Rennie;4;5;3;8;13;11;2;2;2;0;0;1.9;72;51;True
+Portsmouth;Tottenham;1;2;H;2;1;H;C Foy;9;6;6;8;10;6;10;0;0;0;0;1.8;72;64;False
+Portsmouth;West Ham;2;0;H;1;0;H;G Poll;6;6;3;20;11;4;4;4;4;0;0;2;72;47;True
+Portsmouth;Chelsea;1;2;H;0;0;D;M Clattenburg;10;18;1;6;12;9;5;3;2;0;0;1.28;72;87;False
+Portsmouth;Reading;3;1;H;1;0;H;P Dowd;8;12;4;18;6;5;13;0;0;0;0;1.8;72;50;True
+Portsmouth;Man United;0;3;H;2;0;H;M Dean;8;11;5;6;9;9;5;0;1;0;0;1.3;72;70;False
+Portsmouth;Fulham;1;1;D;0;0;D;S Bennett;7;12;4;11;7;19;5;0;3;0;0;1.83;72;52;True
+Portsmouth;Watford;2;1;H;1;1;D;C Foy;8;11;4;14;18;9;5;1;3;0;0;1.61;72;69;True
+Portsmouth;Newcastle;0;1;H;0;0;D;M Halsey;7;10;2;13;12;10;3;2;2;0;0;2.3;72;39;False
+Portsmouth;Liverpool;0;0;D;0;0;D;A Wiley;3;4;1;13;13;5;1;1;3;0;0;1.44;72;62;False
+Portsmouth;Aston Villa;2;2;D;0;1;A;U Rennie;8;6;4;14;19;6;7;2;4;1;0;2.2;72;38;True
+Portsmouth;Everton;2;0;H;2;0;H;M Clattenburg;12;8;5;20;11;6;4;2;4;0;0;2.2;72;47;True
+Portsmouth;Arsenal;2;2;D;0;1;A;S Bennett;7;8;5;13;13;7;4;0;2;0;0;1.4;72;75;False
+Portsmouth;Sheffield United;3;1;H;0;1;A;G Poll;11;6;6;14;6;6;3;0;2;0;0;1.66;72;60;True
+Portsmouth;West Ham;2;1;A;0;2;A;M Atkinson;12;7;6;12;13;6;4;2;1;0;0;2.25;72;47;False
+Portsmouth;Bolton;2;3;H;2;1;H;P Walton;14;7;7;11;13;8;7;0;1;0;0;2;72;51;False
+Portsmouth;Tottenham;1;1;D;1;0;H;A Marriner;9;9;7;12;12;10;6;1;4;0;0;2.4;72;64;True
+Portsmouth;Sheffield United;1;1;D;1;0;H;L Probert;13;3;6;14;19;2;10;0;2;0;0;2.6;72;60;False
+Portsmouth;Charlton;0;1;A;0;0;D;M Clattenburg;8;3;5;9;11;10;7;0;3;0;0;1.57;72;60;True
+Portsmouth;Middlesbrough;0;0;D;0;0;D;D Gallagher;3;4;3;10;10;10;5;0;1;0;0;1.9;72;85;True
+Portsmouth;Wigan;0;1;H;0;0;D;G Poll;5;8;4;10;8;6;6;1;0;0;0;2.6;72;39;False
+Portsmouth;Man City;2;1;H;1;0;H;M Dean;6;10;3;12;12;13;8;3;3;0;0;1.9;72;79;True
+Portsmouth;Blackburn;0;3;H;2;0;H;M Clattenburg;13;11;6;11;16;7;4;2;3;0;0;2.3;72;67;False
+Portsmouth;Chelsea;0;2;A;0;1;A;M Halsey;10;5;5;8;10;7;5;0;2;0;0;6;72;87;True
+Portsmouth;Reading;0;0;D;0;0;D;S Bennett;10;0;5;11;15;10;4;1;1;0;0;2;72;50;False
+Portsmouth;Fulham;1;1;D;0;1;A;M Riley;10;9;7;14;22;6;4;1;0;0;0;2.3;72;52;False
+Portsmouth;Man United;2;1;H;1;0;H;M Clattenburg;15;9;7;13;2;8;7;3;1;0;0;6;72;70;True
+Portsmouth;Watford;2;4;H;2;1;H;L Mason;10;10;6;13;15;6;2;0;0;0;0;3;72;69;False
+Portsmouth;Newcastle;2;1;H;1;0;H;C Foy;7;7;3;13;8;10;5;2;0;0;0;2.1;72;39;True
+Portsmouth;Aston Villa;0;0;D;0;0;D;M Atkinson;5;8;2;10;20;15;3;0;1;0;0;2.2;72;38;False
+Portsmouth;Liverpool;2;1;H;2;0;H;P Walton;11;7;4;12;7;7;6;1;1;0;0;3.2;72;62;True
+Portsmouth;Everton;0;3;H;0;0;D;H Webb;12;7;5;9;19;9;8;3;3;0;0;1.95;72;47;False
+Portsmouth;Arsenal;0;0;D;0;0;D;G Poll;14;4;6;18;15;2;6;0;0;0;0;2.7;72;75;True
+Portsmouth;Derby;2;2;D;1;1;D;M Dean;12;5;6;14;17;6;6;1;2;0;0;2.8;72;77;False
+Portsmouth;Man United;1;1;D;0;1;A;S Bennett;20;6;12;13;5;6;12;2;1;1;1;5.5;72;70;True
+Portsmouth;Bolton;3;1;H;2;1;H;S Tanner;8;6;3;13;11;10;6;0;2;0;0;1.83;72;51;True
+Portsmouth;Chelsea;0;1;H;1;0;H;A Wiley;18;7;4;16;12;4;6;0;2;0;0;1.28;72;87;False
+Portsmouth;Arsenal;1;3;H;2;0;H;M Halsey;15;8;10;6;12;8;5;1;2;1;0;1.5;72;75;False
+Portsmouth;Liverpool;0;0;D;0;0;D;M Riley;12;2;6;20;14;5;4;3;2;0;0;5;72;62;True
+Portsmouth;Blackburn;1;0;A;0;1;A;C Foy;13;3;7;6;16;7;4;0;3;0;0;1.9;72;67;False
+Portsmouth;Reading;7;4;H;2;1;H;M Halsey;13;17;7;4;7;8;4;1;1;0;0;1.72;72;50;True
+Portsmouth;Fulham;2;0;A;0;0;D;H Webb;14;10;8;7;17;8;5;1;0;0;0;2.62;72;52;False
+Portsmouth;Wigan;2;0;A;0;0;D;P Walton;15;0;8;9;9;3;2;2;3;0;0;3.1;72;39;False
+Portsmouth;West Ham;0;0;D;0;0;D;M Dean;10;3;3;18;9;11;5;2;4;0;0;1.8;72;47;True
+Portsmouth;Newcastle;4;1;A;1;3;A;C Foy;10;7;7;15;15;4;5;2;2;0;0;2.1;72;39;False
+Portsmouth;Man City;0;0;D;0;0;D;M Halsey;10;12;5;11;7;9;1;1;1;0;0;2;72;79;True
+Portsmouth;Birmingham;2;0;A;0;1;A;M Atkinson;15;3;8;17;21;4;3;3;2;0;0;3.2;72;63;False
+Portsmouth;Everton;0;0;D;0;0;D;P Walton;4;6;2;14;13;9;0;1;2;0;0;2.2;72;47;True
+Portsmouth;Aston Villa;3;1;A;0;2;A;M Riley;12;6;8;18;23;7;5;2;5;0;0;2.1;72;38;False
+Portsmouth;Tottenham;0;1;A;0;0;D;M Atkinson;12;5;5;22;13;4;4;3;2;0;0;2.2;72;64;True
+Portsmouth;Liverpool;1;4;H;2;0;H;M Riley;9;7;3;13;11;3;1;1;2;0;0;1.5;72;62;False
+Portsmouth;Arsenal;0;0;D;0;0;D;S Bennett;12;6;6;15;9;4;7;2;1;0;0;4.5;72;75;True
+Portsmouth;Middlesbrough;0;1;A;0;1;A;A Wiley;13;9;7;10;17;4;4;1;4;0;0;1.66;72;85;True
+Portsmouth;Reading;2;0;A;0;1;A;M Dean;18;5;13;10;6;5;4;3;1;1;0;2.87;72;50;False
+Portsmouth;Sunderland;0;2;H;2;0;H;C Foy;9;5;5;14;6;7;5;3;1;0;0;2.75;72;38;False
+Portsmouth;Derby;3;1;H;2;1;H;M Dean;8;8;5;14;9;6;2;1;2;0;0;1.44;72;77;True
+Portsmouth;Man United;0;2;H;2;0;H;M Atkinson;3;14;3;9;11;5;3;0;1;0;0;1.25;72;70;False
+Portsmouth;Chelsea;1;1;D;0;0;D;H Webb;20;6;12;13;12;4;8;2;0;0;0;5.25;72;87;True
+Portsmouth;Bolton;1;0;A;0;0;D;P Walton;7;10;4;12;14;5;2;1;1;0;0;2.5;72;51;False
+Portsmouth;Sunderland;1;0;H;0;0;D;P Dowd;5;10;2;13;13;5;3;1;2;0;0;1.61;72;38;True
+Portsmouth;Everton;1;3;H;1;1;D;A Marriner;9;5;5;12;18;10;3;1;1;0;0;1.83;72;47;False
+Portsmouth;Birmingham;4;2;H;2;2;D;S Tanner;7;9;5;8;10;4;3;0;1;0;0;1.83;72;63;True
+Portsmouth;Aston Villa;2;0;H;2;0;H;C Foy;16;5;10;17;13;3;6;3;1;1;1;2.37;72;38;True
+Portsmouth;Tottenham;0;2;H;0;0;D;P Dowd;4;8;4;8;13;7;2;0;1;0;0;1.9;72;64;False
+Portsmouth;Wigan;2;0;H;1;0;H;A Wiley;17;7;9;10;13;5;4;1;2;0;0;1.8;72;39;True
+Portsmouth;West Ham;1;0;A;0;0;D;L Probert;18;8;9;16;11;7;4;0;0;0;0;2.25;72;47;False
+Portsmouth;Newcastle;0;0;D;0;0;D;P Dowd;14;8;5;11;8;2;11;1;1;0;0;2.2;72;39;True
+Portsmouth;Man City;1;3;H;2;1;H;A Marriner;12;10;6;7;6;6;3;1;1;0;1;2.37;72;79;False
+Portsmouth;Blackburn;0;1;A;0;0;D;M Riley;12;6;9;20;12;8;7;2;2;0;0;2.1;72;67;True
+Portsmouth;Middlesbrough;0;2;H;1;0;H;P Walton;13;7;8;16;11;7;5;1;1;0;0;2;72;85;False
+Portsmouth;Fulham;0;1;A;0;0;D;M Clattenburg;7;10;4;13;11;5;6;0;0;0;0;3.3;72;52;True
+Portsmouth;Chelsea;0;4;H;3;0;H;M Dean;12;11;8;10;6;8;3;0;1;0;0;1.33;72;87;False
+Portsmouth;Man United;0;1;A;0;1;A;C Foy;12;6;7;11;11;4;3;2;2;0;0;4.8;72;70;True
+Portsmouth;Everton;3;0;A;0;2;A;M Halsey;6;7;5;5;11;4;3;1;0;0;0;2.1;72;47;False
+Portsmouth;Middlesbrough;2;1;H;0;1;A;S Attwell;7;12;3;8;6;3;2;2;1;0;0;2;72;85;True
+Portsmouth;Man City;0;6;H;2;0;H;A Wiley;10;10;4;13;14;8;5;0;1;0;0;2;72;79;False
+Portsmouth;Tottenham;2;0;H;1;0;H;M Dean;15;6;8;18;13;3;6;4;3;1;0;2.5;72;64;True
+Portsmouth;Stoke;2;1;H;1;0;H;A Marriner;8;11;5;7;15;2;5;0;3;0;0;1.67;72;54;True
+Portsmouth;Aston Villa;0;0;D;0;0;D;M Riley;8;3;3;18;19;11;2;1;3;0;1;1.83;72;38;False
+Portsmouth;Fulham;1;1;D;0;0;D;M Halsey;9;12;5;7;7;8;6;0;0;0;0;1.83;72;52;True
+Portsmouth;Liverpool;0;1;H;0;0;D;S Tanner;4;10;1;13;12;7;1;0;3;0;0;1.33;72;62;False
+Portsmouth;Wigan;1;2;A;0;1;A;P Walton;12;8;8;9;11;9;6;0;3;0;0;1.91;72;39;True
+Portsmouth;Sunderland;2;1;A;1;0;H;S Bennett;10;6;5;8;10;8;3;2;1;0;0;2.38;72;38;False
+Portsmouth;West Ham;0;0;D;0;0;D;M Atkinson;11;5;7;6;11;8;7;0;1;0;0;2.5;72;47;False
+Portsmouth;Hull;2;2;D;1;0;H;S Attwell;13;7;6;13;13;7;7;2;1;0;0;1.8;72;35;True
+Portsmouth;Blackburn;3;2;H;0;0;D;M Halsey;10;6;2;5;12;8;10;0;1;0;0;2.1;72;67;True
+Portsmouth;West Brom;1;1;D;1;0;H;M Dean;6;8;3;11;12;3;5;1;2;0;0;2.62;72;44;False
+Portsmouth;Newcastle;0;3;A;0;0;D;C Foy;10;6;5;15;5;8;5;4;1;0;0;2.05;72;39;True
+Portsmouth;Bolton;1;2;H;2;1;H;M Atkinson;8;10;5;14;16;6;3;1;1;0;0;2.2;72;51;False
+Portsmouth;West Ham;1;4;A;1;1;D;S Bennett;16;14;9;14;9;9;5;1;3;0;0;2.2;72;47;True
+Portsmouth;Arsenal;0;1;H;0;0;D;A Wiley;4;7;3;9;9;11;2;0;1;0;0;1.4;72;75;False
+Portsmouth;Tottenham;1;1;D;0;0;D;S Bennett;11;15;4;6;10;8;4;0;2;0;0;1.73;72;64;False
+Portsmouth;Aston Villa;0;1;A;0;1;A;P Walton;9;8;2;9;10;17;5;2;2;1;0;3.25;72;38;True
+Portsmouth;Fulham;1;3;H;1;0;H;A Wiley;12;6;6;9;8;5;8;0;1;0;0;2;72;52;False
+Portsmouth;Liverpool;2;3;A;0;0;D;H Webb;14;7;9;10;9;2;4;1;0;0;0;5;72;62;True
+Portsmouth;Man City;2;0;H;0;0;D;L Probert;10;9;7;12;8;8;2;1;3;0;0;2.87;72;79;True
+Portsmouth;Stoke;2;2;D;0;0;D;M Jones;6;2;2;6;10;2;3;1;3;0;0;2.5;72;54;False
+Portsmouth;Chelsea;0;1;A;0;0;D;P Dowd;20;9;11;7;15;6;5;0;0;0;0;6.5;72;87;True
+Portsmouth;Middlesbrough;1;1;D;0;1;A;M Atkinson;8;11;4;9;11;12;4;1;3;1;0;2.2;72;85;False
+Portsmouth;Everton;2;1;H;1;1;D;P Walton;5;11;2;19;8;7;4;2;1;0;0;2.75;72;47;True
+Portsmouth;Hull;0;0;D;0;0;D;C Foy;7;1;2;13;14;1;4;0;2;0;1;2.62;72;35;False
+Portsmouth;West Brom;2;2;D;1;0;H;M Dean;12;4;7;16;10;4;2;3;1;0;0;1.73;72;44;True
+Portsmouth;Bolton;1;0;H;0;0;D;P Dowd;5;10;1;11;14;6;5;2;4;0;0;2.1;72;51;True
+Portsmouth;Man United;0;2;H;1;0;H;P Walton;5;14;1;10;8;6;2;1;0;0;0;1.25;72;70;False
+Portsmouth;Newcastle;0;0;D;0;0;D;M Riley;15;8;7;13;8;7;10;2;2;0;0;2;72;39;False
+Portsmouth;Arsenal;0;3;A;0;2;A;L Mason;15;4;9;9;10;5;11;3;1;1;0;3.2;72;75;True
+Portsmouth;Blackburn;0;2;H;1;0;H;M Riley;7;6;4;20;12;4;3;2;1;0;0;2;72;67;False
+Portsmouth;Sunderland;3;1;H;0;0;D;A Wiley;20;4;9;11;6;5;6;1;0;0;0;2.1;72;38;True
+Portsmouth;Wigan;0;1;H;1;0;H;P Dowd;9;10;3;8;21;8;2;0;4;0;0;2.1;72;39;False
+Portsmouth;Fulham;0;1;A;0;1;A;M Atkinson;9;4;3;11;18;6;4;3;2;0;0;2.63;72;52;True
+Portsmouth;Birmingham;0;1;H;0;0;D;L Probert;9;5;4;11;20;4;5;0;5;0;0;2;72;63;False
+Portsmouth;Arsenal;1;4;H;2;1;H;S Bennett;9;16;4;9;10;8;4;1;0;0;0;1.17;72;75;False
+Portsmouth;Man City;0;1;A;0;1;A;H Webb;12;6;8;12;7;3;11;2;1;0;0;6.5;72;79;True
+Portsmouth;Bolton;2;3;A;1;2;A;C Foy;14;11;6;17;17;7;5;2;0;0;0;2.6;72;51;True
+Portsmouth;Aston Villa;0;2;H;2;0;H;S Attwell;17;5;12;17;12;7;5;2;0;0;0;1.4;72;38;False
+Portsmouth;Everton;0;1;A;0;1;A;A Wiley;12;12;8;14;17;5;6;0;3;0;0;4.2;72;47;True
+Portsmouth;Wolves;1;0;A;0;1;A;H Webb;12;5;8;8;12;8;6;1;2;0;0;2;72;78;False
+Portsmouth;Tottenham;1;2;A;0;2;A;P Dowd;9;13;4;14;13;10;9;3;3;1;1;4.5;72;64;True
+Portsmouth;Hull;0;0;D;0;0;D;S Attwell;8;3;2;16;23;6;6;2;1;0;0;2.6;72;35;False
+Portsmouth;Wigan;4;0;H;2;0;H;A Wiley;8;11;3;11;10;7;4;0;1;0;0;2.38;72;39;True
+Portsmouth;Blackburn;1;3;H;0;1;A;A Marriner;9;6;3;12;18;8;5;3;3;0;0;2.1;72;67;False
+Portsmouth;Stoke;0;1;H;0;0;D;K Friend;14;3;7;15;13;4;4;1;2;0;0;2.1;72;54;False
+Portsmouth;Man United;1;4;A;1;1;D;M Dean;12;12;8;16;10;4;8;4;3;0;0;10;72;70;True
+Portsmouth;Burnley;2;0;H;0;0;D;P Dowd;14;4;8;16;14;5;5;4;2;0;0;1.91;72;33;True
+Portsmouth;Sunderland;1;1;D;1;0;H;S Bennett;9;9;6;12;14;9;6;4;3;0;1;1.8;72;38;False
+Portsmouth;Chelsea;1;2;H;1;0;H;M Clattenburg;7;8;3;11;11;11;2;0;0;0;0;1.14;72;87;False
+Portsmouth;Liverpool;2;0;H;1;0;H;L Mason;7;6;3;7;12;8;10;3;3;0;1;5.5;72;62;True
+Portsmouth;West Ham;0;2;H;1;0;H;L Probert;11;5;7;10;19;6;4;0;3;0;0;2.1;72;47;False
+Portsmouth;Arsenal;1;4;A;0;2;A;A Wiley;14;6;10;14;3;2;10;2;0;0;0;6.5;72;75;True
+Portsmouth;West Ham;1;1;D;0;0;D;A Marriner;12;8;4;16;9;6;4;3;1;0;0;2.5;72;47;True
+Portsmouth;Man City;0;2;H;2;0;H;M Atkinson;10;6;4;9;14;10;7;1;3;0;0;1.29;72;79;False
+Portsmouth;Fulham;0;1;H;0;0;D;A Taylor;12;9;8;12;12;5;5;0;1;0;0;1.67;72;52;False
+Portsmouth;Man United;0;5;H;2;0;H;L Mason;7;8;5;9;11;12;1;1;4;0;0;1.13;72;70;False
+Portsmouth;Sunderland;1;1;D;0;1;A;K Friend;7;6;2;10;15;8;4;3;1;1;2;2.4;72;38;True
+Portsmouth;Stoke;1;2;A;1;0;H;M Dean;14;12;7;10;10;7;7;2;1;0;1;2.38;72;54;True
+Portsmouth;Burnley;2;1;A;1;1;D;M Clattenburg;13;8;5;12;13;4;3;1;2;0;1;2;72;33;False
+Portsmouth;Birmingham;1;2;A;0;2;A;M Jones;10;8;6;12;13;5;6;1;2;0;0;2.38;72;63;True
+Portsmouth;Liverpool;1;4;H;3;0;H;S Attwell;7;12;3;10;15;8;4;0;2;0;0;1.25;72;62;False
+Portsmouth;Hull;3;2;H;1;1;D;P Dowd;9;10;5;7;8;11;1;1;0;0;0;2.2;72;35;True
+Portsmouth;Chelsea;0;5;A;0;1;A;L Mason;20;6;11;11;11;1;6;3;2;0;0;12;72;87;True
+Portsmouth;Tottenham;0;2;H;2;0;H;K Friend;8;8;3;5;9;11;2;0;1;0;0;1.2;72;64;False
+Portsmouth;Blackburn;0;0;D;0;0;D;S Bennett;16;3;8;11;10;1;9;2;1;1;0;3.3;72;67;True
+Portsmouth;Wigan;0;0;D;0;0;D;M Dean;6;14;2;16;9;10;3;2;1;0;0;1.57;72;39;False
+Portsmouth;Aston Villa;1;2;A;1;1;D;L Probert;12;12;9;5;10;7;6;0;0;0;0;5.5;72;38;True
+Portsmouth;Bolton;2;2;D;2;0;H;H Webb;13;10;6;16;13;12;5;1;1;0;0;1.53;72;51;False
+Portsmouth;Wolves;3;1;H;2;1;H;M Jones;18;8;11;10;13;7;9;0;1;0;0;2.38;72;78;True
+Portsmouth;Everton;0;1;H;0;0;D;P Walton;10;13;4;12;11;14;1;0;0;0;0;1.29;72;47;False

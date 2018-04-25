@@ -1,0 +1,198 @@
+Southampton;Leicester;2;2;D;2;0;H;M Riley;13;7;10;27;15;2;7;3;1;0;0;2.5;60;41;False
+Southampton;Birmingham;0;0;D;0;0;D;Graham Barber;12;7;5;15;19;2;7;3;1;0;0;1.909;60;63;True
+Southampton;Leeds;0;0;D;0;0;D;P Durkin;14;6;8;10;11;6;10;2;3;0;0;2;60;56;False
+Southampton;Man United;1;0;H;0;0;D;M Halsey;10;5;9;8;10;9;5;1;0;0;0;5;60;70;True
+Southampton;Wolves;2;0;H;1;0;H;U Rennie;10;10;3;16;20;7;3;3;5;0;0;1.61;60;78;True
+Southampton;Tottenham;3;1;A;0;2;A;A D'Urso;12;6;10;15;14;4;7;1;1;0;0;2;60;64;False
+Southampton;Middlesbrough;0;1;A;0;1;A;B Knight;12;6;9;12;19;4;4;4;3;1;0;1.8;60;85;True
+Southampton;Newcastle;0;1;H;1;0;H;P Dowd;7;9;4;14;10;8;4;3;2;0;0;1.72;60;39;False
+Southampton;Everton;0;0;D;0;0;D;M Messias;19;6;7;11;6;8;6;1;2;0;0;2;60;47;False
+Southampton;Blackburn;2;0;H;0;0;D;S Bennett;6;15;3;17;14;5;3;0;1;0;1;2;60;67;True
+Southampton;Man City;0;2;A;0;1;A;A Wiley;13;5;9;10;16;4;6;1;1;0;0;2.2;60;79;True
+Southampton;Bolton;0;0;D;0;0;D;H Webb;8;11;5;10;14;8;6;2;1;0;1;2.37;60;51;False
+Southampton;Chelsea;0;1;A;0;0;D;D Gallagher;8;3;4;7;13;3;3;0;1;0;0;4.5;60;87;True
+Southampton;Aston Villa;0;1;H;1;0;H;M Messias;7;12;3;13;13;9;4;0;1;0;0;2.25;60;38;False
+Southampton;Charlton;3;2;H;2;0;H;P Walton;20;14;14;12;12;8;9;0;0;0;0;2.25;60;60;True
+Southampton;Liverpool;2;1;A;0;1;A;P Durkin;8;10;4;6;8;9;5;0;0;0;0;1.571;60;62;False
+Southampton;Portsmouth;3;0;H;1;0;H;J Winter;11;7;7;7;21;8;5;0;3;0;0;1.727;60;72;True
+Southampton;Fulham;0;2;H;1;0;H;D Gallagher;6;7;2;13;12;11;5;0;2;0;0;2.2;60;52;False
+Southampton;Arsenal;0;1;A;0;1;A;S Dunn;17;3;9;14;10;2;3;1;0;0;0;4.5;60;75;True
+Southampton;Leicester;0;0;D;0;0;D;H Webb;9;14;8;12;15;4;5;2;1;0;0;1.8;60;41;True
+Southampton;Birmingham;1;2;H;1;1;D;S Bennett;9;6;6;14;23;7;10;0;1;0;1;2.1;60;63;False
+Southampton;Leeds;2;1;H;2;0;H;A Wiley;11;6;6;16;8;1;6;1;1;0;0;1.72;60;56;True
+Southampton;Man United;2;3;H;2;1;H;G Barber;17;7;11;9;11;1;10;0;2;0;0;1.25;60;70;False
+Southampton;Fulham;0;0;D;0;0;D;A D'Urso;11;6;8;12;18;17;3;1;2;0;0;2.1;60;52;True
+Southampton;Arsenal;0;2;H;1;0;H;N Barry;10;6;6;13;12;5;9;2;3;0;0;1.25;60;75;False
+Southampton;Everton;3;3;D;0;2;A;P Dowd;12;5;6;14;19;6;5;1;0;0;0;2;60;47;True
+Southampton;Blackburn;1;1;D;0;1;A;M Dean;10;7;6;10;8;6;9;1;1;0;0;2.1;60;67;False
+Southampton;Liverpool;2;0;H;0;0;D;D Gallagher;18;3;12;20;8;1;7;3;1;0;0;2.875;60;62;True
+Southampton;Portsmouth;0;1;H;0;0;D;M Halsey;13;8;8;16;12;6;4;0;2;0;0;2.6;60;72;False
+Southampton;Tottenham;1;0;H;0;0;D;C Foy;15;11;9;8;16;10;6;0;2;0;0;2.25;60;64;True
+Southampton;Wolves;4;1;A;0;1;A;M Halsey;13;3;10;12;8;3;6;2;1;0;0;2.5;60;78;False
+Southampton;Middlesbrough;1;3;H;2;0;H;D Gallagher;16;18;8;11;14;6;3;0;0;0;0;2.1;60;85;False
+Southampton;Man City;3;1;A;0;1;A;G Barber;9;7;5;11;9;6;3;1;1;0;0;1.909;60;79;False
+Southampton;Bolton;1;2;A;1;0;H;S Dunn;11;3;8;13;16;2;2;4;3;0;0;1.9;60;51;True
+Southampton;Chelsea;0;4;H;0;0;D;P Durkin;5;7;3;6;5;12;3;0;0;0;0;1.53;60;87;False
+Southampton;Aston Villa;1;1;D;1;1;D;H Webb;14;10;7;10;13;4;4;1;0;0;0;2.87;60;38;True
+Southampton;Newcastle;3;3;D;2;2;D;G Poll;22;12;12;13;16;3;5;1;2;0;0;2.87;60;39;True
+Southampton;Charlton;1;2;H;1;0;H;J Winter;12;5;4;13;10;7;10;0;1;0;0;2;60;60;False
+Southampton;Aston Villa;0;2;H;2;0;H;U Rennie;6;5;2;14;9;12;6;0;0;0;0;1.9;60;38;False
+Southampton;Blackburn;3;2;H;1;0;H;A D'Urso;10;7;6;12;18;3;6;0;3;0;0;2.3;60;67;True
+Southampton;Bolton;1;2;A;0;2;A;S Dunn;9;6;5;9;8;9;6;1;1;0;0;2.25;60;51;True
+Southampton;Chelsea;1;2;H;2;1;H;S Bennett;6;7;2;11;12;9;0;0;4;0;0;1.28;60;87;False
+Southampton;Charlton;0;0;D;0;0;D;N Barry;12;4;7;12;13;9;10;0;1;0;0;1.833;60;60;False
+Southampton;Newcastle;1;2;A;0;1;A;C Foy;9;6;3;15;11;7;6;0;3;0;0;2.87;60;39;True
+Southampton;Fulham;0;1;H;1;0;H;G Poll;15;6;5;11;19;5;4;0;1;0;0;2;60;52;False
+Southampton;Man City;0;0;D;0;0;D;U Rennie;21;11;11;13;11;6;14;0;0;0;0;2.37;60;79;True
+Southampton;Everton;0;1;H;0;0;D;B Knight;8;5;4;5;14;5;6;0;0;0;0;1.72;60;47;False
+Southampton;Birmingham;0;0;D;0;0;D;M Dean;8;1;2;11;11;4;4;0;1;0;0;2.5;60;63;True
+Southampton;Arsenal;2;2;D;0;0;D;M Messias;7;9;4;8;21;7;7;1;4;0;0;1.16;60;75;False
+Southampton;West Brom;2;2;D;1;2;A;S Bennett;10;6;5;13;14;5;1;2;0;0;0;2;60;44;True
+Southampton;Portsmouth;2;1;H;1;1;D;G Poll;13;5;6;14;15;4;8;1;3;0;0;2.4;60;72;True
+Southampton;Norwich;1;2;H;1;1;D;M Riley;14;8;7;19;14;4;6;1;1;0;0;2.37;60;86;False
+Southampton;Crystal Palace;2;2;D;0;0;D;P Walton;11;8;8;7;11;4;8;0;3;0;0;2;60;48;True
+Southampton;Man United;0;3;H;0;0;D;B Knight;4;14;0;5;10;16;2;0;1;0;0;1.22;60;70;False
+Southampton;Middlesbrough;2;2;D;1;0;H;N Barry;15;5;7;11;12;4;6;1;1;0;0;2.87;60;85;True
+Southampton;Tottenham;1;5;H;3;0;H;P Dowd;7;12;4;9;13;6;3;0;2;0;0;1.72;60;64;False
+Southampton;Charlton;0;0;D;0;0;D;S Dunn;15;4;5;7;12;5;11;1;0;0;0;2.6;60;60;True
+Southampton;Liverpool;0;1;H;1;0;H;M Halsey;3;11;2;6;12;7;3;0;3;0;0;1.36;60;62;False
+Southampton;Man City;1;2;H;2;0;H;C Foy;6;8;1;12;9;9;8;0;0;0;0;1.72;60;79;False
+Southampton;Fulham;3;3;D;2;2;D;G Poll;12;5;7;16;16;2;10;2;2;0;0;2.37;60;52;True
+Southampton;Newcastle;1;2;H;2;1;H;U Rennie;9;17;6;12;20;14;4;0;2;0;0;1.57;60;39;False
+Southampton;Liverpool;2;0;H;2;0;H;A Wiley;11;7;2;10;12;6;3;1;2;0;0;4.5;60;62;True
+Southampton;Birmingham;1;2;H;2;0;H;P Walton;6;4;3;11;18;8;1;0;2;0;0;1.9;60;63;False
+Southampton;Everton;2;2;D;1;1;D;A D'Urso;8;9;4;15;11;8;3;0;2;0;0;2.63;60;47;True
+Southampton;West Brom;0;0;D;0;0;D;M Riley;11;4;7;15;15;7;3;2;3;0;0;2.3;60;44;False
+Southampton;Arsenal;1;1;D;0;1;A;A Wiley;17;3;12;9;13;3;5;1;1;1;1;6.5;60;75;True
+Southampton;Tottenham;1;0;H;0;0;D;P Walton;13;4;8;7;11;4;10;1;2;0;0;2.5;60;64;True
+Southampton;Middlesbrough;3;1;A;1;1;D;U Rennie;12;8;7;20;17;3;6;0;0;0;0;1.8;60;85;False
+Southampton;Chelsea;1;3;A;0;2;A;M Halsey;12;3;8;11;10;4;3;0;2;0;0;6.5;60;87;True
+Southampton;Blackburn;0;3;H;1;0;H;N Barry;9;8;3;19;14;4;2;2;1;0;0;2.1;60;67;False
+Southampton;Aston Villa;2;3;A;2;0;H;A D'Urso;11;8;7;10;17;5;8;1;2;0;0;2.2;60;38;True
+Southampton;Bolton;1;1;D;1;0;H;M Clattenburg;5;16;4;9;9;5;2;2;0;0;0;1.61;60;51;False
+Southampton;Portsmouth;1;4;H;4;1;H; S Dunn;11;8;8;15;11;4;7;2;1;0;0;2.25;60;72;False
+Southampton;Norwich;4;3;H;3;3;D;G Poll;14;9;7;18;13;6;8;3;2;0;0;2;60;86;True
+Southampton;Crystal Palace;2;2;D;1;1;D;H Webb;7;6;3;16;18;5;2;3;1;1;1;2.2;60;48;False
+Southampton;Man United;1;2;A;1;1;D;S Bennett;16;3;8;14;13;5;3;1;2;0;0;2.37;60;70;True
+Southampton;Man City;2;3;H;1;0;H;20;15;6;4;6;7;3;1;2;0;0;1.17;7;60;79;False
+Southampton;Wigan;0;2;A;0;0;D;14;9;8;11;9;10;3;0;0;0;0;2.1;3.4;60;39;True
+Southampton;Man United;2;3;A;1;1;D;15;8;9;9;4;4;7;1;0;0;0;6;4.2;60;70;True
+Southampton;Arsenal;1;6;H;4;1;H;20;12;4;4;7;8;3;0;0;0;0;1.36;5;60;75;False
+Southampton;Aston Villa;4;1;H;0;1;A;12;4;2;5;13;1;4;1;3;0;0;2.4;3.3;60;38;True
+Southampton;Everton;1;3;H;3;1;H;17;9;2;2;3;10;3;0;0;0;0;1.4;4.75;60;47;False
+Southampton;Fulham;2;2;D;1;0;H;13;6;5;13;5;8;8;4;0;0;0;2.75;3.3;60;52;True
+Southampton;West Ham;1;4;H;0;0;D;9;8;4;10;12;6;3;0;2;0;0;1.83;3.75;60;47;False
+Southampton;Tottenham;1;2;A;0;2;A;11;6;4;14;8;2;3;0;3;0;0;4.2;3.75;60;64;True
+Southampton;West Brom;0;2;H;1;0;H;16;6;5;6;12;8;6;1;0;0;0;1.73;3.75;60;44;False
+Southampton;Swansea;1;1;D;0;0;D;11;5;3;11;10;10;6;2;2;0;0;2.38;3.5;60;56;True
+Southampton;QPR;3;1;A;0;2;A;13;7;15;12;9;4;13;1;0;0;0;1.91;3.6;60;30;False
+Southampton;Newcastle;2;0;H;1;0;H;17;10;3;12;14;4;3;2;2;0;0;2.3;3.5;60;39;True
+Southampton;Norwich;1;1;D;1;1;D;8;2;5;11;7;3;7;1;1;0;0;2;3.4;60;86;True
+Southampton;Liverpool;0;1;H;1;0;H;24;11;4;10;8;10;4;2;0;0;0;1.4;4.5;60;62;False
+Southampton;Reading;1;0;H;0;0;D;18;9;2;11;10;7;4;0;0;0;0;1.91;3.6;60;50;True
+Southampton;Sunderland;0;1;A;0;1;A;13;7;6;11;15;8;5;0;3;0;0;2;3.5;60;38;True
+Southampton;Fulham;1;1;D;1;0;H;10;2;3;14;12;3;5;3;0;0;0;1.85;3.6;60;52;False
+Southampton;Stoke;3;3;D;1;3;A;10;8;7;6;9;7;4;1;2;1;0;1.8;3.5;60;54;False
+Southampton;Arsenal;1;1;D;1;1;D;9;6;4;9;6;3;3;2;0;0;0;5;3.75;60;75;True
+Southampton;Aston Villa;1;0;A;0;1;A;16;10;4;9;6;9;5;1;1;0;0;2.55;3.5;60;38;False
+Southampton;Chelsea;2;2;D;2;0;H;19;10;3;10;11;4;3;1;0;0;0;1.25;6.5;60;87;False
+Southampton;Everton;0;0;D;0;0;D;14;11;7;14;11;10;6;2;1;0;0;3.6;3.5;60;47;True
+Southampton;Man United;1;2;H;2;1;H;11;7;10;10;10;4;8;2;1;0;0;1.25;6.5;60;70;False
+Southampton;Wigan;2;2;D;1;0;H;5;3;7;6;16;8;5;0;2;0;0;2.2;3.5;60;39;False
+Southampton;Man City;3;1;H;2;1;H;13;7;4;9;13;6;6;1;2;0;0;5.75;4;60;79;True
+Southampton;Newcastle;2;4;H;2;1;H;11;5;7;12;12;7;3;0;4;0;0;2.2;3.5;60;39;False
+Southampton;QPR;1;2;A;1;1;D;17;9;3;7;15;6;3;1;3;0;0;1.85;3.8;60;30;True
+Southampton;Norwich;0;0;D;0;0;D;3;2;7;9;10;1;7;2;3;0;0;2.5;3.4;60;86;False
+Southampton;Liverpool;3;1;H;2;1;H;17;12;6;10;10;7;5;0;1;0;0;4.2;3.8;60;62;True
+Southampton;Chelsea;2;1;H;2;1;H;13;8;4;12;6;7;7;2;1;0;0;3.5;3.5;60;87;True
+Southampton;Reading;2;0;A;0;1;A;8;3;4;5;11;8;4;0;0;0;0;3.3;3.6;60;50;False
+Southampton;West Ham;1;1;D;0;0;D;15;11;4;9;18;7;4;2;3;0;0;1.91;3.75;60;47;True
+Southampton;Swansea;0;0;D;0;0;D;14;7;5;11;13;7;2;0;0;0;0;2.38;3.5;60;56;False
+Southampton;West Brom;0;3;A;0;1;A;16;4;9;9;11;7;6;2;2;2;1;1.85;3.75;60;44;True
+Southampton;Tottenham;0;1;H;0;0;D;7;4;6;8;9;5;5;1;1;0;0;1.44;4.75;60;64;False
+Southampton;Sunderland;1;1;D;0;0;D;5;5;10;9;10;3;10;0;2;0;0;2.8;3.2;60;38;False
+Southampton;Stoke;1;1;D;0;0;D;11;7;3;9;7;3;4;0;2;0;0;1.75;3.8;60;54;True
+Southampton;West Brom;1;0;A;0;0;D;K Friend;7;1;2;14;24;4;8;4;0;0;0;2.4;60;44;False
+Southampton;Sunderland;1;1;D;0;1;A;L Mason;8;6;3;12;13;5;2;2;2;0;0;1.73;60;38;True
+Southampton;Norwich;0;1;H;0;0;D;H Webb;11;4;2;11;15;5;5;0;0;0;0;3;60;86;False
+Southampton;West Ham;0;0;D;0;0;D;A Marriner;6;5;1;12;10;10;4;1;3;0;0;1.85;60;47;True
+Southampton;Liverpool;1;0;A;0;0;D;N Swarbrick;12;5;7;6;9;6;6;0;1;0;0;1.6;60;62;False
+Southampton;Crystal Palace;2;0;H;0;0;D;M Atkinson;8;3;0;11;12;8;2;1;2;0;0;1.45;60;48;True
+Southampton;Swansea;2;0;H;1;0;H;M Dean;17;4;7;13;8;7;4;3;1;0;0;2.1;60;56;True
+Southampton;Man United;1;1;D;1;0;H;M Jones;18;5;7;10;19;4;4;2;3;0;0;1.57;60;70;False
+Southampton;Fulham;2;0;H;2;0;H;A Marriner;1;6;0;12;8;10;3;0;2;0;0;1.62;60;52;True
+Southampton;Stoke;1;1;D;1;1;D;C Foy;10;3;2;13;13;5;5;3;1;0;0;3.3;60;54;False
+Southampton;Hull;4;1;H;3;0;H;H Webb;10;7;2;10;15;6;5;1;2;0;0;1.62;60;35;True
+Southampton;Arsenal;0;2;H;1;0;H;M Clattenburg;10;4;4;10;14;5;6;0;3;0;0;1.62;60;75;False
+Southampton;Chelsea;1;3;H;0;1;A;M Oliver;9;7;1;15;14;8;4;1;4;0;0;1.57;60;87;False
+Southampton;Aston Villa;2;3;A;0;1;A;J Moss;6;9;3;9;13;8;2;3;2;0;0;1.7;60;38;True
+Southampton;Man City;1;1;D;1;1;D;A Taylor;13;4;3;6;9;5;4;0;2;0;0;5.25;60;79;True
+Southampton;Newcastle;1;1;D;1;0;H;M Jones;8;5;3;10;16;11;3;1;2;0;0;2.4;60;39;False
+Southampton;Tottenham;2;3;A;1;1;D;C Foy;13;5;3;10;18;2;5;1;1;0;0;2.55;60;64;True
+Southampton;Cardiff;3;0;A;0;3;A;A Marriner;11;0;6;11;13;6;3;1;2;0;0;3.3;60;62;False
+Southampton;Everton;1;2;H;1;0;H;M Clattenburg;12;4;2;9;14;2;3;2;4;0;0;1.83;60;47;False
+Southampton;Chelsea;0;3;A;0;0;D;M Atkinson;11;2;5;13;10;6;8;4;1;0;0;4;60;87;True
+Southampton;West Brom;1;0;H;0;0;D;H Webb;4;5;2;11;17;4;4;1;2;0;0;1.83;60;44;True
+Southampton;Sunderland;2;2;D;1;2;A;C Foy;17;5;8;8;8;4;7;2;0;0;0;3.2;60;38;False
+Southampton;Arsenal;2;2;D;1;0;H;L Mason;7;5;4;11;4;7;5;1;1;0;1;4.33;60;75;True
+Southampton;Fulham;3;0;A;0;0;D;M Jones;17;4;5;10;9;4;5;0;3;0;0;3.6;60;52;False
+Southampton;Stoke;2;2;D;2;2;D;C Pawson;5;5;4;7;14;7;4;0;4;0;0;1.55;60;54;True
+Southampton;Hull;1;0;A;0;0;D;M Atkinson;16;4;7;6;8;2;2;0;3;0;0;3;60;35;False
+Southampton;West Ham;1;3;H;2;1;H;M Clattenburg;25;5;5;10;8;5;11;0;1;0;0;3.2;60;47;False
+Southampton;Liverpool;0;3;A;0;1;A;L Probert;12;2;5;10;6;3;6;1;2;0;0;3.75;60;62;True
+Southampton;Crystal Palace;1;0;A;0;1;A;H Webb;11;1;3;14;18;8;3;1;5;0;0;3.9;60;48;False
+Southampton;Norwich;4;2;H;1;0;H;K Friend;6;6;3;11;17;6;1;1;2;0;0;1.62;60;86;True
+Southampton;Tottenham;2;3;H;1;2;A;A Taylor;12;6;4;9;9;7;3;1;2;0;0;2.25;60;64;False
+Southampton;Newcastle;4;0;H;1;0;H;A Marriner;5;11;2;5;6;7;5;0;1;0;0;1.75;60;39;True
+Southampton;Man City;1;4;H;3;1;H;C Foy;5;8;1;9;15;5;9;3;0;0;0;1.33;60;79;False
+Southampton;Cardiff;0;1;A;0;0;D;J Moss;6;7;4;9;7;5;5;0;0;0;0;1.45;60;62;True
+Southampton;Aston Villa;0;0;D;0;0;D;L Mason;3;1;2;11;11;5;3;0;2;0;0;3.4;60;38;False
+Southampton;Everton;2;0;H;2;0;H;M Oliver;9;4;2;13;12;4;7;0;2;0;0;2.8;60;47;True
+Southampton;Swansea;1;0;A;0;0;D;A Taylor;18;3;4;11;5;3;5;1;1;0;0;2.5;60;56;False
+Southampton;Man United;1;1;D;1;0;H;M Dean;8;6;2;16;5;6;2;3;2;0;0;2.63;60;70;True
+Southampton;Liverpool;1;2;H;1;0;H;M Clattenburg;12;5;6;8;11;2;6;1;2;0;0;1.33;60;62;False
+Southampton;West Brom;0;0;D;0;0;D;R East;8;2;2;14;15;1;5;1;2;0;0;1.85;60;44;True
+Southampton;West Ham;3;1;A;1;1;D;M Dean;18;2;8;11;13;2;9;2;1;0;0;2.8;60;47;False
+Southampton;Newcastle;4;0;H;2;0;H;C Foy;9;7;4;15;7;5;5;0;2;0;0;1.8;60;39;True
+Southampton;Swansea;1;0;A;0;0;D;J Moss;11;2;4;11;15;2;4;0;4;1;0;2.5;60;56;False
+Southampton;QPR;2;1;H;0;0;D;M Clattenburg;10;9;2;12;11;6;3;2;1;0;0;1.44;60;30;True
+Southampton;Tottenham;0;1;H;1;0;H;M Jones;7;4;3;15;9;10;5;2;1;0;0;2.2;60;64;False
+Southampton;Sunderland;8;0;H;3;0;H;A Marriner;12;11;1;11;8;5;6;1;3;0;0;1.57;60;38;True
+Southampton;Stoke;1;0;H;1;0;H;J Moss;8;2;1;10;12;6;3;0;2;0;0;1.65;60;54;True
+Southampton;Hull;1;0;A;0;1;A;M Atkinson;10;1;3;6;9;7;4;1;0;0;0;3.8;60;35;False
+Southampton;Leicester;2;0;H;0;0;D;M Oliver;5;6;0;10;12;13;4;2;2;0;0;1.44;60;41;True
+Southampton;Aston Villa;1;1;D;1;0;H;P Dowd;15;1;4;15;17;2;8;1;2;0;0;5.25;60;38;False
+Southampton;Man City;0;3;A;0;0;D;M Jones;15;4;6;10;13;8;6;1;2;0;1;3.2;60;79;True
+Southampton;Arsenal;0;1;H;0;0;D;A Marriner;6;8;1;7;14;9;4;0;2;0;0;1.8;60;75;False
+Southampton;Man United;1;2;A;1;1;D;K Friend;3;4;2;12;9;5;1;2;1;0;0;2.8;60;70;True
+Southampton;Burnley;0;1;H;0;0;D;M Clattenburg;15;2;4;15;11;2;5;1;3;0;0;5.5;60;33;False
+Southampton;Everton;3;0;H;1;0;H;J Moss;13;3;4;11;10;4;6;1;1;0;0;2.45;60;47;True
+Southampton;Crystal Palace;3;1;A;0;1;A;M Dean;13;4;6;15;10;8;4;1;0;0;0;3.75;60;48;False
+Southampton;Chelsea;1;1;D;1;1;D;A Taylor;7;1;1;23;14;4;6;2;2;1;0;4.75;60;87;True
+Southampton;Arsenal;2;0;H;1;0;H;C Pawson;11;6;6;14;7;2;7;2;1;0;0;2.9;60;75;True
+Southampton;Man United;1;0;A;0;0;D;P Dowd;9;0;1;9;10;3;5;2;3;0;0;1.83;60;70;False
+Southampton;Newcastle;2;1;A;1;1;D;R Madley;5;3;3;9;8;9;0;0;2;0;0;3.3;60;39;False
+Southampton;Swansea;0;1;A;0;0;D;M Oliver;6;6;1;11;9;9;0;1;1;1;0;1.6;60;56;True
+Southampton;QPR;1;0;A;0;0;D;R East;16;3;5;13;16;3;4;2;2;0;0;4.75;60;30;False
+Southampton;West Ham;0;0;D;0;0;D;C Pawson;4;7;1;12;11;8;2;2;1;0;1;1.73;60;47;True
+Southampton;Liverpool;0;2;A;0;1;A;K Friend;6;5;4;11;14;6;1;2;3;0;0;2.63;60;62;True
+Southampton;West Brom;0;1;H;1;0;H;P Dowd;12;3;2;10;17;2;3;2;1;0;0;3.4;60;44;False
+Southampton;Crystal Palace;1;0;H;0;0;D;M Atkinson;9;3;3;11;10;10;2;0;2;0;0;1.7;60;48;True
+Southampton;Chelsea;1;1;D;1;1;D;M Dean;12;7;5;10;11;9;2;3;3;0;0;1.62;60;87;False
+Southampton;Burnley;2;0;H;1;0;H;R East;15;3;3;10;7;10;5;0;0;0;0;1.4;60;33;True
+Southampton;Everton;0;1;H;1;0;H;L Mason;11;1;2;12;17;4;10;0;1;0;0;2.63;60;47;False
+Southampton;Hull;2;0;H;0;0;D;K Friend;15;4;4;7;11;2;5;2;0;0;0;1.53;60;35;True
+Southampton;Stoke;1;2;H;0;1;A;M Clattenburg;12;2;6;17;17;2;5;0;4;0;0;3.5;60;54;False
+Southampton;Tottenham;2;2;D;1;1;D;J Moss;7;4;2;9;10;8;3;1;3;0;0;2.1;60;64;True
+Southampton;Sunderland;1;2;H;1;1;D;M Jones;11;6;2;12;13;1;1;2;2;0;1;4.2;60;38;False
+Southampton;Leicester;0;2;H;2;0;H;R East;10;3;3;12;10;4;8;1;0;0;0;2.6;60;41;False
+Southampton;Aston Villa;6;1;H;5;1;H;R Madley;9;11;4;19;7;6;3;1;1;0;0;1.75;60;38;True
+Southampton;Man City;0;2;H;1;0;H;C Foy;13;6;4;13;8;8;4;1;1;0;0;1.57;60;79;False
+Southampton;Newcastle;2;2;D;1;1;D;C Pawson;15;4;5;9;12;6;6;2;4;0;0;2.88;60;39;False
+Southampton;Everton;0;3;A;0;2;A;M Oliver;10;4;4;11;10;9;9;4;2;0;0;1.95;60;47;True
+Southampton;Watford;0;0;D;0;0;D;A Marriner;14;0;5;10;11;5;2;0;2;0;0;2.8;60;69;False
+Southampton;Norwich;3;0;H;1;0;H;J Moss;6;8;1;4;12;6;4;0;0;0;1;2.05;60;86;True
+Southampton;West Brom;0;0;D;0;0;D;S Attwell;14;1;4;5;5;4;5;1;0;0;0;3.2;60;44;False
+Southampton;Man United;2;3;A;1;1;D;M Clattenburg;10;8;3;6;13;5;5;2;0;0;0;3.1;60;70;True
+Southampton;Swansea;3;1;H;1;0;H;R East;11;7;4;18;14;4;3;3;1;0;0;2.05;60;56;True
+Southampton;Chelsea;3;1;A;1;1;D;R Madley;13;3;5;14;14;4;6;2;5;0;0;1.83;60;87;False

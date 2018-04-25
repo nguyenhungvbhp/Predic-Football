@@ -1,0 +1,160 @@
+Norwich;Crystal Palace;1;1;D;1;0;H;P Walton;14;10;8;14;16;6;11;0;1;0;0;2.1;86;48;True
+Norwich;Man United;1;2;H;1;0;H;N Barry;7;7;2;8;23;11;5;0;1;0;0;1.25;86;70;False
+Norwich;Newcastle;2;2;D;1;0;H;M Halsey;13;15;5;17;10;12;6;0;1;0;0;1.44;86;39;False
+Norwich;Arsenal;1;4;A;0;3;A;G Poll;18;5;15;15;5;4;10;1;1;0;0;9;86;75;True
+Norwich;Tottenham;0;0;D;0;0;D;H Webb;7;7;2;17;9;13;5;2;1;0;0;1.571;86;64;False
+Norwich;Aston Villa;0;0;D;0;0;D;B Knight;18;3;9;10;13;1;6;1;1;0;0;2.75;86;38;True
+Norwich;Liverpool;0;3;H;2;0;H;A Wiley;2;12;1;10;12;4;2;1;0;0;0;1.4;86;62;False
+Norwich;Portsmouth;2;2;D;0;1;A;M Messias;13;9;5;13;7;8;2;1;4;0;0;2.37;86;72;True
+Norwich;West Brom;0;0;D;0;0;D;P Crossley;12;2;5;13;21;2;3;2;2;0;0;2.1;86;44;False
+Norwich;Everton;2;3;A;0;2;A;M Clattenburg;13;10;9;8;11;11;4;0;2;0;0;2.75;86;47;True
+Norwich;Man City;1;1;D;1;0;H;S Bennett;10;11;5;10;13;9;4;1;0;0;0;1.72;86;79;False
+Norwich;Blackburn;1;1;D;0;0;D;S Dunn;15;5;9;18;12;7;4;1;0;0;1;2.3;86;67;True
+Norwich;Charlton;0;4;H;2;0;H;A Marriner;8;11;4;14;11;1;5;0;3;0;0;1.8;86;60;False
+Norwich;Southampton;2;1;H;1;1;D;M Riley;14;8;7;19;14;4;6;1;1;0;0;2.37;86;60;True
+Norwich;Birmingham;1;1;D;1;0;H;G Poll;7;10;3;14;12;6;1;2;1;0;0;1.83;86;63;False
+Norwich;Fulham;0;1;A;0;1;A;A Wiley;15;4;9;22;22;5;4;1;3;0;0;2.37;86;52;True
+Norwich;Bolton;3;2;H;1;2;A;B Knight;4;4;3;10;26;4;4;1;3;0;0;2.75;86;51;True
+Norwich;Chelsea;0;4;H;3;0;H;M Dean;1;8;0;12;11;7;3;0;0;0;0;1.16;86;87;False
+Norwich;Tottenham;0;2;A;0;0;D;M Riley;16;8;9;11;9;10;8;1;0;0;0;3;86;64;True
+Norwich;Middlesbrough;0;2;H;0;0;D;H Webb;10;11;2;13;10;8;4;1;1;0;0;1.5;86;85;False
+Norwich;Portsmouth;1;1;D;0;1;A;P Dowd;6;6;5;13;6;7;5;3;0;0;1;1.66;86;72;False
+Norwich;Liverpool;1;2;A;0;0;D;H Webb;11;4;6;16;19;5;2;2;3;0;0;4.33;86;62;True
+Norwich;Aston Villa;0;3;H;2;0;H;M Riley;7;10;1;15;12;7;5;0;0;0;0;1.72;86;38;False
+Norwich;Middlesbrough;4;4;D;1;1;D;M Messias;22;9;15;11;16;5;8;0;3;0;0;3.1;86;85;True
+Norwich;Everton;0;1;H;0;0;D;A Wiley;11;4;6;12;16;3;3;1;0;0;0;1.57;86;47;False
+Norwich;West Brom;3;2;H;1;1;D;C Foy;15;7;8;18;13;3;3;0;3;0;0;2.3;86;44;True
+Norwich;Blackburn;0;3;H;2;0;H;S Dunn;9;13;6;15;14;12;3;2;1;0;0;1.8;86;67;False
+Norwich;Man City;2;3;A;2;2;D;R Styles;17;4;10;12;7;3;12;2;2;1;0;2.6;86;79;True
+Norwich;Chelsea;1;3;A;0;1;A;M Halsey;23;5;13;14;15;7;7;1;2;0;0;7.5;86;87;True
+Norwich;Bolton;0;1;H;1;0;H;P Walton;6;10;2;20;16;7;6;3;1;0;0;1.57;86;51;False
+Norwich;Arsenal;1;4;H;2;1;H;A Wiley;3;15;1;8;11;10;3;1;0;0;0;1.2;86;75;False
+Norwich;Man United;2;0;H;0;0;D;H Webb;16;5;8;19;18;3;4;2;2;0;0;7.5;86;70;True
+Norwich;Crystal Palace;3;3;D;1;1;D;R Styles;12;10;8;17;21;7;3;2;2;0;0;2;86;48;False
+Norwich;Newcastle;2;1;H;0;0;D;A Marriner;24;8;10;12;11;6;6;0;0;0;0;2.5;86;39;True
+Norwich;Charlton;1;0;H;0;0;D; M Atkinson;11;6;6;8;9;7;8;1;1;0;0;2.25;86;60;True
+Norwich;Southampton;3;4;H;3;3;D;G Poll;14;9;7;18;13;6;8;3;2;0;0;2;86;60;False
+Norwich;Birmingham;1;0;H;1;0;H;S Bennett;22;4;9;20;10;1;7;1;5;0;1;1.9;86;63;True
+Norwich;Fulham;0;6;H;2;0;H;S Dunn;2;9;0;11;12;4;13;0;1;0;0;2.8;86;52;False
+Norwich;Wigan;1;1;D;1;1;D;S Attwell;13;11;3;11;8;7;3;2;2;0;0;2.2;86;39;False
+Norwich;Stoke;1;1;D;1;0;H;N Swarbrick;15;7;5;13;12;3;6;0;2;1;0;2.6;86;54;True
+Norwich;Chelsea;1;3;H;1;0;H;M Jones;9;8;6;17;14;8;6;2;2;0;1;1.2;86;87;False
+Norwich;West Brom;0;1;A;0;1;A;M Halsey;14;5;9;10;11;1;3;1;2;0;0;2.5;86;44;True
+Norwich;Bolton;2;1;A;0;2;A;H Webb;11;7;5;8;8;6;9;3;1;1;0;1.8;86;51;False
+Norwich;Sunderland;2;1;H;1;0;H;C Foy;12;8;6;3;7;7;4;2;1;0;0;2.5;86;38;True
+Norwich;Man United;0;2;H;0;0;D;S Attwell;13;9;6;9;6;10;3;1;0;0;0;1.17;86;70;False
+Norwich;Swansea;3;1;H;2;1;H;J Moss;12;8;4;6;5;4;4;0;1;0;0;2.2;86;56;True
+Norwich;Liverpool;1;1;D;1;0;H;P Walton;12;15;10;6;8;10;3;0;1;0;0;1.29;86;62;False
+Norwich;Blackburn;3;3;D;0;1;A;A Taylor;12;6;7;9;10;6;2;2;1;0;0;1.91;86;67;True
+Norwich;Aston Villa;2;3;H;1;1;D;K Friend;9;6;7;11;9;6;6;1;5;0;0;1.83;86;38;False
+Norwich;Arsenal;1;2;A;1;1;D;P Dowd;20;4;14;11;9;1;6;3;0;0;0;5.5;86;75;True
+Norwich;QPR;2;1;H;1;0;H;M Clattenburg;13;8;4;15;7;6;4;1;0;0;0;2.1;86;30;True
+Norwich;Man City;1;5;H;1;0;H;H Webb;5;16;2;8;7;12;4;0;1;0;0;1.17;86;79;False
+Norwich;Newcastle;4;2;H;1;1;D;M Atkinson;11;11;8;9;8;7;2;3;2;0;1;2.4;86;39;True
+Norwich;Everton;1;1;D;0;1;A;L Probert;7;15;1;9;12;13;0;1;1;0;0;1.62;86;47;False
+Norwich;Wolves;2;2;D;1;1;D;C Foy;18;9;14;5;11;4;6;2;2;0;0;2;86;78;False
+Norwich;Tottenham;0;2;A;0;0;D;M Oliver;19;4;8;7;6;3;10;1;1;0;0;4.5;86;64;True
+Norwich;Fulham;1;1;D;0;1;A;H Webb;11;9;6;9;6;4;3;0;0;0;0;2.6;86;52;True
+Norwich;QPR;2;1;A;1;1;D;N Swarbrick;13;6;6;12;12;2;5;2;1;1;0;2.1;86;30;False
+Norwich;West Brom;2;1;A;0;1;A;M Dean;7;8;4;6;14;10;5;0;1;0;0;2;86;44;False
+Norwich;Chelsea;0;0;D;0;0;D;M Clattenburg;19;3;9;5;4;1;11;0;0;0;0;5.5;86;87;True
+Norwich;Sunderland;0;3;H;2;0;H;L Mason;12;6;4;6;14;3;6;1;1;0;0;1.91;86;38;False
+Norwich;Bolton;2;0;H;0;0;D;L Probert;10;9;6;6;6;4;7;0;0;0;0;2;86;51;True
+Norwich;Swansea;3;2;A;1;0;H;M Atkinson;18;9;11;6;12;6;8;0;2;0;0;1.83;86;56;False
+Norwich;Man United;1;2;A;0;1;A;A Marriner;11;7;9;9;10;4;4;1;2;0;0;6.5;86;70;True
+Norwich;Stoke;0;1;H;0;0;D;M Oliver;7;7;5;10;16;8;2;0;2;0;0;1.83;86;54;False
+Norwich;Wigan;1;1;D;1;0;H;K Friend;18;6;9;12;7;3;5;4;4;0;0;1.83;86;39;True
+Norwich;Newcastle;0;1;H;1;0;H;P Dowd;12;10;5;8;15;4;5;0;3;0;0;1.8;86;39;False
+Norwich;Wolves;2;1;H;2;1;H;M Clattenburg;10;11;6;13;7;5;5;2;2;1;0;1.73;86;78;True
+Norwich;Fulham;1;2;H;2;0;H;A Taylor;16;9;8;11;9;6;7;1;2;0;0;1.7;86;52;False
+Norwich;Everton;2;2;D;1;1;D;A Marriner;9;11;5;7;17;2;4;0;3;0;0;3;86;47;True
+Norwich;Tottenham;2;1;A;1;1;D;M Oliver;12;9;6;12;12;10;3;1;2;0;0;1.29;86;64;False
+Norwich;Man City;1;6;A;0;2;A;C Foy;22;8;17;10;5;3;5;1;2;0;0;6;86;79;True
+Norwich;Blackburn;0;2;H;1;0;H;K Friend;12;6;5;8;13;9;7;1;1;0;0;2.1;86;67;False
+Norwich;Liverpool;0;3;A;0;2;A;M Halsey;15;3;9;9;4;5;7;4;0;0;0;3.8;86;62;True
+Norwich;Arsenal;3;3;D;1;2;A;A Taylor;12;13;6;8;15;6;1;2;3;0;0;1.22;86;75;False
+Norwich;Aston Villa;2;0;H;2;0;H;M Atkinson;9;12;5;6;10;9;6;1;2;0;0;2.2;86;38;True
+Norwich;Fulham;0;5;H;2;0;H;11;9;2;12;11;6;3;0;0;0;0;1.8;3.6;86;52;False
+Norwich;QPR;1;1;D;1;1;D;13;4;4;15;14;6;2;0;2;0;0;2.25;3.4;86;30;True
+Norwich;Tottenham;1;1;D;0;0;D;15;9;4;7;12;4;2;1;0;1;0;1.36;5;86;64;False
+Norwich;West Ham;0;0;D;0;0;D;20;14;4;10;12;8;5;0;1;0;0;2.38;3.4;86;47;True
+Norwich;Newcastle;0;1;H;1;0;H;16;8;3;11;19;4;5;1;1;0;0;1.8;3.6;86;39;False
+Norwich;Liverpool;2;5;A;0;2;A;10;7;6;5;2;5;5;1;0;0;0;4.75;3.75;86;62;True
+Norwich;Chelsea;1;4;H;3;1;H;20;13;4;7;1;10;2;0;0;0;0;1.22;6.5;86;87;False
+Norwich;Arsenal;1;0;H;1;0;H;7;3;7;9;9;2;10;4;0;0;0;6;4.2;86;75;True
+Norwich;Aston Villa;1;1;D;1;0;H;7;5;6;12;7;3;8;2;0;1;0;2;3.5;86;38;False
+Norwich;Stoke;1;0;H;1;0;H;12;8;3;11;13;9;1;1;5;0;0;2.6;3.3;86;54;True
+Norwich;Reading;0;0;D;0;0;D;7;3;3;9;16;10;3;0;1;0;0;2.25;3.4;86;50;False
+Norwich;Man United;1;0;H;0;0;D;10;5;9;10;7;0;12;0;1;0;0;7;4.5;86;70;True
+Norwich;Everton;1;1;D;1;0;H;14;9;4;10;18;4;2;0;3;0;0;1.44;4.33;86;47;False
+Norwich;Southampton;1;1;D;1;1;D;8;2;5;11;7;3;7;1;1;0;0;2;3.4;86;60;False
+Norwich;Sunderland;2;1;H;2;1;H;7;5;6;11;16;2;6;0;2;0;0;2.1;3.3;86;38;True
+Norwich;Swansea;4;3;A;0;3;A;21;10;8;12;9;6;2;2;1;0;0;1.8;3.6;86;56;False
+Norwich;Wigan;2;1;H;1;0;H;16;10;6;7;4;7;3;3;1;0;0;2.2;3.4;86;39;True
+Norwich;West Brom;1;2;H;1;1;D;12;8;4;14;9;6;5;1;1;0;0;1.91;3.6;86;44;False
+Norwich;Chelsea;0;1;A;0;1;A;8;4;11;7;7;5;7;1;1;0;0;6;3.75;86;87;True
+Norwich;Man City;3;4;A;1;2;A;13;8;9;8;10;4;9;3;1;0;1;6;4;86;79;True
+Norwich;West Ham;1;2;H;2;0;H;14;8;3;14;7;11;3;0;0;0;0;2.1;3.4;86;47;False
+Norwich;Newcastle;0;0;D;0;0;D;12;3;4;5;6;5;4;0;1;0;0;2.2;3.6;86;39;True
+Norwich;Liverpool;0;5;H;2;0;H;17;10;3;10;8;10;4;1;1;0;0;1.33;5.5;86;62;False
+Norwich;Tottenham;1;1;D;1;0;H;8;4;7;13;14;3;6;4;1;0;0;4.75;3.75;86;64;True
+Norwich;QPR;0;0;D;0;0;D;15;7;9;6;20;10;8;2;5;0;0;1.95;3.6;86;30;False
+Norwich;Fulham;0;0;D;0;0;D;15;8;5;10;16;3;4;2;2;0;0;2.3;3.4;86;52;True
+Norwich;Everton;2;1;H;0;1;A;10;9;5;15;10;7;5;1;1;0;0;3.8;3.5;86;47;True
+Norwich;Man United;0;4;H;1;0;H;13;10;1;5;15;7;3;0;4;0;0;1.33;5.5;86;70;False
+Norwich;Southampton;0;0;D;0;0;D;3;2;7;9;10;1;7;2;3;0;0;2.5;3.4;86;60;True
+Norwich;Sunderland;1;1;D;1;1;D;16;8;3;11;11;5;9;1;3;0;1;2.05;3.5;86;38;False
+Norwich;Wigan;0;1;H;0;0;D;13;6;5;13;9;10;3;1;2;0;0;1.95;3.6;86;39;False
+Norwich;Swansea;2;2;D;1;1;D;12;9;9;8;16;2;5;5;3;0;0;2.63;3.3;86;56;True
+Norwich;Arsenal;1;3;H;0;0;D;10;7;5;8;10;9;3;1;2;0;0;1.25;6.5;86;75;False
+Norwich;Reading;2;1;H;0;0;D;19;9;6;8;12;8;8;2;3;0;0;1.75;3.8;86;50;True
+Norwich;Stoke;0;1;H;0;0;D;12;4;0;10;8;5;3;4;2;0;0;2.25;3.3;86;54;False
+Norwich;Aston Villa;1;2;A;0;0;D;9;4;6;15;13;6;5;2;3;0;0;2.55;3.3;86;38;True
+Norwich;West Brom;4;0;H;1;0;H;11;8;5;10;7;8;2;2;1;0;0;2.2;3.4;86;44;True
+Norwich;Man City;3;2;A;1;1;D;12;5;7;10;8;7;7;1;0;0;0;1.33;5.5;86;79;False
+Norwich;Everton;2;2;D;0;0;D;M Oliver;19;2;6;13;10;6;8;2;0;0;0;3.2;86;47;True
+Norwich;Hull;0;1;H;1;0;H;M Jones;13;1;4;14;19;1;5;1;1;1;0;2.45;86;35;False
+Norwich;Southampton;1;0;H;0;0;D;H Webb;11;4;2;11;15;5;5;0;0;0;0;3;86;60;True
+Norwich;Tottenham;0;2;H;1;0;H;L Mason;4;7;1;2;12;8;1;1;3;0;0;1.45;86;64;False
+Norwich;Aston Villa;0;1;A;0;1;A;C Foy;16;1;4;15;10;7;4;1;0;0;0;2.4;86;38;True
+Norwich;Stoke;1;0;A;0;1;A;A Taylor;8;1;3;14;12;7;3;2;1;0;0;1.95;86;54;False
+Norwich;Chelsea;1;3;A;0;1;A;N Swarbrick;22;3;8;12;9;4;6;1;1;0;0;6.5;86;87;True
+Norwich;Arsenal;1;4;H;1;0;H;L Probert;12;11;6;8;7;10;1;0;0;0;0;1.29;86;75;False
+Norwich;Cardiff;0;0;D;0;0;D;M Jones;6;10;4;8;10;13;2;1;1;0;0;2.2;86;62;True
+Norwich;Man City;0;7;H;4;0;H;P Dowd;7;9;1;6;9;10;3;1;1;0;0;1.2;86;79;False
+Norwich;West Ham;3;1;H;0;1;A;J Moss;12;6;4;12;11;4;2;1;1;0;0;2.63;86;47;True
+Norwich;Newcastle;1;2;H;2;0;H;M Dean;10;5;2;8;7;6;5;0;1;0;0;1.8;86;39;False
+Norwich;Crystal Palace;1;0;H;1;0;H;C Foy;13;3;3;12;14;5;4;1;2;0;0;2;86;48;True
+Norwich;Liverpool;1;5;H;3;0;H;A Taylor;14;12;5;10;6;4;0;3;1;0;0;1.29;86;62;False
+Norwich;West Brom;2;0;A;0;1;A;M Clattenburg;8;12;3;10;6;10;3;1;3;0;0;1.8;86;44;False
+Norwich;Swansea;1;1;D;1;1;D;M Oliver;10;3;2;12;11;8;5;0;3;0;0;2.88;86;56;True
+Norwich;Sunderland;0;0;D;0;0;D;M Atkinson;14;4;5;13;10;6;7;2;1;1;0;2.05;86;38;False
+Norwich;Fulham;1;2;A;1;1;D;J Moss;15;3;7;14;10;5;4;3;0;0;0;2.05;86;52;True
+Norwich;Man United;0;1;A;0;0;D;P Dowd;7;4;3;11;10;8;3;4;3;0;0;6.5;86;70;True
+Norwich;Crystal Palace;1;1;D;1;1;D;M Dean;8;4;5;12;10;9;4;2;1;0;1;2.38;86;48;False
+Norwich;Everton;0;2;H;1;0;H;K Friend;12;5;3;7;14;10;5;1;2;0;0;1.4;86;47;False
+Norwich;Hull;1;0;H;0;0;D;H Webb;10;4;0;8;16;10;8;1;2;0;1;2.4;86;35;True
+Norwich;Newcastle;0;0;D;0;0;D;C Foy;22;2;3;13;7;7;7;1;1;1;1;2.7;86;39;True
+Norwich;Cardiff;1;2;H;0;1;A;M Clattenburg;27;5;6;8;9;7;14;1;4;0;0;2.3;86;62;False
+Norwich;Man City;0;0;D;0;0;D;J Moss;15;2;2;7;6;4;14;2;1;0;0;9;86;79;True
+Norwich;West Ham;0;2;H;0;0;D;M Oliver;13;7;6;12;16;5;5;1;3;0;0;2.05;86;47;False
+Norwich;Tottenham;1;0;H;0;0;D;C Pawson;9;3;2;8;15;5;3;1;3;0;0;3.8;86;64;True
+Norwich;Aston Villa;1;4;H;4;1;H;A Taylor;7;4;4;12;10;6;2;0;3;0;0;2.1;86;38;False
+Norwich;Stoke;1;1;D;0;0;D;A Marriner;6;5;3;9;12;3;1;0;2;0;1;2.25;86;54;True
+Norwich;Southampton;2;4;H;1;0;H;K Friend;6;6;3;11;17;6;1;1;2;0;0;1.62;86;60;False
+Norwich;Sunderland;2;0;H;2;0;H;P Dowd;10;8;2;16;20;8;5;2;4;0;1;2.2;86;38;True
+Norwich;Swansea;0;3;H;2;0;H;J Moss;8;7;4;15;9;7;4;1;2;0;0;1.73;86;56;False
+Norwich;West Brom;0;1;A;0;1;A;M Clattenburg;8;4;5;10;11;7;3;1;0;0;0;2.4;86;44;True
+Norwich;Fulham;0;1;H;1;0;H;M Dean;13;3;3;10;12;8;8;1;3;0;0;2.15;86;52;False
+Norwich;Liverpool;2;3;A;0;2;A;A Marriner;14;5;6;16;10;8;3;3;2;0;0;8.5;86;62;True
+Norwich;Man United;0;4;H;1;0;H;L Probert;9;11;2;13;9;5;3;1;1;0;0;1.36;86;70;False
+Norwich;Chelsea;0;0;D;0;0;D;N Swarbrick;6;4;3;9;17;5;2;1;3;0;0;1.2;86;87;False
+Norwich;Arsenal;0;2;A;0;0;D;L Mason;14;5;8;6;5;4;4;1;0;0;0;4.5;86;75;True
+Norwich;Crystal Palace;1;3;A;0;1;A;S Hooper;11;6;7;14;20;1;4;1;0;0;0;2.55;86;48;True
+Norwich;Sunderland;3;1;A;0;2;A;K Friend;19;2;6;7;7;6;6;1;2;0;0;2.5;86;38;False
+Norwich;Stoke;1;1;D;1;1;D;M Dean;6;7;1;16;5;9;0;4;1;0;0;2.3;86;54;True
+Norwich;Southampton;0;3;H;1;0;H;J Moss;6;8;1;4;12;6;4;0;0;0;1;2.05;86;60;False
+Norwich;Bournemouth;3;1;H;1;0;H;M Atkinson;7;4;2;10;11;4;4;2;3;0;0;2.4;86;80;True
+Norwich;Liverpool;1;1;D;0;0;D;A Taylor;7;7;2;4;13;6;2;1;2;0;0;1.67;86;62;False
+Norwich;West Ham;2;2;D;1;1;D;M Dean;16;7;7;7;17;7;5;0;0;0;0;2.25;86;47;False
+Norwich;Leicester;1;2;A;0;1;A;M Clattenburg;16;2;5;4;4;16;8;0;1;0;0;2.3;86;41;True

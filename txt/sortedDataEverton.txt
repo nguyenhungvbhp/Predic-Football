@@ -1,0 +1,464 @@
+Everton;Arsenal;1;2;H;1;0;H;M Halsey;13;5;7;8;15;6;9;1;3;1;1;1.4;47;75;False
+Everton;Fulham;3;1;H;3;0;H;N Barry;23;8;15;15;14;4;10;2;4;0;0;1.8;47;52;True
+Everton;Charlton;2;2;D;1;1;D;S Dunn;13;4;4;8;8;6;8;1;1;0;0;2.375;47;60;False
+Everton;Liverpool;0;3;A;0;1;A;M Riley;18;5;11;22;17;9;5;3;3;0;0;2.6;47;62;True
+Everton;Newcastle;2;2;D;0;0;D;R Styles;4;7;2;20;21;6;3;5;5;1;1;2.37;47;39;True
+Everton;Middlesbrough;0;1;H;1;0;H;A Wiley;9;4;5;12;14;4;6;2;3;0;0;2.3;47;85;False
+Everton;Leeds;4;0;H;3;0;H;P Durkin;6;9;2;11;15;11;4;0;2;0;0;1.83;47;56;True
+Everton;Tottenham;0;3;H;1;0;H;D Gallagher;12;7;4;15;14;2;6;2;2;0;0;2.25;47;64;False
+Everton;Southampton;0;0;D;0;0;D;M Messias;19;6;7;11;6;8;6;1;2;0;0;2;47;60;True
+Everton;Aston Villa;0;0;D;0;0;D;A D'Urso;8;6;2;11;12;9;3;0;1;0;0;2;47;38;False
+Everton;Chelsea;0;1;A;0;0;D;J Winter;17;4;7;5;11;3;1;0;0;0;0;4.5;47;87;True
+Everton;Blackburn;1;2;H;2;0;H;P Dowd;8;12;2;16;9;12;3;3;2;0;0;2.25;47;67;False
+Everton;Wolves;2;0;H;2;0;H;M Riley;8;15;4;7;23;8;3;2;2;0;0;1.66;47;78;True
+Everton;Bolton;0;2;H;1;0;H;P Durkin;7;6;3;11;18;7;7;0;2;0;0;2.25;47;51;False
+Everton;Man City;0;0;D;0;0;D;J Winter;15;2;7;11;13;3;5;1;1;0;0;2.3;47;79;True
+Everton;Portsmouth;2;1;A;1;2;A;U Rennie;9;10;4;13;13;7;10;1;1;0;0;2.2;47;72;False
+Everton;Leicester;3;2;H;1;1;D;P Dowd;6;8;4;13;18;11;7;2;3;0;0;1.8;47;41;True
+Everton;Man United;2;3;H;2;1;H;M Dean;10;11;6;8;10;7;2;0;2;0;0;1.25;47;70;False
+Everton;Birmingham;1;0;H;0;0;D;R Styles;5;6;2;7;13;5;2;0;0;0;0;2.1;47;63;True
+Everton;Arsenal;1;1;D;0;1;A;A Wiley;9;4;5;13;16;5;4;0;3;0;0;5.5;47;75;True
+Everton;Fulham;1;2;H;1;0;H;G Poll;11;10;5;19;9;5;7;0;0;0;0;2.1;47;52;False
+Everton;Charlton;0;1;A;0;1;A;M Riley;7;7;4;6;14;10;5;4;2;0;0;2.25;47;60;True
+Everton;Liverpool;0;0;D;0;0;D;S Bennett;6;9;4;7;11;8;3;0;1;0;0;1.727;47;62;False
+Everton;Man United;3;4;A;0;3;A;N Barry;19;8;9;11;14;7;7;1;0;0;0;5.5;47;70;True
+Everton;Birmingham;0;3;H;2;0;H;M Halsey;5;11;3;10;14;8;11;1;0;0;0;2.1;47;63;False
+Everton;Southampton;3;3;D;0;2;A;P Dowd;12;5;6;14;19;6;5;1;0;0;0;2;47;60;False
+Everton;Aston Villa;2;0;H;0;0;D;M Messias;12;7;8;13;18;5;11;4;2;0;0;2.375;47;38;True
+Everton;Portsmouth;1;0;H;0;0;D;N Barry;5;6;3;10;12;6;4;0;2;0;0;1.727;47;72;True
+Everton;Leicester;1;1;D;0;0;D;B Knight;7;4;3;12;21;9;2;1;5;0;1;2.5;47;41;False
+Everton;Middlesbrough;1;1;D;0;0;D;S Bennett;10;7;5;16;13;8;4;0;2;0;0;2.2;47;85;True
+Everton;Newcastle;2;4;H;2;1;H;D Gallagher;13;8;6;11;7;5;9;0;0;0;0;1.615;47;39;False
+Everton;Tottenham;3;1;H;3;0;H;R Styles;12;10;7;9;14;8;4;0;3;0;1;2.2;47;64;True
+Everton;Leeds;1;1;D;0;1;A;P Durkin;8;7;4;12;12;10;5;2;1;0;0;2.2;47;56;False
+Everton;Chelsea;0;0;D;0;0;D;G Poll;5;6;4;11;10;8;4;0;0;0;0;1.444;47;87;False
+Everton;Blackburn;0;1;A;0;0;D;P Dowd;10;9;7;8;22;8;5;0;4;0;0;2.2;47;67;True
+Everton;Wolves;1;2;H;0;1;A;M Riley;10;11;6;7;12;12;7;0;1;0;0;2.5;47;78;False
+Everton;Bolton;1;2;A;0;1;A;P Durkin;10;9;3;14;9;7;3;2;0;0;0;2.25;47;51;True
+Everton;Man City;1;5;H;3;0;H;S Dunn;2;11;0;5;8;7;3;1;1;0;0;2.1;47;79;False
+Everton;Arsenal;1;4;A;0;2;A;M Riley;18;5;14;14;19;0;7;2;1;0;0;6;47;75;True
+Everton;Crystal Palace;3;1;A;1;1;D;M Clattenburg;14;9;7;6;18;6;6;1;1;0;1;2.3;47;48;False
+Everton;West Brom;2;1;H;1;1;D;P Walton;12;10;8;11;16;7;6;0;1;0;0;2;47;44;True
+Everton;Man United;0;0;D;0;0;D;D Gallagher;7;6;2;8;13;8;2;0;2;0;0;1.28;47;70;False
+Everton;Man City;1;0;A;0;0;D;S Bennett;6;4;5;14;9;9;6;1;3;0;1;1.909;47;79;False
+Everton;Middlesbrough;1;0;H;0;0;D;H Webb;16;9;11;13;12;6;3;1;4;0;0;2.5;47;85;True
+Everton;Portsmouth;1;0;A;0;0;D;D Gallagher;9;6;2;12;16;3;6;1;1;0;0;2.25;47;72;False
+Everton;Tottenham;0;1;A;0;0;D;G Poll;8;4;2;9;13;11;2;1;2;0;0;2.25;47;64;True
+Everton;Southampton;1;0;H;0;0;D;B Knight;8;5;4;5;14;5;6;0;0;0;0;1.72;47;60;True
+Everton;Norwich;3;2;A;0;2;A;M Clattenburg;13;10;9;8;11;11;4;0;2;0;0;2.75;47;86;False
+Everton;Aston Villa;1;1;D;1;1;D;S Dunn;9;8;5;10;19;8;3;1;1;0;0;2.1;47;38;True
+Everton;Chelsea;0;1;H;0;0;D;M Riley;3;3;1;10;15;16;3;1;3;0;0;1.4;47;87;False
+Everton;Birmingham;1;0;A;0;0;D;R Styles;9;4;8;13;12;5;3;0;1;1;0;2.37;47;63;False
+Everton;Fulham;1;0;H;0;0;D;G Poll;6;7;4;11;24;12;7;0;1;0;0;1.83;47;52;True
+Everton;Newcastle;1;1;D;1;0;H;N Barry;7;9;3;14;19;8;4;1;3;0;0;1.83;47;39;False
+Everton;Bolton;3;2;H;1;1;D;H Webb;10;3;6;14;18;4;4;0;3;0;0;2;47;51;True
+Everton;Liverpool;1;0;H;0;0;D;S Bennett;16;2;5;12;14;2;7;2;3;0;0;2.6;47;62;True
+Everton;Blackburn;0;0;D;0;0;D;M Halsey;5;9;2;25;21;7;3;1;2;0;0;2.75;47;67;False
+Everton;Man City;2;1;H;1;1;D;P Dowd;10;6;6;14;21;4;4;1;2;0;1;1.9;47;79;True
+Everton;Charlton;0;2;H;0;0;D;M Riley;5;8;3;13;11;8;2;0;0;0;1;2.62;47;60;False
+Everton;Tottenham;2;5;H;2;1;H;S Dunn;6;12;3;8;13;6;4;0;0;0;0;2.25;47;64;False
+Everton;Portsmouth;2;1;H;1;1;D;P Walton;9;7;6;5;9;8;1;0;0;0;0;1.72;47;72;True
+Everton;Middlesbrough;1;1;D;1;0;H;D Gallagher;13;12;5;12;10;9;6;1;2;0;0;2.2;47;85;False
+Everton;Charlton;0;1;A;0;1;A;H Webb;4;7;3;13;10;9;5;1;2;0;0;1.83;47;60;True
+Everton;Norwich;1;0;H;0;0;D;A Wiley;11;4;6;12;16;3;3;1;0;0;0;1.57;47;86;True
+Everton;Southampton;2;2;D;1;1;D;A D'Urso;8;9;4;15;11;8;3;0;2;0;0;2.63;47;60;False
+Everton;Chelsea;0;1;A;0;0;D;M Riley;25;2;11;14;9;3;9;1;2;1;0;4.5;47;87;True
+Everton;Aston Villa;3;1;A;0;1;A;G Poll;15;6;9;22;17;3;7;3;0;0;0;2.25;47;38;False
+Everton;Blackburn;0;1;A;0;0;D;P Dowd;11;4;5;15;20;6;3;3;2;0;0;1.72;47;67;True
+Everton;Liverpool;1;2;H;2;0;H;R Styles;4;8;2;13;15;5;1;1;4;1;0;1.9;47;62;False
+Everton;West Brom;0;1;H;0;0;D;G Poll;8;4;2;15;20;7;7;1;2;0;0;2.75;47;44;False
+Everton;Crystal Palace;4;0;H;1;0;H;U Rennie;11;8;3;10;14;4;9;1;1;0;0;1.66;47;48;True
+Everton;Man United;1;0;H;0;0;D;P Dowd;16;3;11;18;17;4;5;3;2;0;2;4;47;70;True
+Everton;Birmingham;1;1;D;0;1;A; A D'Urso;9;6;4;18;18;9;5;2;3;0;0;1.66;47;63;True
+Everton;Fulham;0;2;H;2;0;H;S Bennett;11;6;4;18;16;3;7;1;3;1;0;2.75;47;52;False
+Everton;Newcastle;2;0;H;1;0;H;B Knight;9;6;4;22;11;3;2;3;1;0;1;1.72;47;39;True
+Everton;Arsenal;0;7;H;3;0;H;A Wiley;7;12;3;9;12;4;2;2;0;0;0;1.61;47;75;False
+Everton;Bolton;2;3;H;0;1;A;N Barry;10;9;5;12;17;5;6;2;1;1;0;1.9;47;51;False
+Everton;Man United;0;2;A;0;1;A;G Poll;12;5;5;15;14;8;6;3;1;0;0;5;47;70;True
+Everton;Bolton;1;0;A;0;0;D;A Wiley;3;6;1;10;13;8;3;0;1;0;0;2.1;47;51;False
+Everton;Fulham;0;1;H;0;0;D;M Riley;6;4;2;19;25;6;2;1;2;0;1;2.5;47;52;False
+Everton;Portsmouth;0;1;A;0;0;D;M Atkinson;12;6;8;10;12;11;6;2;1;0;0;1.72;47;72;True
+Everton;Arsenal;0;2;H;2;0;H;A Wiley;4;4;2;13;19;4;0;2;3;0;0;1.4;47;75;False
+Everton;Wigan;0;1;A;0;0;D;R Styles;11;7;3;17;21;11;3;2;1;0;0;1.9;47;39;True
+Everton;Man City;0;2;H;0;0;D;M Halsey;5;5;4;16;10;4;2;1;0;0;0;1.83;47;79;False
+Everton;Tottenham;0;2;H;0;0;D;D Gallagher;8;5;4;13;9;5;8;0;2;0;0;1.61;47;64;False
+Everton;Chelsea;1;1;D;1;0;H;M Clattenburg;24;4;12;14;14;3;11;2;2;0;0;9;47;87;True
+Everton;Birmingham;1;0;A;0;1;A;R Styles;11;8;6;11;15;8;6;0;1;0;0;2.3;47;63;False
+Everton;Middlesbrough;1;0;H;1;0;H;M Riley;17;8;9;21;16;9;3;2;1;0;0;2.5;47;85;True
+Everton;West Brom;0;4;H;1;0;H;D Gallagher;11;8;6;11;9;4;8;0;0;0;0;2.5;47;44;False
+Everton;Newcastle;1;0;H;0;0;D;H Webb;16;9;10;19;19;12;8;1;5;0;0;2.5;47;39;True
+Everton;Blackburn;2;0;A;0;2;A;M Halsey;8;7;5;8;18;7;5;1;1;1;0;2;47;67;False
+Everton;Man United;1;1;D;1;1;D;R Styles;7;12;5;12;11;9;0;1;2;0;0;1.3;47;70;False
+Everton;West Ham;1;2;A;1;1;D;P Walton;7;3;2;10;11;4;9;2;1;0;0;2.1;47;47;True
+Everton;Bolton;0;4;A;0;1;A;A Wiley;7;10;5;13;15;10;0;2;2;0;0;2.37;47;51;True
+Everton;Aston Villa;0;4;H;1;0;H;M Riley;10;7;5;12;11;4;9;0;0;0;0;2.1;47;38;False
+Everton;Liverpool;1;3;A;1;2;A;G Poll;12;6;5;23;20;5;2;4;2;2;0;5;47;62;True
+Everton;Sunderland;1;0;A;0;0;D;R Styles;9;6;5;6;7;8;5;1;1;0;0;2.6;47;38;False
+Everton;Charlton;3;1;H;2;1;H;U Rennie;11;6;4;13;14;5;2;0;2;0;0;2.3;47;60;True
+Everton;Portsmouth;1;0;A;0;1;A;A Marriner;9;8;3;21;13;4;8;2;2;0;0;2.2;47;72;False
+Everton;Arsenal;1;0;H;1;0;H;A Wiley;14;3;5;19;17;5;6;4;2;0;1;5.5;47;75;True
+Everton;Wigan;1;1;D;1;1;D;M Dean;8;6;6;15;15;5;5;1;1;1;1;2.25;47;39;False
+Everton;Man City;1;0;H;1;0;H;A Marriner;7;5;3;13;19;9;5;0;3;0;1;2.2;47;79;True
+Everton;Blackburn;1;0;H;1;0;H;P Walton;18;2;5;8;14;6;10;4;2;1;0;2.25;47;67;True
+Everton;Newcastle;0;2;H;0;0;D;G Poll;12;10;6;26;15;6;4;1;1;0;0;2.1;47;39;False
+Everton;West Ham;2;2;D;2;1;H;M Riley;13;3;5;12;10;1;9;3;3;0;0;2.1;47;47;False
+Everton;Fulham;3;1;H;2;0;H;U Rennie;8;7;3;15;12;8;4;2;2;0;0;1.83;47;52;True
+Everton;Aston Villa;4;1;H;3;0;H;R Styles;9;7;7;6;11;4;9;1;3;0;0;1.8;47;38;True
+Everton;Liverpool;1;3;H;1;0;H;P Dowd;8;10;5;12;25;5;3;3;7;1;1;1.57;47;62;False
+Everton;Sunderland;2;2;D;2;1;H;M Halsey;16;8;8;8;10;4;4;0;0;0;0;1.36;47;38;True
+Everton;Charlton;0;0;D;0;0;D;P Walton;7;4;3;16;16;6;4;0;2;0;0;2.3;47;60;False
+Everton;Tottenham;0;1;A;0;1;A;H Webb;10;4;6;16;9;7;9;2;1;0;0;2.5;47;64;True
+Everton;Chelsea;0;3;H;1;0;H;R Styles;4;8;2;6;6;6;3;0;0;0;1;1.2;47;87;False
+Everton;Birmingham;0;0;D;0;0;D;M Halsey;6;9;2;15;18;11;2;0;4;0;0;2.1;47;63;True
+Everton;Middlesbrough;1;0;A;0;0;D;L Mason;8;3;4;13;17;4;6;2;2;0;0;2.5;47;85;False
+Everton;West Brom;2;2;D;0;1;A;A Wiley;6;18;5;16;18;14;2;1;2;0;0;1.66;47;44;True
+Everton;Watford;2;1;H;1;0;H;P Walton;12;2;8;12;13;0;6;2;2;0;0;1.66;47;69;True
+Everton;Blackburn;1;1;D;0;0;D;U Rennie;10;5;4;22;20;5;3;4;3;0;0;2.3;47;67;False
+Everton;Tottenham;2;0;A;0;0;D;M Halsey;6;6;2;9;12;7;2;1;1;0;1;1.72;47;64;False
+Everton;Liverpool;3;0;H;2;0;H;G Poll;21;6;5;22;13;2;11;1;3;0;0;3.75;47;62;True
+Everton;Wigan;2;2;D;0;0;D;A Wiley;10;9;7;14;23;4;2;1;5;0;0;1.72;47;39;True
+Everton;Newcastle;1;1;D;1;1;D;S Bennett;12;13;5;12;18;9;6;2;4;1;1;2.2;47;39;False
+Everton;Man City;1;1;D;1;0;H;A Marriner;11;10;5;14;17;8;4;2;2;0;0;1.83;47;79;True
+Everton;Middlesbrough;1;2;H;1;0;H;M Halsey;12;6;8;12;9;10;13;1;0;0;0;2.6;47;85;False
+Everton;Sheffield United;2;0;H;2;0;H;D Gallagher;10;5;4;13;11;4;3;0;1;0;1;1.57;47;60;True
+Everton;Arsenal;1;1;D;0;1;A;M Riley;2;12;2;6;21;16;3;2;3;0;0;1.4;47;75;False
+Everton;Fulham;0;1;H;0;0;D;M Atkinson;5;3;3;8;17;4;10;0;1;0;0;2.8;47;52;False
+Everton;Aston Villa;0;1;A;0;1;A;P Dowd;17;4;9;16;19;6;2;2;3;0;0;2;47;38;True
+Everton;Bolton;1;0;H;0;0;D;U Rennie;13;2;2;18;14;5;8;3;0;0;0;2.4;47;51;True
+Everton;Charlton;1;1;D;0;0;D;A Wiley;9;8;6;16;13;6;7;2;0;0;0;2.7;47;60;False
+Everton;Man United;0;3;H;1;0;H;M Halsey;7;6;4;15;15;3;2;1;1;0;0;1.33;47;70;False
+Everton;West Ham;2;0;H;0;0;D;M Atkinson;16;5;11;16;9;3;14;2;2;0;0;1.9;47;47;True
+Everton;Portsmouth;0;2;H;2;0;H;M Clattenburg;12;8;5;20;11;6;4;2;4;0;0;2.2;47;72;False
+Everton;Chelsea;2;3;A;1;0;H;M Halsey;18;1;9;17;8;5;6;1;1;0;0;5.5;47;87;True
+Everton;Reading;2;0;A;0;1;A;S Tanner;10;7;7;10;6;12;4;0;0;0;0;2.3;47;50;False
+Everton;Middlesbrough;0;0;D;0;0;D;P Dowd;7;4;2;12;17;12;2;2;1;0;0;1.83;47;85;True
+Everton;Newcastle;3;0;H;1;0;H;D Gallagher;7;9;3;7;11;7;12;2;3;0;0;2.1;47;39;True
+Everton;Man City;1;2;H;0;0;D;U Rennie;15;7;5;13;13;4;6;2;3;0;0;2.37;47;79;False
+Everton;Reading;1;1;D;0;1;A;M Riley;7;7;3;12;17;8;5;2;2;0;0;2;47;50;True
+Everton;Wigan;2;0;A;0;0;D;H Webb;8;6;5;11;17;6;6;0;1;0;0;2.5;47;39;False
+Everton;Liverpool;0;0;D;0;0;D;A Wiley;6;10;4;13;18;6;4;0;3;0;0;1.57;47;62;False
+Everton;Blackburn;1;0;H;1;0;H;R Styles;8;8;4;15;13;3;10;2;1;0;0;2.1;47;67;True
+Everton;Tottenham;1;2;A;1;1;D;U Rennie;8;3;4;7;14;5;1;2;1;0;0;2.3;47;64;True
+Everton;Watford;3;0;A;0;2;A;L Mason;13;3;5;10;17;5;9;2;1;0;0;3.1;47;69;False
+Everton;Sheffield United;1;1;D;0;0;D;M Riley;7;6;2;18;10;5;6;3;2;0;0;2.6;47;60;False
+Everton;Arsenal;1;0;H;0;0;D;M Clattenburg;18;4;9;17;13;5;4;6;0;0;0;3.1;47;75;True
+Everton;Aston Villa;1;1;D;0;1;A;H Webb;18;10;8;18;16;5;6;3;3;0;0;2.37;47;38;False
+Everton;Fulham;4;1;H;3;1;H;D Gallagh;15;10;8;18;12;4;10;0;0;0;0;1.66;47;52;True
+Everton;Bolton;1;1;D;1;1;D;M Atkinson;9;4;7;16;19;7;7;3;1;0;0;2.1;47;51;False
+Everton;Charlton;2;1;H;0;0;D;M Halsey;7;11;4;7;15;7;4;0;3;0;0;1.72;47;60;True
+Everton;West Ham;0;1;H;1;0;H;M Clattenburg;10;7;2;16;10;5;7;2;1;0;0;2.4;47;47;False
+Everton;Man United;2;4;A;1;0;H;A Wiley;18;3;12;17;11;4;9;1;1;0;0;5;47;70;True
+Everton;Portsmouth;3;0;H;0;0;D;H Webb;12;7;5;9;19;9;8;3;3;0;0;1.95;47;72;True
+Everton;Chelsea;1;1;D;0;0;D;M Halsey;8;10;5;13;5;9;2;2;1;0;0;1.72;47;87;False
+Everton;Wigan;2;1;H;1;0;H;M Clattenburg;14;8;4;8;13;6;2;0;0;0;0;1.66;47;39;True
+Everton;Tottenham;3;1;A;1;3;A;M Halsey;16;8;10;16;9;9;4;2;0;0;0;1.8;47;64;False
+Everton;Reading;0;1;H;1;0;H;S Bennett;13;5;5;14;8;4;12;2;2;0;0;2.5;47;50;False
+Everton;Blackburn;1;1;D;0;1;A;M Riley;11;8;7;20;18;5;7;0;2;0;0;2.1;47;67;True
+Everton;Bolton;2;1;A;0;1;A;P Walton;15;7;11;8;10;11;6;1;3;0;0;2.4;47;51;False
+Everton;Man United;0;1;A;0;0;D;A Wiley;16;2;8;20;10;3;6;2;2;0;0;4.5;47;70;True
+Everton;Aston Villa;0;2;H;1;0;H;L Probert;8;3;6;17;12;6;3;1;0;0;0;2.25;47;38;False
+Everton;Middlesbrough;2;0;H;1;0;H;M Riley;13;9;5;17;21;2;6;0;4;0;0;1.8;47;85;True
+Everton;Newcastle;2;3;H;1;0;H;M Atkinson;11;10;6;13;19;8;2;2;1;0;0;2.1;47;39;False
+Everton;Liverpool;1;2;A;1;0;H;M Clattenburg;17;1;7;8;14;9;6;1;2;2;0;3.6;47;62;True
+Everton;Derby;2;0;A;0;1;A;S Bennett;7;2;3;11;12;0;2;1;1;0;0;3.6;47;77;False
+Everton;Birmingham;3;1;H;1;0;H;M Riley;7;9;6;14;22;6;5;0;1;0;0;1.66;47;63;True
+Everton;Chelsea;1;1;D;0;0;D;A Wiley;6;10;2;13;16;9;1;2;2;0;0;1.33;47;87;False
+Everton;Sunderland;7;1;H;3;1;H;P Dowd;13;18;7;9;13;2;6;0;1;0;0;1.61;47;38;True
+Everton;Portsmouth;0;0;D;0;0;D;P Walton;4;6;2;14;13;9;0;1;2;0;0;2.2;47;72;False
+Everton;Fulham;3;0;H;0;0;D;S Bennett;6;11;4;9;9;12;7;0;2;0;0;1.57;47;52;True
+Everton;West Ham;2;0;A;0;1;A;S Tanner;12;3;8;16;14;9;2;1;2;0;0;2.5;47;47;False
+Everton;Man United;1;2;H;1;1;D;H Webb;4;11;2;10;13;8;2;3;3;0;0;1.36;47;70;False
+Everton;Bolton;2;0;H;0;0;D;R Styles;9;10;7;8;18;7;4;0;3;0;0;1.7;47;51;True
+Everton;Arsenal;1;4;A;1;0;H;M Atkinson;10;3;7;14;13;10;2;0;5;1;1;3.5;47;75;True
+Everton;Middlesbrough;2;0;A;0;0;D;M Riley;5;4;3;18;11;5;6;0;1;0;0;3;47;85;False
+Everton;Man City;1;0;H;1;0;H;M Halsey;5;5;1;14;12;4;4;2;1;0;0;2.1;47;79;True
+Everton;Wigan;2;1;A;0;2;A;L Probert;11;3;6;15;15;5;5;1;2;0;0;3.25;47;39;False
+Everton;Tottenham;0;0;D;0;0;D;A Marriner;5;6;4;14;12;7;2;1;1;0;0;2.37;47;64;True
+Everton;Blackburn;0;0;D;0;0;D;A Wiley;10;3;4;18;15;4;8;4;2;0;0;2.37;47;67;False
+Everton;Reading;1;0;H;0;0;D;M Halsey;14;6;5;13;13;8;8;0;0;0;0;1.53;47;50;True
+Everton;Man City;2;0;A;0;2;A;R Styles;13;12;8;7;14;4;7;0;1;1;0;2.4;47;79;False
+Everton;Portsmouth;3;1;H;1;1;D;A Marriner;9;5;5;12;18;10;3;1;1;0;0;1.83;47;72;True
+Everton;Sunderland;1;0;A;0;0;D;A Wiley;7;6;6;17;9;3;4;2;1;0;0;3.5;47;38;False
+Everton;Fulham;0;1;H;0;0;D;S Bennett;7;2;4;14;6;3;3;1;0;0;0;3.5;47;52;False
+Everton;West Ham;1;1;D;1;0;H;M Halsey;13;7;5;10;10;4;4;0;0;0;0;1.72;47;47;True
+Everton;Liverpool;0;1;H;1;0;H;H Webb;3;9;2;13;14;11;4;1;4;0;0;1.72;47;62;False
+Everton;Derby;1;0;H;0;0;D;A Marriner;7;5;5;17;19;9;8;1;3;0;0;1.25;47;77;True
+Everton;Birmingham;1;1;D;0;0;D;S Bennett;13;7;6;9;6;11;1;1;1;0;0;3;47;63;False
+Everton;Chelsea;0;1;A;0;1;A;M Atkinson;5;5;3;8;9;4;6;0;2;0;0;3.8;47;87;True
+Everton;Aston Villa;2;2;D;0;0;D;P Dowd;6;7;3;10;17;9;6;3;3;0;0;2.25;47;38;True
+Everton;Arsenal;0;1;H;0;0;D;A Wiley;8;2;4;10;4;8;3;0;1;0;0;1.66;47;75;False
+Everton;Newcastle;3;1;H;1;0;H;P Walton;3;11;2;11;12;6;2;0;2;0;0;1.8;47;39;True
+Everton;Blackburn;2;3;A;1;1;D;A Marriner;15;5;11;11;9;3;5;2;2;0;0;2;47;67;True
+Everton;West Brom;2;1;A;0;0;D;R Styles;9;4;7;11;14;11;5;3;1;0;0;2.88;47;44;False
+Everton;Portsmouth;0;3;A;0;2;A;M Halsey;6;7;5;5;11;4;3;1;0;0;0;2.1;47;72;True
+Everton;Stoke;3;2;A;0;1;A;A Wiley;8;7;5;10;19;7;8;2;1;0;0;3.4;47;54;False
+Everton;Hull;2;2;D;1;0;H;L Mason;17;5;8;11;12;4;6;0;1;0;0;3.1;47;35;False
+Everton;Liverpool;0;2;A;0;0;D;M Riley;11;2;6;17;20;7;4;3;3;1;0;3.75;47;62;True
+Everton;Newcastle;2;2;D;2;1;H;H Webb;11;5;9;18;15;3;5;1;3;0;0;1.73;47;39;True
+Everton;Arsenal;1;3;H;0;1;A;P Walton;7;14;3;8;13;7;4;2;4;0;0;1.36;47;75;False
+Everton;Man United;1;1;D;0;1;A;A Wiley;18;9;14;17;11;5;9;3;3;0;0;7.5;47;70;True
+Everton;Bolton;1;0;A;0;0;D;P Dowd;11;12;7;17;12;5;3;1;2;0;0;2.6;47;51;False
+Everton;Fulham;1;0;H;0;0;D;L Mason;15;4;5;11;15;6;5;0;0;0;0;1.67;47;52;True
+Everton;West Ham;3;1;A;0;0;D;M Halsey;12;13;7;9;10;9;4;1;1;0;0;2.6;47;47;False
+Everton;Middlesbrough;1;1;D;0;1;A;H Webb;11;7;3;11;13;11;1;0;2;0;0;1.83;47;85;True
+Everton;Wigan;0;1;H;0;0;D;R Styles;7;6;2;8;7;3;3;0;0;0;0;2.5;47;39;False
+Everton;Tottenham;1;0;A;0;0;D;S Bennett;8;6;6;9;16;5;1;1;3;0;0;1.91;47;64;False
+Everton;Aston Villa;2;3;A;1;1;D;M Atkinson;5;7;5;18;16;10;6;2;1;0;0;2.62;47;38;True
+Everton;Man City;1;0;A;0;0;D;M Halsey;11;4;4;10;7;5;7;0;1;0;0;2;47;79;False
+Everton;Chelsea;0;0;D;0;0;D;P Dowd;6;8;2;16;12;6;5;0;3;0;1;5;47;87;True
+Everton;Middlesbrough;1;0;A;0;0;D;M Riley;11;5;6;28;14;5;8;5;1;0;0;2.5;47;85;False
+Everton;Sunderland;3;0;H;2;0;H;R Styles;8;6;5;6;10;8;2;1;4;0;0;1.8;47;38;True
+Everton;Hull;2;0;H;2;0;H;M Atkinson;5;5;0;14;26;5;3;2;5;0;0;1.62;47;35;True
+Everton;Liverpool;1;1;D;0;0;D;H Webb;7;5;6;19;15;4;4;0;2;0;0;1.62;47;62;False
+Everton;Arsenal;1;1;D;0;0;D;A Marriner;7;3;4;9;11;7;6;2;2;0;0;3;47;75;True
+Everton;Man United;0;1;H;1;0;H;M Halsey;7;10;4;11;14;6;2;0;0;0;0;1.36;47;70;False
+Everton;Bolton;3;0;H;1;0;H;P Walton;7;11;4;7;17;8;4;1;1;0;0;1.72;47;51;True
+Everton;Newcastle;0;0;D;0;0;D;L Mason;15;0;5;15;15;0;6;0;1;1;0;2.87;47;39;False
+Everton;West Brom;2;0;H;1;0;H;S Bennett;17;6;9;9;14;3;6;1;1;0;0;1.5;47;44;True
+Everton;Blackburn;0;0;D;0;0;D;A Wiley;9;3;5;11;14;2;4;1;0;0;0;2.5;47;67;False
+Everton;Stoke;3;1;H;2;0;H;A Marriner;10;13;5;7;12;4;9;0;1;0;0;1.5;47;54;True
+Everton;Portsmouth;1;2;H;1;1;D;P Walton;5;11;2;19;8;7;4;2;1;0;0;2.75;47;72;False
+Everton;Wigan;4;0;H;1;0;H;P Dowd;14;10;8;17;11;1;4;0;3;0;0;1.72;47;39;True
+Everton;Aston Villa;3;3;D;1;2;A;H Webb;10;8;6;9;15;11;7;0;2;0;0;2.2;47;38;False
+Everton;Chelsea;0;0;D;0;0;D;M Halsey;14;6;5;9;10;4;6;0;1;0;0;1.44;47;87;False
+Everton;Man City;1;2;A;0;1;A;A Wiley;16;4;10;12;14;5;3;1;3;0;0;1.83;47;79;True
+Everton;Sunderland;2;0;A;0;0;D;M Atkinson;10;3;8;15;12;9;3;3;4;0;0;2.5;47;38;False
+Everton;Tottenham;0;0;D;0;0;D;L Mason;4;5;2;16;10;4;5;2;3;0;0;2.3;47;64;True
+Everton;West Ham;3;1;H;1;1;D;P Dowd;8;9;3;15;14;6;3;1;2;0;1;1.73;47;47;True
+Everton;Fulham;2;0;A;0;1;A;M Riley;13;4;10;15;10;2;2;0;0;0;0;2.1;47;52;False
+Everton;Arsenal;1;6;A;0;3;A;M Halsey;15;5;9;11;13;4;9;0;0;0;0;3.2;47;75;True
+Everton;Burnley;0;1;H;1;0;H;P Dowd;17;4;11;11;13;3;7;1;0;0;0;3.4;47;33;False
+Everton;Wigan;2;1;H;0;0;D;L Probert;12;14;7;11;24;12;5;1;5;0;0;1.73;47;39;True
+Everton;Fulham;1;2;H;0;1;A;P Walton;6;8;6;6;10;5;3;1;0;0;0;2.6;47;52;False
+Everton;Blackburn;3;0;H;1;0;H;L Mason;7;11;4;15;18;6;2;1;2;0;0;1.8;47;67;True
+Everton;Portsmouth;1;0;A;0;1;A;A Wiley;12;12;8;14;17;5;6;0;3;0;0;4.2;47;72;False
+Everton;Stoke;1;1;D;0;0;D;A Marriner;8;17;6;5;15;11;4;1;3;0;0;1.57;47;54;True
+Everton;Wolves;1;1;D;0;0;D;S Attwell;12;5;6;6;15;6;5;1;3;0;1;1.44;47;78;True
+Everton;Bolton;2;3;H;2;1;H;P Dowd;17;8;12;14;15;4;4;3;1;0;0;2.63;47;51;False
+Everton;Aston Villa;1;1;D;1;0;H;L Probert;13;4;8;15;16;3;4;1;3;1;1;2.5;47;38;True
+Everton;West Ham;2;1;A;0;1;A;A Wiley;9;7;6;12;18;5;4;0;5;0;0;2.4;47;47;False
+Everton;Man United;0;3;H;1;0;H;S Bennett;11;11;5;4;6;13;4;2;2;0;0;1.4;47;70;False
+Everton;Hull;2;3;H;3;0;H;M Atkinson;5;7;3;18;23;3;4;1;4;0;0;3.5;47;35;False
+Everton;Liverpool;0;2;A;0;1;A;A Wiley;9;8;7;15;12;6;4;1;0;0;0;3.5;47;62;True
+Everton;Tottenham;2;2;D;0;0;D;A Marriner;19;6;11;11;18;1;6;4;4;0;0;2.88;47;64;True
+Everton;Chelsea;3;3;D;2;2;D;P Dowd;10;13;7;13;17;7;1;0;1;0;0;1.25;47;87;False
+Everton;Birmingham;1;1;D;1;1;D;S Attwell;2;7;1;8;9;6;4;0;3;0;0;1.83;47;63;True
+Everton;Sunderland;1;1;D;1;0;H;M Atkinson;12;6;4;17;16;4;12;1;3;0;0;2.38;47;38;False
+Everton;Burnley;2;0;H;0;0;D;H Webb;12;16;9;7;18;10;6;1;5;0;1;1.57;47;33;True
+Everton;Arsenal;2;2;D;1;1;D;P Walton;9;5;5;10;11;6;8;1;1;0;0;1.4;47;75;False
+Everton;Man City;2;0;H;2;0;H;A Marriner;8;6;4;14;14;11;3;0;0;0;0;2.88;47;79;True
+Everton;Sunderland;2;0;H;2;0;H;P Dowd;5;7;3;10;19;3;8;0;1;0;0;1.67;47;38;True
+Everton;Wigan;1;0;A;0;0;D;L Probert;10;4;7;19;10;4;7;0;2;0;0;3;47;39;False
+Everton;Liverpool;0;1;H;0;0;D;M Atkinson;6;4;3;11;23;8;8;3;3;1;1;1.83;47;62;False
+Everton;Chelsea;2;1;H;1;1;D;A Wiley;14;5;5;13;15;5;6;1;2;0;0;5;47;87;True
+Everton;Man United;3;1;H;1;1;D;H Webb;11;7;5;12;10;4;12;5;1;0;0;4.5;47;70;True
+Everton;Tottenham;1;2;H;2;0;H;S Bennett;14;9;10;9;18;6;9;1;4;0;0;2;47;64;False
+Everton;Hull;5;1;H;2;1;H;L Mason;7;10;4;12;21;4;1;0;1;0;0;1.36;47;35;True
+Everton;Birmingham;2;2;D;1;2;A;L Probert;13;4;11;10;11;5;4;1;1;0;0;3;47;63;False
+Everton;Bolton;2;0;H;0;0;D;A Wiley;6;11;4;12;17;6;3;1;1;0;1;1.53;47;51;True
+Everton;Man City;2;0;A;0;1;A;P Walton;10;5;7;11;10;7;4;3;2;0;0;1.83;47;79;False
+Everton;Wolves;0;0;D;0;0;D;M Jones;22;2;13;14;12;3;7;1;1;0;0;3.8;47;78;False
+Everton;West Ham;2;2;D;1;0;H;H Webb;10;5;5;7;17;2;8;2;3;0;0;1.44;47;47;True
+Everton;Aston Villa;2;2;D;0;1;A;M Atkinson;13;7;10;11;9;7;6;2;2;0;0;2.25;47;38;False
+Everton;Blackburn;3;2;A;0;1;A;A Marriner;11;10;4;15;10;4;2;3;2;0;0;2.8;47;67;False
+Everton;Fulham;2;1;H;0;1;A;L Mason;8;9;6;7;12;9;3;0;1;0;0;1.36;47;52;True
+Everton;Stoke;0;0;D;0;0;D;H Webb;11;6;9;10;10;6;5;0;0;0;0;3.6;47;54;False
+Everton;Portsmouth;1;0;H;0;0;D;P Walton;10;13;4;12;11;14;1;0;0;0;0;1.29;47;72;True
+Everton;Blackburn;0;1;H;1;0;H;P Dowd;17;2;12;19;14;1;3;2;1;0;0;2.88;47;67;False
+Everton;Wolves;1;1;D;1;0;H;L Mason;9;6;4;18;15;3;3;1;2;0;0;1.5;47;78;True
+Everton;Aston Villa;0;1;H;1;0;H;M Jones;15;6;9;19;10;4;16;4;0;0;0;2.5;47;38;False
+Everton;Man United;3;3;D;1;1;D;M Atkinson;13;14;8;11;18;7;5;1;1;0;0;4.2;47;70;True
+Everton;Newcastle;0;1;A;0;1;A;A Marriner;9;3;4;15;21;3;6;2;3;0;0;1.62;47;39;True
+Everton;Fulham;0;0;D;0;0;D;H Webb;15;2;7;15;13;4;5;2;1;0;0;2.75;47;52;False
+Everton;Birmingham;2;0;A;0;0;D;P Dowd;11;3;6;5;11;6;5;0;0;0;0;2.88;47;63;False
+Everton;Liverpool;2;0;H;1;0;H;H Webb;15;6;9;10;9;8;7;2;2;0;0;2.4;47;62;True
+Everton;Tottenham;1;1;D;1;1;D;M Jones;7;8;3;15;14;4;4;3;1;0;0;2.1;47;64;False
+Everton;Stoke;1;0;H;0;0;D;L Probert;9;10;1;16;14;6;2;1;1;0;0;1.57;47;54;True
+Everton;Blackpool;2;2;D;1;1;D;A Marriner;20;8;14;14;12;3;7;2;1;0;0;4.5;47;26;False
+Everton;Bolton;1;1;D;0;0;D;P Dowd;10;12;5;8;12;15;10;0;3;1;0;1.62;47;51;True
+Everton;Arsenal;1;2;A;0;1;A;H Webb;13;7;8;15;14;9;2;2;2;0;0;3.4;47;75;True
+Everton;Sunderland;2;2;D;1;1;D;P Walton;10;8;8;5;7;4;4;0;2;0;0;2.6;47;38;False
+Everton;West Brom;1;4;A;1;2;A;L Mason;7;4;3;11;18;2;2;1;3;1;1;1.57;47;44;True
+Everton;Chelsea;1;1;D;1;0;H;L Probert;16;5;7;7;11;7;2;1;4;0;0;1.36;47;87;False
+Everton;Wigan;0;0;D;0;0;D;M Oliver;5;8;4;13;18;9;4;2;4;0;0;1.4;47;39;True
+Everton;Man City;2;1;A;0;2;A;P Walton;4;15;3;8;13;11;0;3;2;1;1;1.73;47;79;False
+Everton;West Ham;1;1;D;1;1;D;H Webb;13;2;5;12;15;4;7;1;0;0;0;3.4;47;47;False
+Everton;Stoke;0;2;H;1;0;H;A Marriner;15;3;10;14;8;1;5;4;1;0;0;2.63;47;54;False
+Everton;Tottenham;2;1;H;1;1;D;L Probert;13;12;5;16;12;4;3;1;0;0;0;2.63;47;64;True
+Everton;Liverpool;2;2;D;1;0;H;P Dowd;10;14;5;16;17;10;6;3;0;0;0;2.2;47;62;False
+Everton;West Ham;2;2;D;0;1;A;P Walton;13;6;5;8;12;12;2;1;2;0;1;1.5;47;47;True
+Everton;Arsenal;1;2;H;0;1;A;L Mason;4;10;4;12;14;5;7;3;5;0;0;1.4;47;75;False
+Everton;Blackpool;5;3;H;1;1;D;K Friend;11;16;7;8;17;9;5;0;1;0;0;1.44;47;26;True
+Everton;Bolton;0;2;H;1;0;H;L Probert;9;5;4;15;12;4;4;1;0;0;0;2.75;47;51;False
+Everton;Sunderland;2;0;H;2;0;H;S Attwell;12;9;7;11;8;4;1;0;0;0;0;1.73;47;38;True
+Everton;Newcastle;2;1;A;1;2;A;H Webb;13;8;8;12;14;5;4;2;4;0;0;2.6;47;39;False
+Everton;Birmingham;1;1;D;1;1;D;P Walton;5;11;3;8;12;9;1;1;3;0;0;1.53;47;63;True
+Everton;Fulham;2;1;H;1;0;H;M Oliver;12;12;6;15;19;7;5;2;0;0;0;2;47;52;True
+Everton;Aston Villa;2;2;D;1;0;H;M Jones;7;7;5;13;16;5;7;3;2;0;0;1.83;47;38;True
+Everton;Wolves;3;0;A;0;3;A;P Dowd;9;7;6;13;14;13;6;0;1;0;0;2.6;47;78;False
+Everton;Blackburn;2;0;H;0;0;D;K Friend;4;7;2;9;17;10;1;2;3;0;0;1.67;47;67;True
+Everton;Man United;0;1;H;0;0;D;P Walton;5;12;3;10;9;13;1;1;2;0;0;1.44;47;70;False
+Everton;Wigan;1;1;D;1;0;H;L Mason;3;9;3;12;12;3;8;2;2;0;0;2.8;47;39;False
+Everton;Man City;2;1;H;0;1;A;P Dowd;12;6;7;13;15;11;6;4;2;0;0;2.7;47;79;True
+Everton;West Brom;0;1;H;1;0;H;A Taylor;23;9;10;15;9;2;12;2;2;0;1;2.63;47;44;False
+Everton;Chelsea;1;0;H;0;0;D;P Walton;19;3;9;12;14;6;5;3;2;1;0;3.1;47;87;True
+Everton;QPR;0;1;A;0;1;A;K Friend;4;7;3;12;9;2;1;1;1;0;0;1.53;47;30;True
+Everton;Blackburn;1;0;A;0;0;D;L Mason;9;6;4;17;13;5;4;5;2;0;0;3.3;47;67;False
+Everton;Aston Villa;2;2;D;1;0;H;M Oliver;7;10;3;13;11;8;0;1;1;0;0;2;47;38;True
+Everton;Wigan;3;1;H;1;1;D;P Walton;9;10;4;14;8;4;9;2;1;0;0;1.5;47;39;True
+Everton;Man City;0;2;H;0;0;D;H Webb;7;8;3;9;13;7;5;1;5;0;0;1.44;47;79;False
+Everton;Liverpool;0;2;A;0;0;D;M Atkinson;15;4;9;15;9;5;9;1;1;1;0;3.1;47;62;True
+Everton;Chelsea;1;3;H;2;0;H;M Jones;9;5;5;13;11;2;2;2;2;0;0;1.36;47;87;False
+Everton;Fulham;3;1;A;0;1;A;L Probert;11;8;7;12;8;5;1;3;1;0;0;2.25;47;52;False
+Everton;Man United;0;1;A;0;1;A;M Halsey;7;11;6;12;8;4;1;3;0;0;0;4.5;47;70;True
+Everton;Newcastle;1;2;H;2;1;H;A Marriner;14;6;6;12;15;5;3;2;3;0;0;2.25;47;39;False
+Everton;Wolves;2;1;H;1;1;D;J Moss;4;9;1;14;13;9;1;1;2;0;0;1.57;47;78;True
+Everton;Bolton;2;0;A;0;0;D;M Oliver;17;7;14;9;10;2;4;1;1;1;0;3.1;47;51;False
+Everton;Stoke;0;1;A;0;1;A;L Mason;7;4;4;14;13;10;6;0;1;0;0;1.67;47;54;True
+Everton;Arsenal;0;1;H;0;0;D;H Webb;7;7;1;7;14;7;4;2;2;0;0;1.53;47;75;False
+Everton;Norwich;1;1;D;0;1;A;L Probert;7;15;1;9;12;13;0;1;1;0;0;1.62;47;86;True
+Everton;Swansea;1;0;H;0;0;D;K Friend;4;6;4;8;13;9;2;1;2;0;0;1.57;47;56;True
+Everton;Sunderland;1;1;D;1;0;H;H Webb;9;8;3;6;14;5;6;0;1;0;0;2.4;47;38;False
+Everton;West Brom;1;0;A;0;0;D;S Attwell;13;2;8;10;8;2;7;0;2;0;0;2.6;47;44;False
+Everton;Bolton;1;2;A;0;0;D;P Dowd;12;4;7;7;11;5;10;1;3;0;0;1.5;47;51;True
+Everton;Tottenham;0;2;H;1;0;H;M Atkinson;11;7;4;5;15;6;4;1;3;0;0;1.53;47;64;False
+Everton;Aston Villa;1;1;D;0;0;D;M Clattenburg;7;11;4;12;11;9;3;1;1;0;0;2.4;47;38;False
+Everton;Blackburn;1;1;D;1;0;H;M Halsey;14;8;8;15;13;5;8;2;2;0;0;1.53;47;67;True
+Everton;Man City;1;0;H;0;0;D;P Walton;17;4;11;12;9;3;9;1;2;0;0;4.33;47;79;True
+Everton;Wigan;1;1;D;0;0;D;A Taylor;8;1;4;12;8;4;3;2;0;0;0;3.5;47;39;False
+Everton;Chelsea;2;0;H;1;0;H;M Jones;8;7;7;13;12;2;4;0;3;0;0;3.25;47;87;True
+Everton;QPR;1;1;D;1;1;D;K Friend;8;10;5;16;15;7;7;1;2;0;0;3.1;47;30;False
+Everton;Tottenham;1;0;H;1;0;H;M Halsey;21;5;9;13;11;0;8;2;2;0;0;2.88;47;64;True
+Everton;Liverpool;0;3;H;1;0;H;P Dowd;5;10;3;6;7;4;4;1;4;0;0;1.73;47;62;False
+Everton;Arsenal;0;1;A;0;1;A;L Mason;12;2;8;11;11;4;6;2;1;0;0;3;47;75;True
+Everton;Swansea;2;0;A;0;0;D;N Swarbrick;15;3;8;10;10;3;3;1;2;0;0;2.2;47;56;False
+Everton;West Brom;2;0;H;1;0;H;P Walton;9;9;5;8;12;5;2;2;1;0;0;1.83;47;44;True
+Everton;Norwich;2;2;D;1;1;D;A Marriner;9;11;5;7;17;2;4;0;3;0;0;3;47;86;False
+Everton;Sunderland;4;0;H;0;0;D;K Friend;3;12;0;7;12;5;2;0;2;0;0;1.83;47;38;True
+Everton;Man United;4;4;D;1;1;D;M Jones;17;11;10;8;11;5;2;1;2;0;0;1.3;47;70;False
+Everton;Fulham;4;0;H;3;0;H;P Dowd;6;7;5;13;8;3;5;1;1;0;0;1.83;47;52;True
+Everton;Stoke;1;1;D;0;1;A;A Taylor;11;5;4;6;14;4;6;2;1;0;0;2.75;47;54;False
+Everton;Wolves;0;0;D;0;0;D;L Mason;18;1;10;7;10;3;7;0;0;0;0;5;47;78;False
+Everton;Newcastle;3;1;H;2;0;H;A Marriner;11;11;5;15;16;4;3;2;1;0;0;2.2;47;39;True
+Everton;Man United;1;0;H;0;0;D;16;7;7;12;11;6;8;1;2;0;0;4.33;3.6;47;70;True
+Everton;Aston Villa;3;1;A;0;3;A;7;3;11;10;7;1;9;1;0;1;0;2.9;3.4;47;38;False
+Everton;West Brom;0;2;H;0;0;D;14;8;5;11;15;6;3;1;4;0;0;3;3.3;47;44;False
+Everton;Newcastle;2;2;D;1;0;H;17;10;7;16;12;3;3;3;3;0;0;1.73;3.6;47;39;True
+Everton;Swansea;3;0;A;0;2;A;18;11;19;23;7;8;3;4;1;1;0;3;3.3;47;56;False
+Everton;Southampton;3;1;H;3;1;H;17;9;2;2;3;10;3;0;0;0;0;1.4;4.75;47;60;True
+Everton;Wigan;2;2;D;2;1;H;10;6;11;14;14;7;6;2;5;0;0;4.2;3.4;47;39;False
+Everton;QPR;1;1;D;1;1;D;14;6;4;12;18;5;4;2;1;0;1;3.25;3.4;47;30;False
+Everton;Liverpool;2;2;D;2;2;D;17;8;5;16;18;9;5;4;3;0;0;2.6;3.3;47;62;True
+Everton;Fulham;2;2;D;1;0;H;8;5;15;16;9;5;9;3;1;0;0;2.75;3.4;47;52;False
+Everton;Sunderland;2;1;H;0;1;A;16;10;4;14;14;6;2;1;3;0;0;1.44;4.2;47;38;True
+Everton;Reading;1;2;H;0;1;A;12;4;11;11;11;7;13;3;2;0;0;4.33;3.6;47;50;False
+Everton;Norwich;1;1;D;1;0;H;14;9;4;10;18;4;2;0;3;0;0;1.44;4.33;47;86;True
+Everton;Arsenal;1;1;D;1;1;D;14;10;9;15;9;6;6;2;1;0;0;2.5;3.4;47;75;True
+Everton;Man City;1;1;D;1;1;D;9;6;5;16;12;5;2;2;1;0;0;1.5;4;47;79;False
+Everton;Tottenham;2;1;H;0;0;D;17;11;6;10;9;4;4;2;2;0;0;2;3.5;47;64;True
+Everton;Stoke;1;1;D;0;1;A;14;8;5;11;13;4;8;1;0;0;0;3.1;3.2;47;54;False
+Everton;West Ham;2;1;A;1;0;H;6;5;8;12;8;3;5;1;0;1;1;2.88;3.25;47;47;False
+Everton;Wigan;2;1;H;0;0;D;17;9;6;10;11;11;2;1;3;0;0;1.44;4.5;47;39;True
+Everton;Chelsea;1;2;A;1;1;D;12;6;10;14;12;7;7;2;3;0;0;2.88;3.3;47;87;True
+Everton;Newcastle;2;1;A;1;1;D;14;11;6;21;7;4;6;3;2;0;0;3;3.4;47;39;False
+Everton;Swansea;0;0;D;0;0;D;16;8;2;13;9;7;1;1;4;0;0;1.57;4.2;47;56;True
+Everton;Southampton;0;0;D;0;0;D;14;11;7;14;11;10;6;2;1;0;0;3.6;3.5;47;60;False
+Everton;West Brom;2;1;H;2;0;H;11;4;4;9;14;5;2;0;2;0;0;1.6;4.1;47;44;True
+Everton;Aston Villa;3;3;D;1;2;A;22;13;4;6;23;15;2;1;4;0;0;1.4;5;47;38;True
+Everton;Man United;0;2;H;2;0;H;10;6;8;12;9;7;6;0;2;0;0;1.75;3.9;47;70;False
+Everton;Norwich;1;2;H;0;1;A;10;9;5;15;10;7;5;1;1;0;0;3.8;3.5;47;86;False
+Everton;Reading;3;1;H;1;0;H;18;12;6;8;8;9;10;1;1;0;0;1.38;5;47;50;True
+Everton;Man City;2;0;H;1;0;H;11;5;11;15;10;13;6;4;3;1;0;3.9;3.6;47;79;True
+Everton;Stoke;1;0;H;1;0;H;15;9;5;13;18;4;3;1;3;0;0;1.57;3.9;47;54;True
+Everton;Tottenham;2;2;D;1;1;D;19;10;5;14;8;7;6;1;1;0;0;2.2;3.4;47;64;False
+Everton;QPR;2;0;H;1;0;H;14;10;5;6;12;13;5;3;3;0;0;1.44;4.75;47;30;True
+Everton;Arsenal;0;0;D;0;0;D;10;6;5;11;12;8;1;2;3;0;0;1.75;3.9;47;75;False
+Everton;Sunderland;0;1;H;1;0;H;8;4;5;6;15;3;10;1;2;0;0;3.4;3.4;47;38;False
+Everton;Fulham;1;0;H;1;0;H;17;10;2;12;16;7;2;1;3;0;0;1.5;4.5;47;52;True
+Everton;Liverpool;0;0;D;0;0;D;16;8;4;10;10;3;5;1;2;0;0;1.95;3.6;47;62;False
+Everton;West Ham;2;0;H;1;0;H;23;13;2;8;11;7;1;1;2;0;0;1.5;4.5;47;47;True
+Everton;Chelsea;1;2;H;1;1;D;20;10;9;7;8;7;4;2;2;0;0;1.7;4;47;87;False
+Everton;Norwich;2;2;D;0;0;D;M Oliver;19;2;6;13;10;6;8;2;0;0;0;3.2;47;86;False
+Everton;West Brom;0;0;D;0;0;D;R East;7;8;2;14;15;11;1;1;1;0;0;1.57;47;44;True
+Everton;Cardiff;0;0;D;0;0;D;A Taylor;13;1;3;11;9;4;5;1;1;0;0;3.25;47;62;False
+Everton;Chelsea;1;0;H;1;0;H;H Webb;22;5;5;10;12;5;7;0;4;0;0;3.4;47;87;True
+Everton;West Ham;3;2;A;1;0;H;L Mason;10;1;4;16;12;5;5;2;1;1;0;3.3;47;47;False
+Everton;Newcastle;3;2;H;3;0;H;P Dowd;15;7;6;5;15;1;1;3;1;0;0;1.65;47;39;True
+Everton;Man City;1;3;H;2;1;H;J Moss;6;6;4;15;10;8;1;5;4;0;0;1.67;47;79;False
+Everton;Hull;2;1;H;1;1;D;N Swarbrick;9;6;1;7;17;5;7;3;1;0;0;1.45;47;35;True
+Everton;Aston Villa;2;0;A;0;0;D;A Taylor;15;3;4;14;8;8;6;0;2;0;0;3.4;47;38;False
+Everton;Tottenham;0;0;D;0;0;D;K Friend;16;1;6;11;9;7;4;4;1;0;0;2.5;47;64;True
+Everton;Crystal Palace;0;0;D;0;0;D;C Pawson;15;2;2;16;8;4;7;1;0;0;0;6.5;47;48;False
+Everton;Liverpool;3;3;D;1;2;A;P Dowd;11;12;5;16;15;6;7;4;3;0;0;3;47;62;True
+Everton;Stoke;4;0;H;1;0;H;M Jones;4;12;3;9;16;9;3;0;3;0;0;1.62;47;54;True
+Everton;Man United;1;0;A;0;0;D;M Atkinson;15;6;4;12;12;7;4;2;0;0;0;1.73;47;70;False
+Everton;Arsenal;1;1;D;0;0;D;H Webb;12;5;4;13;11;3;2;0;4;0;0;1.7;47;75;False
+Everton;Fulham;4;1;H;1;0;H;A Taylor;16;7;3;10;7;12;2;1;2;0;0;1.36;47;52;True
+Everton;Swansea;2;1;A;0;0;D;L Mason;14;3;6;11;10;4;8;1;0;0;0;3;47;56;False
+Everton;Sunderland;0;1;A;0;1;A;L Probert;13;9;6;11;7;11;2;1;0;1;0;1.36;47;38;True
+Everton;Southampton;2;1;H;1;0;H;M Clattenburg;12;4;2;9;14;2;3;2;4;0;0;1.83;47;60;True
+Everton;Stoke;1;1;D;0;0;D;A Marriner;16;4;4;16;11;2;5;4;1;0;0;4;47;54;False
+Everton;Norwich;2;0;H;1;0;H;K Friend;12;5;3;7;14;10;5;1;2;0;0;1.4;47;86;True
+Everton;West Brom;1;1;D;0;1;A;M Oliver;13;6;4;16;12;4;2;3;2;0;0;3.5;47;44;False
+Everton;Liverpool;0;4;H;3;0;H;M Atkinson;18;9;4;11;13;5;8;0;3;0;0;1.83;47;62;False
+Everton;Aston Villa;2;1;H;0;1;A;R Madley;4;6;1;4;18;13;1;1;0;0;0;1.53;47;38;True
+Everton;Tottenham;0;1;H;0;0;D;M Clattenburg;11;2;3;9;13;9;7;1;0;0;0;2.1;47;64;False
+Everton;Chelsea;0;1;H;0;0;D;L Probert;8;8;2;15;12;8;8;1;2;0;0;1.57;47;87;False
+Everton;West Ham;1;0;H;0;0;D;J Moss;6;3;1;9;8;11;5;1;1;0;0;1.53;47;47;True
+Everton;Cardiff;2;1;H;0;0;D;R East;10;6;3;10;10;10;5;1;3;0;0;1.36;47;62;True
+Everton;Swansea;3;2;H;1;1;D;M Oliver;21;6;7;9;6;5;12;0;0;0;0;1.67;47;56;True
+Everton;Newcastle;3;0;A;0;1;A;L Mason;8;3;6;8;10;9;8;0;1;0;0;3.5;47;39;False
+Everton;Fulham;3;1;A;0;0;D;A Taylor;14;8;7;7;4;5;6;1;2;0;0;5;47;52;False
+Everton;Arsenal;3;0;H;2;0;H;M Atkinson;15;8;5;6;5;3;6;1;2;0;0;2.5;47;75;True
+Everton;Sunderland;1;0;A;0;0;D;L Probert;20;6;3;17;15;6;6;3;1;0;0;4.75;47;38;False
+Everton;Crystal Palace;2;3;A;0;1;A;A Marriner;7;5;4;6;10;13;3;1;2;0;0;1.4;47;48;True
+Everton;Man United;2;0;H;2;0;H;M Clattenburg;9;5;2;9;8;6;5;2;2;0;0;2.4;47;70;True
+Everton;Southampton;0;2;H;2;0;H;M Oliver;9;4;2;13;12;4;7;0;2;0;0;2.8;47;60;False
+Everton;Man City;2;3;A;1;2;A;L Probert;18;4;6;3;9;4;3;0;3;0;0;5;47;79;True
+Everton;Hull;2;0;A;0;1;A;H Webb;11;3;4;8;8;6;4;0;1;0;0;4;47;35;False
+Everton;Leicester;2;2;D;1;2;A;M Jones;13;3;3;16;10;3;6;1;1;0;0;3.2;47;41;False
+Everton;Arsenal;2;2;D;2;0;H;K Friend;13;2;3;10;18;3;3;1;4;0;0;2.8;47;75;True
+Everton;Chelsea;3;6;A;1;2;A;J Moss;12;7;8;7;16;8;2;1;3;0;0;3.75;47;87;True
+Everton;West Brom;2;0;A;0;1;A;A Taylor;11;1;4;12;8;9;1;2;3;0;0;3.5;47;44;False
+Everton;Crystal Palace;2;3;A;1;1;D;M Oliver;10;6;3;8;13;7;1;2;2;0;0;1.4;47;48;True
+Everton;Liverpool;1;1;D;0;0;D;M Atkinson;11;8;5;8;9;8;2;2;1;0;0;1.91;47;62;False
+Everton;Man United;1;2;H;1;0;H;K Friend;10;4;6;18;11;11;6;4;3;0;0;1.67;47;70;False
+Everton;Aston Villa;3;0;H;1;0;H;A Taylor;10;6;2;11;16;3;4;2;2;0;0;1.6;47;38;True
+Everton;Burnley;3;1;A;1;2;A;A Marriner;15;3;6;12;7;5;4;4;2;0;0;4.75;47;33;False
+Everton;Swansea;0;0;D;0;0;D;K Friend;8;3;0;10;15;11;0;2;3;0;1;1.75;47;56;True
+Everton;Sunderland;1;1;D;0;0;D;L Mason;16;3;7;11;13;5;4;1;2;0;0;4;47;38;False
+Everton;West Ham;2;1;H;1;0;H;M Clattenburg;14;4;3;10;13;1;5;2;3;0;0;1.85;47;47;True
+Everton;Tottenham;1;2;H;2;1;H;M Oliver;10;6;5;15;5;3;4;5;1;0;0;2.25;47;64;False
+Everton;Hull;1;1;D;1;0;H;R Madley;8;5;1;8;12;6;4;1;1;0;0;1.53;47;35;True
+Everton;Man City;0;1;H;1;0;H;A Marriner;9;3;2;8;11;11;7;3;3;0;0;1.5;47;79;False
+Everton;QPR;3;1;H;2;0;H;N Swarbrick;17;5;4;11;12;1;8;1;1;0;0;1.45;47;30;True
+Everton;Southampton;0;3;H;1;0;H;J Moss;13;3;4;11;10;4;6;1;1;0;0;2.45;47;60;False
+Everton;Stoke;0;1;A;0;1;A;L Mason;12;5;2;9;15;9;3;2;3;0;0;1.83;47;54;True
+Everton;Newcastle;2;3;H;1;1;D;C Pawson;9;6;2;13;8;8;3;2;2;0;0;2.9;47;39;False
+Everton;Hull;0;2;H;2;0;H;K Friend;9;5;3;16;15;4;8;2;3;0;1;3.4;47;35;False
+Everton;Man City;1;1;D;0;0;D;M Atkinson;18;4;2;9;10;4;9;1;2;0;0;4.5;47;79;True
+Everton;West Brom;0;0;D;0;0;D;M Oliver;5;4;0;11;12;8;1;3;2;0;0;1.85;47;44;True
+Everton;Crystal Palace;1;0;A;0;1;A;R East;14;3;2;12;14;6;1;0;3;0;0;2.8;47;48;False
+Everton;Liverpool;0;0;D;0;0;D;A Taylor;17;1;6;11;7;3;6;4;1;0;0;3.4;47;62;True
+Everton;Chelsea;0;1;H;0;0;D;J Moss;7;7;4;8;13;10;2;3;3;0;1;1.33;47;87;False
+Everton;Leicester;2;2;D;0;0;D;P Dowd;15;3;4;7;6;4;7;0;1;0;0;1.83;47;41;True
+Everton;Arsenal;0;2;H;1;0;H;A Marriner;8;4;2;12;5;8;9;2;0;0;0;1.57;47;75;False
+Everton;Stoke;0;2;H;1;0;H;M Clattenburg;10;3;5;11;14;5;6;2;2;0;0;2.5;47;54;False
+Everton;Newcastle;3;0;H;1;0;H;M Atkinson;12;9;4;11;9;3;4;1;2;0;1;1.83;47;39;True
+Everton;QPR;2;1;A;0;1;A;J Moss;8;1;3;11;12;1;3;2;1;0;0;3.3;47;30;False
+Everton;Southampton;1;0;H;1;0;H;L Mason;11;1;2;12;17;4;10;0;1;0;0;2.63;47;60;True
+Everton;Swansea;1;1;D;0;1;A;M Oliver;12;3;8;18;12;3;6;3;3;0;0;2.5;47;56;False
+Everton;Burnley;1;0;H;1;0;H;M Jones;10;8;1;12;15;5;6;1;2;0;1;1.73;47;33;True
+Everton;Man United;3;0;H;2;0;H;A Marriner;17;7;4;6;10;7;7;0;2;0;0;3.75;47;70;True
+Everton;Aston Villa;2;3;H;2;0;H;M Clattenburg;9;4;5;13;12;5;3;2;1;0;0;2.75;47;38;False
+Everton;Sunderland;0;2;A;0;0;D;L Probert;10;4;3;10;9;15;1;2;3;0;0;1.8;47;38;True
+Everton;West Ham;2;1;A;0;0;D;K Friend;21;3;5;12;14;7;8;1;4;0;0;2.9;47;47;False
+Everton;Tottenham;0;1;A;0;1;A;J Moss;16;1;3;12;8;3;5;1;2;0;0;2.4;47;64;True
+Everton;Watford;2;2;D;0;1;A;M Jones;11;5;5;7;13;8;2;1;2;0;0;1.7;47;69;True
+Everton;Southampton;3;0;A;0;2;A;M Oliver;10;4;4;11;10;9;9;4;2;0;0;1.95;47;60;False
+Everton;Man City;0;2;A;0;0;D;A Taylor;16;1;9;5;7;8;7;0;3;0;0;5;47;79;True
+Everton;Tottenham;0;0;D;0;0;D;M Jones;8;6;3;20;9;6;2;4;1;0;0;2;47;64;False
+Everton;Chelsea;3;1;H;2;1;H;A Marriner;15;9;2;12;12;7;14;2;2;0;0;4;47;87;True
+Everton;Swansea;0;0;D;0;0;D;S Attwell;17;3;2;12;11;2;4;2;2;0;1;2.3;47;56;False
+Everton;West Brom;3;2;A;1;0;H;R Madley;12;4;4;9;8;6;4;0;3;0;0;3.1;47;44;False
+Everton;Liverpool;1;1;D;1;1;D;M Atkinson;13;4;4;10;19;5;11;3;3;0;0;2.7;47;62;True

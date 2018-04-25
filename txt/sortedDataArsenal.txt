@@ -1,0 +1,464 @@
+Arsenal;Everton;2;1;H;1;0;H;M Halsey;13;5;7;8;15;6;9;1;3;1;1;1.4;75;47;True
+Arsenal;Middlesbrough;4;0;A;0;3;A;D Gallagher;14;4;10;11;7;3;5;1;0;0;0;4;75;85;False
+Arsenal;Aston Villa;2;0;H;0;0;D;M Dean;6;6;3;16;16;2;6;3;4;0;0;1.286;75;38;True
+Arsenal;Man City;2;1;A;1;0;H;G Poll;10;7;5;12;11;5;5;4;3;0;0;4;75;79;False
+Arsenal;Portsmouth;1;1;D;1;1;D;A Wiley;8;7;2;11;19;7;1;2;3;0;0;1.28;75;72;True
+Arsenal;Man United;0;0;D;0;0;D;S Bennett;6;7;1;11;15;4;3;4;3;0;1;2;75;70;False
+Arsenal;Newcastle;3;2;H;1;1;D;M Riley;5;7;4;13;17;3;4;0;1;0;0;1.53;75;39;True
+Arsenal;Liverpool;2;1;A;1;1;D;G Barber;12;7;8;12;20;11;3;2;2;0;0;2.5;75;62;False
+Arsenal;Chelsea;2;1;H;1;1;D;P Durkin;7;9;3;11;13;6;3;1;2;0;0;2.2;75;87;True
+Arsenal;Charlton;1;1;D;1;1;D;S Dunn;11;4;6;15;13;7;5;1;1;0;0;5;75;60;False
+Arsenal;Leeds;4;1;A;0;3;A;M Dean;13;5;9;12;11;4;3;1;0;0;0;5.5;75;56;False
+Arsenal;Tottenham;2;1;H;0;1;A;M Halsey;5;3;2;8;22;9;5;1;4;0;0;1.4;75;64;True
+Arsenal;Birmingham;3;0;A;0;1;A;P Durkin;9;1;6;8;11;8;6;1;2;0;0;4.5;75;63;False
+Arsenal;Fulham;0;0;D;0;0;D;G Barber;7;14;1;13;11;9;0;1;1;0;0;1.33;75;52;True
+Arsenal;Leicester;1;1;D;0;0;D;R Styles;8;1;5;13;12;7;5;1;1;0;1;6.5;75;41;False
+Arsenal;Blackburn;1;0;H;1;0;H;A D'Urso;5;7;1;14;14;5;6;2;4;0;0;1.364;75;67;True
+Arsenal;Bolton;1;1;D;0;0;D;G Poll;9;13;4;11;13;8;1;2;2;0;0;5;75;51;False
+Arsenal;Wolves;3;0;H;2;0;H;P Dowd;5;10;1;15;17;14;3;2;5;0;0;1.167;75;78;True
+Arsenal;Southampton;1;0;A;0;1;A;S Dunn;17;3;9;14;10;2;3;1;0;0;0;4.5;75;60;False
+Arsenal;Everton;1;1;D;0;1;A;A Wiley;9;4;5;13;16;5;4;0;3;0;0;5.5;75;47;False
+Arsenal;Middlesbrough;4;1;H;2;0;H;A D'Urso;5;13;4;12;21;7;3;1;1;0;0;1.28;75;85;True
+Arsenal;Aston Villa;2;0;A;0;1;A;M Halsey;13;5;9;17;21;3;2;4;1;0;0;5.5;75;38;False
+Arsenal;Man City;2;1;H;1;0;H;A Wiley;9;9;8;13;13;5;4;2;2;0;1;1.25;75;79;True
+Arsenal;Wolves;3;1;A;1;1;D;P Dowd;10;5;7;18;18;6;4;2;1;0;0;9;75;78;False
+Arsenal;Southampton;2;0;H;1;0;H;N Barry;10;6;6;13;12;5;9;2;3;0;0;1.25;75;60;True
+Arsenal;Chelsea;2;1;A;1;2;A;M Riley;9;4;7;16;18;11;5;4;2;1;0;2.625;75;87;False
+Arsenal;Charlton;2;1;H;2;0;H;G Barber;6;11;3;8;10;12;3;0;0;0;0;1.286;75;60;True
+Arsenal;Blackburn;2;0;A;0;0;D;A Wiley;14;5;5;12;11;8;3;1;1;0;0;6.5;75;67;False
+Arsenal;Bolton;2;1;H;2;1;H;G Barber;8;8;2;12;14;6;1;1;2;0;0;1.222;75;51;True
+Arsenal;Man United;1;1;D;0;0;D;G Poll;13;10;8;15;18;8;7;1;1;0;0;2.1;75;70;True
+Arsenal;Liverpool;4;2;H;1;2;A;A Wiley;12;7;5;16;9;2;8;3;1;0;0;1.909;75;62;True
+Arsenal;Newcastle;0;0;D;0;0;D;P Durkin;11;5;5;14;12;5;4;0;1;0;0;3.2;75;39;False
+Arsenal;Leeds;5;0;H;3;0;H;D Gallagher;7;8;2;10;10;3;8;0;0;0;0;1.333;75;56;True
+Arsenal;Tottenham;2;2;D;0;2;A;M Halsey;9;7;7;14;15;7;4;1;1;0;0;5.5;75;64;False
+Arsenal;Birmingham;0;0;D;0;0;D;G Poll;3;1;3;13;16;2;3;0;2;0;0;1.36;75;63;True
+Arsenal;Portsmouth;1;1;D;1;0;H;M Riley;20;6;9;13;10;5;12;0;2;0;0;4.5;75;72;False
+Arsenal;Fulham;1;0;A;0;1;A;M Dean;7;5;5;13;19;6;7;1;3;0;0;3.25;75;52;False
+Arsenal;Leicester;2;1;H;0;1;A;P Durkin;2;10;1;15;13;7;5;0;1;0;0;1.25;75;41;True
+Arsenal;Everton;4;1;A;0;2;A;M Riley;18;5;14;14;19;0;7;2;1;0;0;6;75;47;False
+Arsenal;Middlesbrough;5;3;H;1;1;D;S Dunn;9;11;5;8;14;7;5;1;1;0;0;1.36;75;85;True
+Arsenal;Blackburn;3;0;H;0;0;D;N Barry;3;9;0;11;18;6;5;2;4;0;0;1.28;75;67;True
+Arsenal;Norwich;4;1;A;0;3;A;G Poll;18;5;15;15;5;4;10;1;1;0;0;9;75;86;False
+Arsenal;Fulham;3;0;A;0;0;D;M Halsey;12;7;7;16;10;9;4;2;2;0;0;7;75;52;False
+Arsenal;Bolton;2;2;D;1;0;H;P Dowd;8;6;5;13;17;3;8;1;3;0;0;1.25;75;51;True
+Arsenal;Man City;1;0;A;0;1;A;N Barry;12;7;9;16;8;8;1;1;0;0;0;6.5;75;79;False
+Arsenal;Charlton;4;0;H;1;0;H;M Dean;4;9;0;13;15;6;1;3;1;0;0;1.28;75;60;True
+Arsenal;Aston Villa;3;1;H;2;1;H;G Poll;5;15;2;11;22;6;3;2;4;0;0;1.3;75;38;True
+Arsenal;Man United;0;2;H;0;0;D;M Riley;12;5;6;20;23;3;3;2;3;0;0;2.62;75;70;False
+Arsenal;Southampton;2;2;D;0;0;D;M Messias;7;9;4;8;21;7;7;1;4;0;0;1.16;75;60;True
+Arsenal;Crystal Palace;1;1;D;0;0;D;M Dean;19;1;13;10;8;1;8;0;1;0;0;7.5;75;48;False
+Arsenal;Tottenham;5;4;A;1;1;D;S Bennett;10;7;6;20;9;3;4;3;0;0;0;5.5;75;64;False
+Arsenal;West Brom;1;1;D;0;0;D;H Webb;4;4;2;9;12;12;3;0;1;0;0;1.16;75;44;True
+Arsenal;Liverpool;1;2;H;1;0;H;A Wiley;3;7;2;6;16;6;0;0;2;0;0;3.4;75;62;False
+Arsenal;Birmingham;3;0;H;1;0;H;D Gallagher;2;4;1;7;15;4;2;0;1;0;0;1.33;75;63;True
+Arsenal;Chelsea;2;2;D;2;1;H;G Poll;10;5;5;11;17;4;6;1;3;0;0;2.5;75;87;True
+Arsenal;Portsmouth;1;0;A;0;0;D;H Webb;13;5;5;13;9;5;7;0;1;0;0;6.5;75;72;False
+Arsenal;Fulham;2;0;H;1;0;H;B Knight;2;8;1;12;9;7;6;1;2;0;0;1.25;75;52;True
+Arsenal;Newcastle;1;0;A;0;1;A;S Bennett;13;5;6;10;21;4;8;1;4;0;0;3.75;75;39;False
+Arsenal;Charlton;3;1;A;1;1;D;M Halsey;8;4;5;13;15;1;2;1;1;0;0;6;75;60;False
+Arsenal;Man City;1;1;D;0;1;A;R Styles;5;9;4;10;13;12;5;3;3;0;0;1.28;75;79;True
+Arsenal;Bolton;0;1;H;1;0;H;M Clattenburg;11;3;7;8;8;8;7;2;1;0;0;6.5;75;51;False
+Arsenal;Newcastle;1;0;H;1;0;H;S Dunn;4;8;1;17;19;11;1;2;3;0;0;1.44;75;39;True
+Arsenal;Man United;2;4;A;2;1;H;G Poll;10;10;9;20;16;6;7;2;4;0;1;2.25;75;70;True
+Arsenal;Aston Villa;3;1;A;0;3;A;S Bennett;15;1;6;13;11;5;2;2;0;0;0;4.5;75;38;False
+Arsenal;Crystal Palace;5;1;H;3;0;H;R Styles;6;12;3;8;17;5;1;1;2;0;0;1.22;75;48;True
+Arsenal;Southampton;1;1;D;0;1;A;A Wiley;17;3;12;9;13;3;5;1;1;1;1;6.5;75;60;False
+Arsenal;Portsmouth;3;0;H;1;0;H;C Foy;5;6;2;12;15;7;3;0;2;0;0;1.36;75;72;True
+Arsenal;Blackburn;1;0;A;0;1;A;G Poll;10;2;8;21;8;4;6;3;1;0;0;4.5;75;67;False
+Arsenal;Norwich;4;1;H;2;1;H;A Wiley;3;15;1;8;11;10;3;1;0;0;0;1.2;75;86;True
+Arsenal;Middlesbrough;1;0;A;0;0;D;P Dowd;7;6;1;11;9;5;3;1;1;0;0;5;75;85;False
+Arsenal;Chelsea;0;0;D;0;0;D;S Bennett;6;3;4;10;16;2;2;1;3;0;0;2.1;75;87;False
+Arsenal;Tottenham;1;0;H;1;0;H;M Riley;7;3;1;17;15;4;7;0;4;0;0;1.5;75;64;True
+Arsenal;West Brom;2;0;A;0;0;D;N Barry;8;3;5;12;11;9;0;0;0;0;0;5;75;44;False
+Arsenal;Liverpool;3;1;H;2;0;H;G Poll;11;8;6;13;10;1;4;0;2;0;0;1.72;75;62;True
+Arsenal;Everton;7;0;H;3;0;H;A Wiley;7;12;3;9;12;4;2;2;0;0;0;1.61;75;47;True
+Arsenal;Birmingham;1;2;H;0;0;D;D Gallagher;11;4;5;10;8;3;2;1;0;0;0;3.4;75;63;False
+Arsenal;Newcastle;2;0;H;0;0;D;S Bennett;2;12;1;15;17;8;3;0;1;0;1;1.4;75;39;True
+Arsenal;Chelsea;0;1;H;0;0;D;G Poll;9;6;3;17;21;3;7;2;3;0;0;2;75;87;False
+Arsenal;Fulham;4;1;H;1;1;D;M Clattenburg;8;14;3;16;11;6;7;5;2;0;0;1.22;75;52;True
+Arsenal;Middlesbrough;1;2;H;1;0;H;M Riley;13;5;8;17;16;6;7;3;4;0;0;5;75;85;False
+Arsenal;Everton;2;0;H;2;0;H;A Wiley;4;4;2;13;19;4;0;2;3;0;0;1.4;75;47;True
+Arsenal;West Ham;0;0;D;0;0;D;M Dean;8;0;2;11;7;4;3;2;0;0;0;5;75;47;False
+Arsenal;Birmingham;1;0;H;0;0;D;C Foy;2;13;2;13;17;11;4;0;1;0;1;1.33;75;63;True
+Arsenal;West Brom;1;2;H;1;1;D;B Knight;14;4;10;23;10;3;6;1;2;0;0;6;75;44;False
+Arsenal;Man City;1;0;H;0;0;D;M Riley;7;2;4;24;17;4;3;3;5;0;0;1.5;75;79;True
+Arsenal;Tottenham;1;1;D;1;0;H;S Bennett;10;3;7;18;13;6;1;4;2;0;0;2.8;75;64;False
+Arsenal;Sunderland;3;1;H;2;0;H;A Wiley;1;9;1;11;13;4;6;0;1;0;0;1.2;75;38;True
+Arsenal;Wigan;3;2;A;2;3;A;G Poll;13;5;8;16;17;2;2;3;3;0;0;4.5;75;39;False
+Arsenal;Blackburn;3;0;H;2;0;H;C Foy;15;10;9;9;15;9;10;1;2;0;0;1.36;75;67;True
+Arsenal;Bolton;0;2;H;2;0;H;H Webb;8;9;3;16;15;9;3;1;2;0;0;4.33;75;51;False
+Arsenal;Newcastle;0;1;H;0;0;D;D Gallagher;6;4;3;23;13;5;4;2;1;0;1;4;75;39;False
+Arsenal;Chelsea;0;2;A;0;1;A;R Styles;11;5;8;13;18;5;5;3;4;0;0;2.87;75;87;True
+Arsenal;Charlton;1;0;A;0;0;D;S Bennett;18;0;11;16;10;4;10;3;2;1;0;5;75;60;False
+Arsenal;Portsmouth;4;0;H;4;0;H;M Clattenburg;6;4;4;12;13;3;1;0;1;0;0;1.22;75;72;True
+Arsenal;Aston Villa;0;0;D;0;0;D;U Rennie;10;5;3;19;11;10;1;1;1;0;0;5.5;75;38;False
+Arsenal;Man United;0;0;D;0;0;D;G Poll;16;5;6;17;13;6;9;2;3;0;0;2.62;75;70;True
+Arsenal;Middlesbrough;7;0;H;4;0;H;R Styles;5;17;2;12;14;4;6;1;2;0;1;1.33;75;85;True
+Arsenal;Everton;0;1;H;1;0;H;A Wiley;14;3;5;19;17;5;6;4;2;0;1;5.5;75;47;False
+Arsenal;West Ham;2;3;A;1;2;A;M Halsey;4;10;4;6;15;12;2;1;1;0;0;1.4;75;47;True
+Arsenal;Birmingham;2;0;A;0;1;A;M Riley;9;5;6;18;21;6;6;2;3;1;0;3.5;75;63;False
+Arsenal;Bolton;1;1;D;0;1;A;H Webb;5;10;3;14;12;8;6;2;2;0;0;1.5;75;51;True
+Arsenal;Liverpool;0;1;H;0;0;D;G Poll;6;9;2;12;15;13;1;0;1;0;0;2.1;75;62;False
+Arsenal;Blackburn;0;1;H;1;0;H;U Rennie;10;2;3;23;10;3;5;3;2;0;0;3.1;75;67;False
+Arsenal;Fulham;4;0;A;0;2;A;R Styles;18;4;11;11;15;0;7;0;1;0;0;3.2;75;52;False
+Arsenal;Liverpool;2;1;H;1;0;H;S Bennett;8;4;3;8;18;5;0;0;2;0;1;2.25;75;62;True
+Arsenal;Charlton;3;0;H;2;0;H;D Gallagher;2;9;1;6;10;8;1;0;1;0;0;1.3;75;60;True
+Arsenal;Aston Villa;5;0;H;2;0;H;M Atkinson;9;16;4;9;11;8;8;0;1;0;0;1.28;75;38;True
+Arsenal;Man United;0;2;H;0;0;D;G Poll;10;8;3;16;16;5;3;3;1;0;0;2.1;75;70;False
+Arsenal;Portsmouth;1;1;D;0;1;A;U Rennie;9;4;3;9;9;3;10;1;1;0;0;5;75;72;False
+Arsenal;West Brom;3;1;H;1;0;H;M Dean;8;10;1;8;6;5;1;2;1;0;0;1.22;75;44;True
+Arsenal;Tottenham;1;1;D;0;0;D;S Bennett;9;6;6;9;9;5;4;1;1;0;1;1.66;75;64;True
+Arsenal;Sunderland;3;0;A;0;3;A;D Gallagher;7;2;4;17;8;5;3;3;0;0;0;10;75;38;False
+Arsenal;Man City;3;1;A;1;1;D;G Poll;17;8;12;21;8;12;6;3;0;0;0;5.5;75;79;False
+Arsenal;Wigan;4;2;H;2;2;D;U Rennie;8;7;3;12;16;5;1;1;1;0;1;1.2;75;39;True
+Arsenal;Aston Villa;1;1;D;0;0;D;G Poll;5;11;3;10;19;18;1;1;2;0;0;1.28;75;38;True
+Arsenal;Man City;0;1;H;1;0;H;U Rennie;17;3;6;16;8;2;8;1;1;0;0;5.5;75;79;False
+Arsenal;Middlesbrough;1;1;D;0;1;A;R Styles;1;12;1;5;17;15;0;1;6;0;1;1.33;75;85;True
+Arsenal;Man United;1;0;A;0;0;D;G Poll;14;9;7;11;11;10;5;2;2;0;0;1.9;75;70;False
+Arsenal;Sheffield United;3;0;H;0;0;D;A Wiley;5;11;4;11;8;7;2;2;1;0;0;1.2;75;60;True
+Arsenal;Charlton;2;1;A;1;1;D;M Clattenburg;21;6;12;19;8;4;7;4;4;0;0;6.5;75;60;False
+Arsenal;Watford;3;0;H;2;0;H;H Webb;9;7;3;6;14;8;4;0;1;0;0;1.16;75;69;True
+Arsenal;Reading;4;0;A;0;2;A;A Wiley;16;1;9;6;6;10;2;0;0;0;0;5.5;75;50;False
+Arsenal;Everton;1;1;D;0;1;A;M Riley;2;12;2;6;21;16;3;2;3;0;0;1.4;75;47;True
+Arsenal;West Ham;0;1;H;0;0;D;R Styles;11;5;5;11;8;8;3;3;2;0;0;5.5;75;47;False
+Arsenal;Liverpool;3;0;H;1;0;H;M Clattenburg;10;7;4;7;12;2;6;2;3;0;0;2;75;62;True
+Arsenal;Newcastle;1;1;D;0;1;A;M Atkinson;2;10;1;10;9;11;1;2;5;0;0;1.25;75;39;True
+Arsenal;Bolton;1;3;H;2;1;H;M Dean;14;8;7;11;8;7;11;3;4;0;0;3.6;75;51;False
+Arsenal;Fulham;1;2;H;2;1;H;H Webb;7;7;2;17;15;6;6;4;5;0;1;6;75;52;False
+Arsenal;Tottenham;3;0;H;2;0;H;G Poll;7;5;4;15;15;3;2;1;2;0;0;1.66;75;64;True
+Arsenal;Chelsea;1;1;D;0;0;D;A Wiley;11;7;4;16;16;4;5;2;2;0;0;1.72;75;87;False
+Arsenal;Wigan;1;0;A;0;0;D;R Styles;9;7;3;10;7;4;7;1;0;0;0;4.75;75;39;False
+Arsenal;Portsmouth;2;2;D;0;1;A;S Bennett;7;8;5;13;13;7;4;0;2;0;0;1.4;75;72;True
+Arsenal;Blackburn;6;2;H;3;1;H;H Webb;11;12;7;14;14;7;6;3;3;0;0;1.33;75;67;True
+Arsenal;Watford;2;1;A;1;1;D;M Dean;16;3;8;11;6;7;5;2;0;0;0;8;75;69;False
+Arsenal;Sheffield United;0;1;H;1;0;H;L Mason;9;5;4;11;5;5;9;2;3;0;0;6;75;60;False
+Arsenal;Charlton;4;0;H;2;0;H;M Riley;4;10;2;13;9;8;2;0;1;0;1;1.22;75;60;True
+Arsenal;Blackburn;2;0;A;0;1;A;C Foy;6;7;4;15;5;8;2;4;0;0;1;4.2;75;67;False
+Arsenal;Man United;2;1;H;0;0;D;S Bennett;10;11;6;13;11;8;6;1;3;0;0;2.5;75;70;True
+Arsenal;Middlesbrough;1;1;D;0;0;D;M Riley;11;1;4;14;5;3;6;2;1;0;1;4.33;75;85;False
+Arsenal;Wigan;2;1;H;0;1;A;P Dowd;8;3;2;9;15;10;1;6;3;0;0;1.25;75;39;True
+Arsenal;Reading;2;1;H;0;0;D;C Foy;7;9;4;8;14;16;7;1;1;0;0;1.5;75;50;True
+Arsenal;Aston Villa;1;0;A;0;1;A;M Atkinson;10;6;5;12;14;6;4;1;1;0;0;3.6;75;38;False
+Arsenal;Everton;0;1;H;0;0;D;M Clattenburg;18;4;9;17;13;5;4;6;0;0;0;3.1;75;47;False
+Arsenal;Liverpool;1;4;H;2;0;H;S Bennett;11;7;3;17;8;2;7;1;3;0;0;2.2;75;62;False
+Arsenal;West Ham;0;1;A;0;1;A;G Poll;6;15;5;10;15;14;1;0;1;0;0;1.4;75;47;True
+Arsenal;Newcastle;0;0;D;0;0;D;H Webb;6;4;2;13;14;3;6;1;2;0;0;3.2;75;39;False
+Arsenal;Bolton;2;1;H;1;1;D;R Styles;6;9;2;7;18;2;5;2;3;0;1;1.66;75;51;True
+Arsenal;Man City;3;1;H;1;1;D;M Halsey;9;10;6;8;8;7;3;0;0;0;0;1.4;75;79;True
+Arsenal;Tottenham;2;2;D;1;0;H;M Dean;17;3;5;10;6;4;6;2;2;0;0;2.7;75;64;False
+Arsenal;Fulham;3;1;H;1;0;H;M Clattenburg;7;5;1;6;10;7;6;2;4;0;0;1.33;75;52;True
+Arsenal;Chelsea;1;1;D;1;0;H;A Wiley;9;4;4;19;13;3;7;1;2;0;1;2.7;75;87;True
+Arsenal;Portsmouth;0;0;D;0;0;D;G Poll;14;4;6;18;15;2;6;0;0;0;0;2.7;75;72;False
+Arsenal;Fulham;2;1;H;0;1;A;P Dowd;12;13;9;6;19;14;4;1;5;0;0;1.33;75;52;True
+Arsenal;Blackburn;1;1;D;0;1;A;A Wiley;10;4;3;19;15;5;4;4;4;1;0;3.1;75;67;False
+Arsenal;Man City;1;0;H;0;0;D;C Foy;8;10;4;8;9;8;2;0;1;0;0;1.53;75;79;True
+Arsenal;Portsmouth;3;1;H;2;0;H;M Halsey;15;8;10;6;12;8;5;1;2;1;0;1.5;75;72;True
+Arsenal;Tottenham;3;1;A;1;0;H;M Clattenburg;16;5;10;28;22;8;4;2;2;0;0;2.8;75;64;False
+Arsenal;Derby;5;0;H;2;0;H;M Atkinson;4;9;3;9;12;5;4;1;1;0;0;1.14;75;77;True
+Arsenal;West Ham;1;0;A;0;1;A;A Wiley;16;4;12;15;14;3;14;2;2;0;0;4.5;75;47;False
+Arsenal;Sunderland;3;2;H;2;1;H;R Styles;11;8;7;10;9;8;2;0;2;0;1;1.16;75;38;True
+Arsenal;Bolton;2;0;H;0;0;D;M Riley;1;9;0;14;20;5;3;1;5;0;0;1.25;75;51;True
+Arsenal;Liverpool;1;1;D;1;0;H;H Webb;11;8;4;16;10;4;1;3;3;0;0;2.5;75;62;False
+Arsenal;Man United;2;2;D;0;1;A;H Webb;10;6;4;15;15;3;4;1;2;0;0;2.5;75;70;True
+Arsenal;Reading;3;1;A;0;1;A;R Styles;16;5;7;9;5;5;1;1;1;0;0;7;75;50;False
+Arsenal;Wigan;2;0;H;0;0;D;P Walton;7;6;2;9;17;7;3;1;4;0;0;1.16;75;39;True
+Arsenal;Aston Villa;2;1;A;1;2;A;C Foy;14;5;9;16;10;4;7;3;2;0;0;4;75;38;False
+Arsenal;Newcastle;1;1;D;0;1;A;M Dean;6;8;2;9;10;6;6;3;2;0;0;6;75;39;False
+Arsenal;Middlesbrough;1;2;H;1;0;H;H Webb;7;7;4;15;13;5;4;2;2;0;0;7;75;85;False
+Arsenal;Chelsea;1;0;H;1;0;H;A Wiley;10;5;7;19;12;3;5;5;5;0;0;2.5;75;87;True
+Arsenal;Tottenham;2;1;H;0;0;D;R Styles;10;5;5;10;10;5;1;1;3;0;0;1.5;75;64;True
+Arsenal;Portsmouth;0;0;D;0;0;D;S Bennett;12;6;6;15;9;4;7;2;1;0;0;4.5;75;72;False
+Arsenal;Everton;4;1;A;1;0;H;M Atkinson;10;3;7;14;13;10;2;0;5;1;1;3.5;75;47;False
+Arsenal;West Ham;2;0;H;2;0;H;C Foy;15;13;7;5;7;5;7;0;3;0;0;1.33;75;47;True
+Arsenal;Birmingham;1;1;D;1;0;H;P Dowd;2;9;2;8;10;14;3;1;2;0;0;1.2;75;63;True
+Arsenal;Fulham;3;0;A;0;2;A;P Walton;11;0;4;13;10;4;3;0;1;0;0;7;75;52;False
+Arsenal;Newcastle;3;0;H;1;0;H;M Riley;7;4;3;11;15;4;2;1;3;0;0;1.28;75;39;True
+Arsenal;Man City;3;1;A;1;2;A;A Marriner;14;2;9;7;7;1;9;2;0;0;0;4.5;75;79;False
+Arsenal;Blackburn;2;0;H;1;0;H;S Bennett;6;9;2;12;6;7;5;1;0;0;0;1.33;75;67;True
+Arsenal;Birmingham;2;2;D;1;0;H;M Dean;26;1;13;9;13;1;7;0;2;1;0;7;75;63;False
+Arsenal;Aston Villa;1;1;D;0;1;A;M Clattenburg;5;7;4;8;13;8;7;1;2;0;0;1.57;75;38;True
+Arsenal;Wigan;0;0;D;0;0;D;R Styles;10;3;6;10;8;8;5;2;2;0;0;6.5;75;39;False
+Arsenal;Middlesbrough;1;1;D;0;1;A;M Halsey;4;9;1;7;10;11;1;0;2;0;1;1.25;75;85;True
+Arsenal;Chelsea;1;2;H;0;0;D;M Clattenburg;7;8;5;10;13;4;2;3;1;0;0;2.2;75;87;False
+Arsenal;Bolton;3;2;A;2;0;H;C Foy;17;9;8;12;10;8;6;2;2;0;1;5;75;51;False
+Arsenal;Liverpool;1;1;D;0;1;A;P Dowd;11;6;4;10;10;5;3;1;2;0;0;2.1;75;62;True
+Arsenal;Man United;1;2;H;0;0;D;H Webb;18;7;11;12;7;6;5;2;6;0;0;1.83;75;70;False
+Arsenal;Reading;2;0;H;2;0;H;P Walton;4;12;2;7;15;12;4;0;3;0;0;1.33;75;50;True
+Arsenal;Derby;6;2;A;1;2;A;A Marriner;20;10;11;6;7;5;6;0;0;0;0;13;75;77;False
+Arsenal;Everton;1;0;H;0;0;D;A Wiley;8;2;4;10;4;8;3;0;1;0;0;1.66;75;47;True
+Arsenal;Sunderland;1;0;A;0;1;A;K Stroud;12;5;8;14;12;3;4;1;1;0;0;4.33;75;38;False
+Arsenal;West Brom;1;0;H;1;0;H;H Webb;5;14;4;11;8;7;5;0;0;0;0;1.2;75;44;True
+Arsenal;Fulham;0;1;H;1;0;H;M Atkinson;15;2;6;14;6;1;5;2;0;0;0;6.5;75;52;False
+Arsenal;Newcastle;3;0;H;2;0;H;R Styles;4;14;2;12;11;12;1;2;2;0;0;1.44;75;39;True
+Arsenal;Blackburn;4;0;A;0;2;A;M Dean;17;3;10;8;8;5;5;1;1;0;0;4.5;75;67;False
+Arsenal;Bolton;3;1;A;1;2;A;S Bennett;20;8;9;12;10;7;17;2;2;0;0;6.5;75;51;False
+Arsenal;Hull;1;2;A;0;0;D;A Wiley;7;9;5;8;7;15;4;2;1;0;0;1.2;75;35;True
+Arsenal;Sunderland;1;1;D;0;0;D;L Mason;13;5;7;10;11;1;7;3;5;0;0;6;75;38;False
+Arsenal;Everton;3;1;H;0;1;A;P Walton;7;14;3;8;13;7;4;2;4;0;0;1.36;75;47;True
+Arsenal;West Ham;2;0;A;0;0;D;P Dowd;20;3;10;13;9;4;9;2;3;1;0;6;75;47;False
+Arsenal;Tottenham;4;4;D;1;1;D;M Atkinson;9;12;6;8;17;9;1;1;4;0;0;1.44;75;64;True
+Arsenal;Stoke;1;2;H;1;0;H;R Styles;13;5;6;11;7;3;5;4;2;0;1;8;75;54;False
+Arsenal;Man United;2;1;H;1;0;H;H Webb;17;7;9;16;7;5;6;3;2;0;0;3.25;75;70;True
+Arsenal;Aston Villa;0;2;A;0;0;D;M Riley;9;8;6;9;22;8;5;2;4;0;0;1.5;75;38;True
+Arsenal;Man City;0;3;H;1;0;H;A Wiley;11;8;5;16;9;3;3;0;1;0;0;3.25;75;79;False
+Arsenal;Chelsea;2;1;A;1;0;H;M Dean;9;5;6;18;16;3;2;2;0;0;0;1.8;75;87;False
+Arsenal;Wigan;1;0;H;1;0;H;S Bennett;10;4;4;13;13;8;3;1;2;0;0;1.33;75;39;True
+Arsenal;Middlesbrough;1;1;D;1;1;D;P Walton;17;3;11;8;11;5;10;0;1;0;0;4.5;75;85;False
+Arsenal;Liverpool;1;1;D;1;1;D;H Webb;10;3;6;14;17;2;1;3;3;1;0;2.4;75;62;True
+Arsenal;Aston Villa;2;2;D;0;1;A;L Mason;8;9;6;10;10;7;6;4;4;0;0;2.5;75;38;False
+Arsenal;Portsmouth;1;0;H;0;0;D;A Wiley;4;7;3;9;9;11;2;0;1;0;0;1.4;75;72;True
+Arsenal;Bolton;1;0;H;0;0;D;C Foy;2;9;2;13;16;5;0;2;2;0;0;1.36;75;51;True
+Arsenal;Hull;3;1;A;0;1;A;A Wiley;13;3;9;11;19;4;4;1;1;0;0;5.5;75;35;False
+Arsenal;Everton;1;1;D;0;0;D;A Marriner;7;3;4;9;11;7;6;2;2;0;0;3;75;47;False
+Arsenal;West Ham;0;0;D;0;0;D;S Bennett;2;8;2;12;12;13;3;2;2;0;0;1.5;75;47;True
+Arsenal;Tottenham;0;0;D;0;0;D;M Dean;4;6;1;14;14;6;4;1;2;0;1;3;75;64;False
+Arsenal;Sunderland;0;0;D;0;0;D;A Wiley;3;9;2;6;12;8;3;2;2;0;0;1.4;75;38;True
+Arsenal;Fulham;0;0;D;0;0;D;P Walton;12;8;3;6;14;11;6;0;0;0;0;1.4;75;52;True
+Arsenal;West Brom;3;1;A;1;3;A;S Tanner;16;4;8;19;14;3;4;4;0;0;0;6.5;75;44;False
+Arsenal;Blackburn;4;0;H;1;0;H;P Dowd;7;12;3;8;14;7;4;0;4;0;0;1.44;75;67;True
+Arsenal;Newcastle;3;1;A;0;0;D;M Halsey;15;8;10;12;12;8;4;0;1;0;0;5;75;39;False
+Arsenal;Man City;2;0;H;1;0;H;A Marriner;9;9;4;11;9;7;2;1;3;0;0;1.53;75;79;True
+Arsenal;Wigan;4;1;A;1;0;H;A Wiley;15;5;8;15;16;6;5;3;3;0;0;5.25;75;39;False
+Arsenal;Liverpool;4;4;D;0;1;A;H Webb;8;15;4;10;12;12;0;0;1;0;0;1.72;75;62;False
+Arsenal;Middlesbrough;2;0;H;1;0;H;C Foy;5;11;4;8;13;8;1;0;0;0;0;1.5;75;85;True
+Arsenal;Portsmouth;3;0;A;0;2;A;L Mason;15;4;9;9;10;5;11;3;1;1;0;3.2;75;72;False
+Arsenal;Chelsea;1;4;A;0;2;A;P Dowd;16;7;8;19;12;6;2;1;0;0;0;2.6;75;87;True
+Arsenal;Man United;0;0;D;0;0;D;M Dean;14;5;11;13;14;2;6;0;5;0;0;1.67;75;70;False
+Arsenal;Stoke;4;1;H;4;1;H;M Atkinson;3;11;1;9;11;6;0;1;0;0;0;1.33;75;54;True
+Arsenal;Everton;6;1;A;0;3;A;M Halsey;15;5;9;11;13;4;9;0;0;0;0;3.2;75;47;False
+Arsenal;Portsmouth;4;1;H;2;1;H;S Bennett;9;16;4;9;10;8;4;1;0;0;0;1.17;75;72;True
+Arsenal;Man United;1;2;H;0;1;A;M Dean;9;4;3;21;15;6;5;3;6;0;0;2.2;75;70;False
+Arsenal;Man City;2;4;H;1;0;H;M Clattenburg;19;6;9;13;12;3;12;3;2;0;0;2.88;75;79;False
+Arsenal;Wigan;4;0;H;1;0;H;M Jones;8;11;5;6;18;6;4;2;2;0;0;1.25;75;39;True
+Arsenal;Fulham;1;0;A;0;0;D;M Atkinson;14;12;4;14;11;4;6;4;0;0;0;6.5;75;52;False
+Arsenal;Blackburn;6;2;H;3;2;H;P Walton;7;18;7;9;10;8;1;1;1;0;0;1.2;75;67;True
+Arsenal;Birmingham;3;1;H;2;1;H;L Probert;3;12;2;8;16;7;3;1;2;0;0;1.17;75;63;True
+Arsenal;West Ham;2;2;D;0;2;A;C Foy;15;9;10;17;15;6;8;3;2;1;0;7;75;47;False
+Arsenal;Tottenham;3;0;H;2;0;H;M Clattenburg;7;12;5;10;10;6;2;1;1;0;0;1.57;75;64;True
+Arsenal;Wolves;4;1;A;0;3;A;St Bennett;11;6;6;9;15;4;4;2;3;0;0;9;75;78;False
+Arsenal;Sunderland;0;1;H;0;0;D;A Wiley;9;1;3;10;10;2;6;2;1;0;0;6;75;38;False
+Arsenal;Chelsea;0;3;A;0;2;A;A Marriner;7;3;5;17;12;4;3;2;2;0;0;2.7;75;87;True
+Arsenal;Stoke;2;0;H;1;0;H;M Clattenburg;5;8;4;3;7;10;2;0;0;0;0;1.29;75;54;True
+Arsenal;Liverpool;2;1;A;1;0;H;H Webb;7;3;5;19;16;3;4;3;3;0;0;2.2;75;62;False
+Arsenal;Burnley;1;1;D;1;1;D;M Dean;17;3;9;11;11;3;6;2;0;0;0;7;75;33;False
+Arsenal;Hull;3;0;H;1;0;H;S Bennett;6;9;2;9;14;8;0;1;5;0;0;1.22;75;35;True
+Arsenal;Aston Villa;3;0;H;0;0;D;P Dowd;7;12;3;14;18;10;4;1;3;0;0;1.73;75;38;True
+Arsenal;Portsmouth;4;1;A;0;2;A;A Wiley;14;6;10;14;3;2;10;2;0;0;0;6.5;75;72;False
+Arsenal;Everton;2;2;D;1;1;D;P Walton;9;5;5;10;11;6;8;1;1;0;0;1.4;75;47;True
+Arsenal;Bolton;2;0;A;0;1;A;P Dowd;14;6;9;13;5;2;4;1;2;0;0;6.5;75;51;False
+Arsenal;Bolton;4;2;H;1;2;A;A Wiley;7;14;4;16;17;9;3;1;2;0;0;1.22;75;51;True
+Arsenal;Aston Villa;0;0;D;0;0;D;L Probert;12;2;8;16;15;7;7;2;2;0;0;3.2;75;38;False
+Arsenal;Man United;1;3;A;0;2;A;C Foy;11;7;5;9;12;8;5;1;0;0;0;2.6;75;70;True
+Arsenal;Chelsea;0;2;H;2;0;H;M Dean;14;3;6;11;14;4;8;2;2;0;0;1.8;75;87;False
+Arsenal;Liverpool;1;0;H;0;0;D;H Webb;9;6;7;19;13;3;6;3;2;0;0;2.1;75;62;True
+Arsenal;Sunderland;2;0;H;1;0;H;S Bennett;6;10;4;8;10;7;1;1;5;0;0;1.22;75;38;True
+Arsenal;Stoke;3;1;A;1;1;D;P Walton;17;3;11;12;7;3;6;0;1;1;0;5;75;54;False
+Arsenal;Burnley;3;1;H;1;0;H;C Foy;8;11;5;5;12;8;2;0;4;0;0;1.14;75;33;True
+Arsenal;Hull;2;1;A;1;1;D;A Marriner;18;2;9;16;13;2;8;2;2;1;0;7.5;75;35;False
+Arsenal;West Ham;2;0;H;1;0;H;M Atkinson;8;5;4;7;24;4;2;1;4;1;0;1.25;75;47;True
+Arsenal;Birmingham;1;1;D;0;0;D;H Webb;13;3;8;13;13;3;6;3;2;0;0;7;75;63;False
+Arsenal;Wolves;1;0;H;0;0;D;A Marriner;3;13;2;10;13;10;4;0;2;0;1;1.22;75;78;True
+Arsenal;Tottenham;1;2;H;1;0;H;M Clattenburg;19;10;11;13;10;4;6;3;1;0;0;3.25;75;64;False
+Arsenal;Wigan;2;3;H;0;1;A;L Mason;11;11;8;15;13;8;3;2;1;0;0;6.5;75;39;False
+Arsenal;Man City;0;0;D;0;0;D;M Dean;3;4;2;13;14;5;1;4;2;0;0;2;75;79;True
+Arsenal;Blackburn;1;2;H;1;1;D;M Atkinson;6;7;4;19;15;5;8;2;2;0;0;3.5;75;67;False
+Arsenal;Fulham;4;0;H;3;0;H;M Jones;5;11;2;11;10;5;2;2;2;0;0;1.2;75;52;True
+Arsenal;Liverpool;1;1;D;0;0;D;M Atkinson;14;4;7;13;15;9;11;1;3;1;1;2.5;75;62;False
+Arsenal;Blackpool;6;0;H;3;0;H;M Jones;3;16;1;9;3;8;2;0;0;0;1;1.17;75;26;True
+Arsenal;Blackburn;2;1;A;1;1;D;C Foy;14;7;9;9;7;4;8;1;0;0;0;6;75;67;False
+Arsenal;Bolton;4;1;H;1;1;D;S Attwell;7;14;6;11;11;9;6;2;2;0;1;1.25;75;51;True
+Arsenal;Sunderland;1;1;D;0;1;A;P Dowd;16;5;7;11;13;11;3;2;2;0;1;5.5;75;38;False
+Arsenal;West Brom;2;3;A;0;0;D;M Oliver;7;12;5;15;14;16;4;4;3;0;0;1.22;75;44;True
+Arsenal;Chelsea;0;2;H;1;0;H;M Dean;13;6;5;7;12;10;10;1;1;0;0;1.73;75;87;False
+Arsenal;Birmingham;2;1;H;1;1;D;M Atkinson;6;13;4;16;9;7;3;2;2;1;0;1.29;75;63;True
+Arsenal;Man City;3;0;A;0;1;A;M Clattenburg;12;6;8;11;10;6;7;2;4;1;0;2.5;75;79;False
+Arsenal;West Ham;1;0;H;0;0;D;M Jones;6;13;3;14;18;7;4;2;2;0;0;1.17;75;47;True
+Arsenal;Newcastle;0;1;A;0;1;A;M Dean;7;8;2;16;12;12;2;3;1;1;0;1.29;75;39;True
+Arsenal;Wolves;2;0;A;0;1;A;M Halsey;12;7;8;7;14;5;2;1;2;0;0;5.5;75;78;False
+Arsenal;Everton;2;1;A;0;1;A;H Webb;13;7;8;15;14;9;2;2;2;0;0;3.4;75;47;False
+Arsenal;Tottenham;2;3;A;2;0;H;P Dowd;10;7;6;17;16;2;6;3;1;0;0;1.62;75;64;True
+Arsenal;Aston Villa;4;2;A;0;2;A;M Clattenburg;17;4;10;10;7;3;8;1;1;0;0;3.4;75;38;False
+Arsenal;Fulham;2;1;H;1;1;D;C Foy;11;9;7;7;5;3;7;0;0;0;0;1.29;75;52;True
+Arsenal;Man United;0;1;H;1;0;H;H Webb;11;10;6;7;16;5;4;0;4;0;0;2;75;70;False
+Arsenal;Chelsea;3;1;H;1;0;H;M Clattenburg;10;8;4;12;16;4;6;2;3;0;0;2.63;75;87;True
+Arsenal;Wigan;2;2;D;1;2;A;L Probert;15;5;9;16;11;3;4;1;0;1;0;6.5;75;39;False
+Arsenal;Birmingham;3;0;A;0;1;A;P Walton;18;1;11;7;9;4;5;3;1;0;0;5.5;75;63;False
+Arsenal;Man City;0;0;D;0;0;D;M Jones;5;8;0;6;12;7;2;0;2;1;1;1.91;75;79;True
+Arsenal;West Ham;3;0;A;0;2;A;A Marriner;19;6;13;8;7;4;10;1;0;0;0;6;75;47;False
+Arsenal;Wigan;3;0;H;1;0;H;K Friend;3;15;1;6;14;8;1;0;1;0;1;1.2;75;39;True
+Arsenal;Everton;2;1;H;0;1;A;L Mason;4;10;4;12;14;5;7;3;5;0;0;1.4;75;47;True
+Arsenal;Newcastle;4;4;D;0;4;A;P Dowd;13;8;10;13;15;12;6;2;3;0;1;5;75;39;False
+Arsenal;Wolves;2;0;H;1;0;H;C Foy;2;8;0;15;9;3;6;0;1;0;0;1.22;75;78;True
+Arsenal;Stoke;1;0;H;1;0;H;P Walton;7;4;4;8;9;5;3;1;2;0;0;1.3;75;54;True
+Arsenal;Sunderland;0;0;D;0;0;D;A Taylor;6;7;3;13;10;5;6;3;3;0;0;1.44;75;38;True
+Arsenal;West Brom;2;2;D;1;0;H;S Attwell;18;3;11;9;7;2;7;1;3;0;0;5;75;44;False
+Arsenal;Blackburn;0;0;D;0;0;D;P Dowd;7;11;2;10;9;11;4;1;2;0;1;1.25;75;67;True
+Arsenal;Blackpool;3;1;A;0;2;A;L Mason;16;6;7;13;9;6;4;2;2;0;0;8.5;75;26;False
+Arsenal;Liverpool;1;1;D;0;0;D;A Marriner;9;6;5;13;13;10;3;2;4;0;0;1.73;75;62;True
+Arsenal;Tottenham;3;3;D;2;3;A;M Atkinson;13;9;9;8;13;7;6;0;3;0;0;2.88;75;64;False
+Arsenal;Bolton;1;2;H;1;0;H;M Jones;17;10;7;13;14;3;9;3;3;0;0;4.5;75;51;False
+Arsenal;Man United;1;0;H;0;0;D;C Foy;11;2;7;15;7;3;6;2;3;0;0;2.5;75;70;True
+Arsenal;Stoke;1;3;H;2;0;H;M Halsey;14;7;5;7;10;2;5;1;2;0;0;5.5;75;54;False
+Arsenal;Aston Villa;1;2;A;0;2;A;M Oliver;8;15;5;9;10;13;2;1;4;0;0;1.36;75;38;True
+Arsenal;Fulham;2;2;D;1;1;D;M Atkinson;12;6;6;12;5;5;3;2;1;1;0;3.75;75;52;False
+Arsenal;Newcastle;0;0;D;0;0;D;P Walton;9;1;4;9;11;2;5;3;5;0;1;3.75;75;39;False
+Arsenal;Liverpool;0;2;A;0;0;D;M Atkinson;13;6;8;11;6;9;5;2;2;1;0;2.5;75;62;True
+Arsenal;Man United;2;8;H;3;1;H;H Webb;19;15;13;9;7;3;5;2;3;0;1;1.5;75;70;False
+Arsenal;Swansea;1;0;H;1;0;H;S Attwell;10;8;5;10;7;4;5;3;2;0;0;1.36;75;56;True
+Arsenal;Blackburn;3;4;H;1;2;A;A Marriner;24;5;16;14;9;2;13;2;1;0;0;4.2;75;67;False
+Arsenal;Bolton;3;0;H;0;0;D;M Clattenburg;3;14;3;7;9;9;2;0;1;0;1;1.44;75;51;True
+Arsenal;Tottenham;1;2;H;1;0;H;M Dean;13;8;7;11;8;9;7;2;1;0;0;2.1;75;64;False
+Arsenal;Sunderland;2;1;H;1;1;D;H Webb;8;11;4;9;19;9;2;3;3;0;0;1.44;75;38;True
+Arsenal;Stoke;3;1;H;1;1;D;L Mason;5;5;2;9;13;10;1;0;2;0;0;1.53;75;54;True
+Arsenal;Chelsea;5;3;A;2;1;H;A Marriner;13;10;8;7;18;3;2;2;3;0;0;1.62;75;87;False
+Arsenal;West Brom;3;0;H;2;0;H;M Oliver;9;7;4;12;12;4;1;0;0;0;0;1.4;75;44;True
+Arsenal;Norwich;2;1;A;1;1;D;P Dowd;20;4;14;11;9;1;6;3;0;0;0;5.5;75;86;False
+Arsenal;Fulham;1;1;D;0;0;D;M Dean;10;12;6;9;7;13;4;1;3;0;0;1.44;75;52;True
+Arsenal;Wigan;4;0;A;0;2;A;M Clattenburg;16;4;10;8;12;4;5;3;2;0;0;6;75;39;False
+Arsenal;Everton;1;0;H;0;0;D;H Webb;7;7;1;7;14;7;4;2;2;0;0;1.53;75;47;True
+Arsenal;Man City;0;1;H;0;0;D;P Dowd;12;9;8;13;10;4;6;2;3;0;0;1.73;75;79;False
+Arsenal;Aston Villa;2;1;A;0;1;A;J Moss;8;4;6;10;8;7;15;2;3;1;0;5;75;38;False
+Arsenal;Wolves;1;1;D;1;1;D;S Attwell;6;17;4;3;12;13;3;2;3;0;1;1.22;75;78;True
+Arsenal;QPR;1;0;H;0;0;D;M Atkinson;6;7;3;11;13;12;4;2;2;0;0;1.25;75;30;True
+Arsenal;Fulham;1;2;H;0;1;A;L Probert;17;8;10;6;12;4;3;0;1;0;1;4;75;52;False
+Arsenal;Swansea;2;3;H;1;1;D;M Oliver;14;5;9;9;9;9;2;0;0;0;0;4.75;75;56;False
+Arsenal;Man United;1;2;A;0;1;A;M Dean;9;6;5;15;6;0;5;5;2;0;0;2.8;75;70;True
+Arsenal;Bolton;0;0;D;0;0;D;C Foy;16;8;7;8;10;6;6;1;1;0;0;5;75;51;False
+Arsenal;Blackburn;7;1;H;3;1;H;A Marriner;3;11;3;9;14;11;1;2;3;0;1;1.29;75;67;True
+Arsenal;Sunderland;2;1;A;0;0;D;N Swarbrick;10;5;8;7;7;7;3;2;1;0;0;3.5;75;38;False
+Arsenal;Tottenham;5;2;H;2;2;D;M Dean;8;13;4;15;12;7;5;3;3;0;1;2.5;75;64;True
+Arsenal;Liverpool;2;1;A;1;1;D;M Halsey;10;4;7;11;9;12;0;0;1;0;0;2;75;62;False
+Arsenal;Newcastle;2;1;H;1;1;D;H Webb;5;13;3;11;12;6;3;2;3;0;0;1.44;75;39;True
+Arsenal;Everton;1;0;A;0;1;A;L Mason;12;2;8;11;11;4;6;2;1;0;0;3;75;47;False
+Arsenal;Aston Villa;3;0;H;2;0;H;P Dowd;3;12;2;6;13;15;5;0;5;0;0;1.33;75;38;True
+Arsenal;QPR;1;2;H;1;1;D;M Dean;13;8;7;13;9;4;6;5;2;0;0;5.5;75;30;False
+Arsenal;Man City;1;0;H;0;0;D;M Atkinson;7;7;2;13;14;7;6;2;4;0;1;2.4;75;79;True
+Arsenal;Wolves;3;0;A;0;2;A;N Swarbrick;10;6;7;9;4;6;4;3;0;1;0;7;75;78;False
+Arsenal;Wigan;1;2;A;1;2;A;A Marriner;12;8;7;15;13;9;3;2;3;0;0;1.25;75;39;True
+Arsenal;Chelsea;0;0;D;0;0;D;M Dean;13;8;7;11;11;7;7;3;4;0;0;2;75;87;True
+Arsenal;Stoke;1;1;D;1;1;D;C Foy;17;4;10;8;10;2;6;1;2;0;0;4.33;75;54;False
+Arsenal;Norwich;3;3;D;1;2;A;A Taylor;12;13;6;8;15;6;1;2;3;0;0;1.22;75;86;True
+Arsenal;West Brom;3;2;A;2;2;D;M Jones;12;8;8;12;10;9;5;0;1;0;0;5;75;44;False
+Arsenal;Sunderland;0;0;D;0;0;D;14;4;2;12;8;7;0;0;0;0;0;1.4;4.5;75;38;True
+Arsenal;Stoke;0;0;D;0;0;D;7;4;6;9;9;0;11;2;0;0;0;3.5;3.4;75;54;False
+Arsenal;Liverpool;2;0;A;0;1;A;17;8;7;12;7;10;2;2;2;0;0;2;3.5;75;62;False
+Arsenal;Southampton;6;1;H;4;1;H;20;12;4;4;7;8;3;0;0;0;0;1.36;5;75;60;True
+Arsenal;Man City;1;1;D;1;0;H;14;10;4;11;7;9;4;1;0;0;0;1.75;3.6;75;79;False
+Arsenal;Chelsea;1;2;A;1;1;D;14;5;5;14;13;6;5;2;3;0;0;2.1;3.4;75;87;True
+Arsenal;West Ham;3;1;A;1;1;D;7;3;14;12;7;4;16;3;2;0;0;4;3.6;75;47;False
+Arsenal;Norwich;0;1;H;1;0;H;7;3;7;9;9;2;10;4;0;0;0;6;4.2;75;86;False
+Arsenal;QPR;1;0;H;0;0;D;21;11;3;14;9;5;2;1;2;0;1;1.36;5;75;30;True
+Arsenal;Man United;1;2;H;1;0;H;11;7;3;13;13;6;1;5;3;0;1;1.7;3.8;75;70;False
+Arsenal;Fulham;3;3;D;2;2;D;15;9;5;12;10;8;6;1;2;0;0;1.53;4.2;75;52;True
+Arsenal;Tottenham;5;2;H;3;1;H;13;10;4;13;12;6;6;1;2;0;1;1.91;3.75;75;64;True
+Arsenal;Aston Villa;0;0;D;0;0;D;10;8;6;6;9;7;6;1;0;0;0;4.75;3.75;75;38;False
+Arsenal;Everton;1;1;D;1;1;D;14;10;9;15;9;6;6;2;1;0;0;2.5;3.4;75;47;False
+Arsenal;Swansea;0;2;A;0;0;D;10;8;10;11;9;8;5;1;0;0;0;1.44;4.5;75;56;True
+Arsenal;West Brom;2;0;H;1;0;H;16;7;2;11;12;7;4;2;3;0;0;1.5;4.33;75;44;True
+Arsenal;Reading;5;2;A;0;3;A;7;5;17;8;4;3;7;1;1;0;0;5.5;4;75;50;False
+Arsenal;Wigan;1;0;A;0;0;D;13;5;8;14;8;4;4;1;1;0;0;4.75;3.75;75;39;False
+Arsenal;Newcastle;7;3;H;1;1;D;16;12;8;8;10;5;6;0;1;0;0;1.44;4.5;75;39;True
+Arsenal;Southampton;1;1;D;1;1;D;9;6;4;9;6;3;3;2;0;0;0;5;3.75;75;60;False
+Arsenal;Man City;0;2;A;0;2;A;9;4;9;11;18;2;7;2;4;1;1;2.63;3.5;75;79;True
+Arsenal;Chelsea;1;2;H;2;0;H;13;8;8;10;11;3;9;2;1;0;0;1.91;3.6;75;87;False
+Arsenal;West Ham;5;1;H;1;1;D;23;17;5;9;10;13;5;0;1;0;0;1.44;4.75;75;47;True
+Arsenal;Liverpool;2;2;D;0;1;A;14;6;5;9;11;8;6;3;1;0;0;2.4;3.5;75;62;True
+Arsenal;Stoke;1;0;H;0;0;D;15;9;2;3;13;11;1;0;3;0;0;1.44;4.5;75;54;True
+Arsenal;Sunderland;1;0;A;0;1;A;12;7;9;6;13;11;2;3;2;0;1;4.5;3.6;75;38;False
+Arsenal;Aston Villa;2;1;H;1;0;H;24;14;3;7;12;12;3;1;2;0;0;1.33;5.5;75;38;True
+Arsenal;Tottenham;1;2;H;2;0;H;11;5;6;17;13;4;6;3;1;0;0;2.3;3.6;75;64;False
+Arsenal;Swansea;2;0;A;0;0;D;9;2;11;2;7;3;7;1;1;0;0;3.4;3.5;75;56;False
+Arsenal;Reading;4;1;H;1;0;H;23;14;2;9;14;11;3;0;1;0;0;1.25;6.5;75;50;True
+Arsenal;West Brom;2;1;A;0;1;A;16;5;6;7;15;6;4;2;4;0;1;4.1;3.7;75;44;False
+Arsenal;Norwich;3;1;H;0;0;D;10;7;5;8;10;9;3;1;2;0;0;1.25;6.5;75;86;True
+Arsenal;Everton;0;0;D;0;0;D;10;6;5;11;12;8;1;2;3;0;0;1.75;3.9;75;47;True
+Arsenal;Fulham;1;0;A;0;1;A;7;5;7;13;8;7;3;0;2;1;1;5;4;75;52;False
+Arsenal;Man United;1;1;D;1;1;D;19;13;5;12;10;7;2;3;5;0;0;2.25;3.6;75;70;True
+Arsenal;QPR;1;0;A;0;1;A;14;6;11;8;6;3;7;2;1;0;0;8;4.75;75;30;False
+Arsenal;Wigan;4;1;H;1;1;D;19;12;5;11;11;7;4;0;2;0;0;1.4;5.5;75;39;True
+Arsenal;Newcastle;1;0;A;0;0;D;7;2;3;17;10;4;4;1;2;0;0;6;4.6;75;39;False
+Arsenal;Aston Villa;1;3;A;1;1;D;A Taylor;9;4;4;15;18;4;3;4;5;1;0;1.44;75;38;True
+Arsenal;Fulham;3;1;A;0;2;A;H Webb;18;7;7;10;8;1;8;2;2;0;0;3.8;75;52;False
+Arsenal;Tottenham;1;0;H;1;0;H;M Oliver;14;5;4;15;14;3;6;2;2;0;0;2.1;75;64;True
+Arsenal;Sunderland;3;1;A;0;1;A;M Atkinson;14;2;6;12;10;6;7;1;2;0;0;6;75;38;False
+Arsenal;Stoke;3;1;H;2;1;H;M Dean;9;8;3;8;15;6;7;0;2;0;0;1.36;75;54;True
+Arsenal;Swansea;2;1;A;0;0;D;M Clattenburg;10;3;4;5;11;4;3;3;2;0;0;3.2;75;56;False
+Arsenal;West Brom;1;1;D;1;0;H;L Mason;14;4;5;6;11;6;2;1;2;0;0;4.9;75;44;False
+Arsenal;Norwich;4;1;H;1;0;H;L Probert;12;11;6;8;7;10;1;0;0;0;0;1.29;75;86;True
+Arsenal;Crystal Palace;2;0;A;0;0;D;C Foy;10;4;4;12;8;4;3;0;0;0;1;11;75;48;False
+Arsenal;Liverpool;2;0;H;1;0;H;M Atkinson;12;7;4;11;7;3;5;2;1;0;0;2.3;75;62;True
+Arsenal;Man United;0;1;H;1;0;H;M Oliver;10;2;2;12;11;5;6;2;3;0;0;2.35;75;70;False
+Arsenal;Southampton;2;0;H;1;0;H;M Clattenburg;10;4;4;10;14;5;6;0;3;0;0;1.62;75;60;True
+Arsenal;Cardiff;3;0;A;0;1;A;L Mason;15;4;6;6;8;3;3;0;3;0;0;6.5;75;62;False
+Arsenal;Hull;2;0;H;1;0;H;A Marriner;7;7;2;9;6;11;1;0;0;0;0;1.2;75;35;True
+Arsenal;Everton;1;1;D;0;0;D;H Webb;12;5;4;13;11;3;2;0;4;0;0;1.7;75;47;True
+Arsenal;Man City;3;6;H;2;1;H;M Atkinson;12;7;6;12;6;8;8;2;1;0;0;1.83;75;79;False
+Arsenal;Chelsea;0;0;D;0;0;D;M Dean;13;2;4;7;11;8;6;2;1;0;0;2.38;75;87;True
+Arsenal;West Ham;3;1;A;0;0;D;P Dowd;29;5;8;11;6;0;10;1;1;0;0;6.5;75;47;False
+Arsenal;Newcastle;1;0;A;0;0;D;L Probert;11;3;5;10;8;4;1;0;3;0;0;4;75;39;False
+Arsenal;Cardiff;2;0;H;0;0;D;J Moss;8;6;2;6;11;12;2;1;2;0;0;1.29;75;62;True
+Arsenal;Aston Villa;2;1;A;0;2;A;N Swarbrick;8;5;4;12;9;3;5;2;2;0;0;6;75;38;False
+Arsenal;Fulham;2;0;H;0;0;D;L Probert;8;8;2;5;7;4;4;0;0;0;0;1.22;75;52;True
+Arsenal;Southampton;2;2;D;1;0;H;L Mason;7;5;4;11;4;7;5;1;1;0;1;4.33;75;60;False
+Arsenal;Crystal Palace;2;0;H;0;0;D;J Moss;10;6;2;9;14;6;5;1;2;0;0;1.22;75;48;True
+Arsenal;Liverpool;1;5;H;4;0;H;M Oliver;11;12;6;14;14;6;6;1;2;0;0;2.2;75;62;False
+Arsenal;Man United;0;0;D;0;0;D;M Clattenburg;6;5;2;10;14;5;5;1;2;0;0;2.15;75;70;True
+Arsenal;Sunderland;4;1;H;3;0;H;A Marriner;7;9;3;10;11;7;3;0;1;0;0;1.33;75;38;True
+Arsenal;Stoke;0;1;H;0;0;D;M Jones;10;4;2;13;11;3;4;3;1;0;0;5.5;75;54;False
+Arsenal;Tottenham;1;0;A;0;1;A;M Dean;7;2;3;18;11;5;2;5;3;0;0;3.1;75;64;False
+Arsenal;Chelsea;0;6;H;4;0;H;A Marriner;12;11;5;14;8;7;1;0;1;0;1;1.85;75;87;False
+Arsenal;Swansea;2;2;D;0;1;A;L Probert;8;4;2;11;12;7;0;0;1;0;0;1.57;75;56;True
+Arsenal;Man City;1;1;D;0;1;A;M Dean;15;3;4;8;11;6;6;1;4;0;0;3.6;75;79;True
+Arsenal;Everton;0;3;H;2;0;H;M Atkinson;15;8;5;6;5;3;6;1;2;0;0;2.5;75;47;False
+Arsenal;West Ham;3;1;H;1;1;D;K Friend;12;8;2;14;12;4;3;2;2;0;0;1.4;75;47;True
+Arsenal;Hull;3;0;A;0;2;A;J Moss;12;4;6;10;7;7;0;1;1;0;0;4.5;75;35;False
+Arsenal;Newcastle;3;0;H;2;0;H;N Swarbrick;8;8;3;9;8;14;0;3;2;0;0;1.29;75;39;True
+Arsenal;West Brom;1;0;H;1;0;H;M Jones;11;4;1;9;6;9;10;2;2;0;0;1.29;75;44;True
+Arsenal;Norwich;2;0;A;0;0;D;L Mason;14;5;8;6;5;4;4;1;0;0;0;4.5;75;86;False
+Arsenal;Crystal Palace;2;1;H;1;1;D;J Moss;4;6;2;13;19;9;3;2;2;0;1;1.25;75;48;True
+Arsenal;Everton;2;2;D;2;0;H;K Friend;13;2;3;10;18;3;3;1;4;0;0;2.8;75;47;False
+Arsenal;Leicester;1;1;D;1;1;D;A Taylor;24;3;6;14;6;5;10;3;1;0;0;4.75;75;41;False
+Arsenal;Man City;2;2;D;0;1;A;M Clattenburg;15;6;8;11;15;0;3;3;4;0;0;3;75;79;True
+Arsenal;Aston Villa;3;0;A;0;3;A;M Jones;9;2;3;11;9;5;5;1;3;0;0;4.75;75;38;False
+Arsenal;Tottenham;1;1;D;0;0;D;M Oliver;6;6;4;7;16;15;5;3;6;0;0;1.75;75;64;True
+Arsenal;Chelsea;0;2;H;1;0;H;M Atkinson;10;3;0;14;10;2;2;4;3;0;0;1.67;75;87;False
+Arsenal;Hull;2;2;D;1;1;D;R East;4;9;4;9;13;10;0;2;2;0;0;1.4;75;35;True
+Arsenal;Sunderland;2;0;A;0;1;A;K Friend;15;3;5;11;9;3;3;3;3;0;0;5.5;75;38;False
+Arsenal;Burnley;3;0;H;0;0;D;C Pawson;6;13;2;5;9;18;1;0;1;0;0;1.25;75;33;True
+Arsenal;Swansea;1;2;H;0;0;D;P Dowd;12;5;4;10;16;6;10;5;5;0;0;3.75;75;56;False
+Arsenal;Man United;1;2;A;0;0;D;M Dean;12;9;2;12;8;11;5;2;1;0;0;2.15;75;70;True
+Arsenal;West Brom;1;0;A;0;0;D;C Foy;17;1;5;9;10;4;4;2;1;0;0;4.5;75;44;False
+Arsenal;Southampton;1;0;H;0;0;D;A Marriner;6;8;1;7;14;9;4;0;2;0;0;1.8;75;60;True
+Arsenal;Stoke;2;3;H;3;0;H;A Taylor;15;4;6;17;14;3;9;3;2;0;1;4;75;54;False
+Arsenal;Newcastle;4;1;H;1;0;H;L Mason;10;4;4;14;15;9;6;2;2;0;0;1.44;75;39;True
+Arsenal;Liverpool;2;2;D;1;1;D;M Oliver;7;10;3;6;14;10;6;0;3;1;0;2.8;75;62;False
+Arsenal;QPR;2;1;H;1;0;H;M Atkinson;16;5;2;6;15;6;2;1;4;1;0;1.29;75;30;True
+Arsenal;West Ham;2;1;A;0;2;A;N Swarbrick;21;4;7;12;13;7;8;3;3;0;0;3.5;75;47;False
+Arsenal;Southampton;0;2;H;1;0;H;C Pawson;11;6;6;14;7;2;7;2;1;0;0;2.9;75;60;False
+Arsenal;Stoke;3;0;H;2;0;H;J Moss;7;6;2;11;11;9;1;0;3;0;0;1.44;75;54;True
+Arsenal;Man City;2;0;A;0;1;A;M Dean;9;4;3;12;5;16;3;3;3;0;0;1.8;75;79;False
+Arsenal;Aston Villa;5;0;H;1;0;H;A Taylor;9;8;2;6;10;7;7;0;2;0;0;1.25;75;38;True
+Arsenal;Tottenham;1;2;H;0;1;A;M Atkinson;7;8;3;8;12;10;3;3;5;0;0;3.25;75;64;False
+Arsenal;Leicester;2;1;H;2;0;H;M Jones;11;7;4;13;14;6;6;2;2;0;0;1.29;75;41;True
+Arsenal;Crystal Palace;2;1;A;0;2;A;M Clattenburg;12;3;4;15;14;10;1;1;3;0;0;4.75;75;48;False
+Arsenal;Everton;2;0;H;1;0;H;A Marriner;8;4;2;12;5;8;9;2;0;0;0;1.57;75;47;True
+Arsenal;QPR;2;1;A;0;0;D;K Friend;20;3;9;10;8;1;6;2;1;0;0;7;75;30;False
+Arsenal;West Ham;3;0;H;1;0;H;A Taylor;7;9;1;10;9;7;5;1;1;0;0;1.4;75;47;True
+Arsenal;Newcastle;2;1;A;0;2;A;M Jones;7;4;3;11;7;9;4;0;0;0;0;6;75;39;False
+Arsenal;Liverpool;4;1;H;3;0;H;A Taylor;13;10;2;7;9;6;5;1;0;0;1;1.83;75;62;True
+Arsenal;Burnley;1;0;A;0;1;A;M Dean;17;4;5;15;7;1;6;2;0;0;0;6.5;75;33;False
+Arsenal;Chelsea;0;0;D;0;0;D;M Oliver;7;1;3;17;11;6;2;4;3;0;0;2.4;75;87;True
+Arsenal;Hull;3;1;A;0;3;A;L Mason;22;1;9;8;11;0;5;2;0;0;0;5.5;75;35;False
+Arsenal;Swansea;0;1;A;0;0;D;K Friend;8;9;3;7;10;6;1;0;1;0;0;1.3;75;56;True
+Arsenal;Man United;1;1;D;1;0;H;M Dean;5;4;3;16;8;5;5;1;0;0;0;2.45;75;70;False
+Arsenal;Sunderland;0;0;D;0;0;D;A Taylor;7;8;3;6;8;5;2;1;0;0;0;1.3;75;38;True
+Arsenal;West Brom;4;1;H;4;0;H;R Madley;14;13;5;6;7;7;3;1;0;0;0;1.4;75;44;True
+Arsenal;West Ham;0;2;A;0;1;A;M Atkinson;8;6;4;12;9;5;4;1;3;0;0;1.29;75;47;True
+Arsenal;Crystal Palace;2;1;A;1;1;D;L Mason;20;4;7;14;12;6;6;1;1;0;0;5.25;75;48;False
+Arsenal;Liverpool;0;0;D;0;0;D;M Oliver;15;5;8;2;13;7;8;1;4;0;0;1.75;75;62;True
+Arsenal;Newcastle;1;0;A;0;0;D;A Marriner;22;0;9;15;8;0;9;6;1;1;0;6;75;39;False
+Arsenal;Stoke;2;0;H;1;0;H;J Moss;9;12;4;6;13;13;1;1;1;0;0;1.29;75;54;True
+Arsenal;Chelsea;0;2;H;0;0;D;M Dean;9;7;2;12;11;5;5;3;1;0;2;2.45;75;87;False
+Arsenal;Leicester;5;2;A;1;2;A;C Pawson;26;7;12;9;12;6;5;1;1;0;0;4.5;75;41;False
+Arsenal;Man United;3;0;H;3;0;H;A Taylor;9;5;5;8;17;3;6;1;3;0;0;2;75;70;True

@@ -1,0 +1,8 @@
+Bournemouth;Aston Villa;0;1;A;0;0;D;M Clattenburg;7;2;3;13;13;6;3;3;4;0;0;2;80;38;True
+Bournemouth;Liverpool;0;1;H;1;0;H;C Pawson;13;2;2;11;18;6;8;1;4;0;0;1.45;80;62;False
+Bournemouth;West Ham;4;3;A;0;2;A;J Moss;15;4;7;8;11;5;4;0;0;1;0;2.38;80;47;False
+Bournemouth;Leicester;1;1;D;1;0;H;N Swarbrick;4;2;2;9;19;4;4;2;4;0;0;2.2;80;41;True
+Bournemouth;Norwich;1;3;H;1;0;H;M Atkinson;7;4;2;10;11;4;4;2;3;0;0;2.4;80;86;False
+Bournemouth;Sunderland;2;0;H;2;0;H;K Friend;9;5;2;14;15;7;3;2;4;0;1;1.7;80;38;True
+Bournemouth;Stoke;1;2;H;1;0;H;L Mason;11;5;6;13;11;3;7;1;0;0;0;2.55;80;54;False
+Bournemouth;Watford;1;1;D;1;1;D;M Oliver;11;6;2;8;13;5;3;1;1;0;0;2.1;80;69;True

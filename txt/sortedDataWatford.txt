@@ -1,0 +1,46 @@
+Watford;Everton;1;2;H;1;0;H;P Walton;12;2;8;12;13;0;6;2;2;0;0;1.66;69;47;False
+Watford;West Ham;1;1;D;0;0;D;M Atkinson;8;4;4;12;12;5;1;0;0;0;0;2.87;69;47;True
+Watford;Man United;1;2;A;1;1;D;P Dowd;19;7;10;20;14;4;7;1;1;0;0;7.5;69;70;True
+Watford;Bolton;0;1;H;0;0;D;M Clattenburg;15;2;6;13;15;6;6;3;1;0;0;1.66;69;51;False
+Watford;Aston Villa;0;0;D;0;0;D;M Dean;9;5;4;12;10;7;1;1;0;0;0;2.75;69;38;True
+Watford;Wigan;1;1;D;1;0;H;R Styles;10;4;4;15;15;4;3;2;2;0;0;1.83;69;39;False
+Watford;Fulham;3;3;D;1;0;H;M Riley;9;4;3;24;12;3;2;1;3;0;0;2.4;69;52;True
+Watford;Arsenal;0;3;H;2;0;H;H Webb;9;7;3;6;14;8;4;0;1;0;0;1.16;69;75;False
+Watford;Charlton;0;0;D;0;0;D;L Mason;8;8;3;13;17;9;9;2;0;0;0;1.9;69;60;False
+Watford;Tottenham;0;0;D;0;0;D;U Rennie;11;2;8;14;14;7;7;3;1;0;0;3.6;69;64;True
+Watford;Middlesbrough;2;0;H;1;0;H;D Gallagher;5;6;2;15;15;10;4;1;1;0;0;2.6;69;85;True
+Watford;Chelsea;0;4;H;2;0;H;H Webb;2;8;1;13;14;9;4;1;1;0;0;1.12;69;87;False
+Watford;Portsmouth;1;2;H;1;1;D;C Foy;8;11;4;14;18;9;5;1;3;0;0;1.61;69;72;False
+Watford;Sheffield United;0;1;A;0;0;D;M Atkinson;17;6;7;20;10;6;1;3;1;1;0;2.2;69;60;True
+Watford;Man City;0;0;D;0;0;D;M Clattenburg;6;12;4;12;16;9;8;1;3;0;0;1.57;69;79;False
+Watford;Reading;0;0;D;0;0;D;C Foy;6;5;1;14;12;2;5;0;1;0;0;2.6;69;50;True
+Watford;Newcastle;1;2;H;0;0;D;M Atkinson;11;6;8;7;18;4;8;0;0;0;0;1.72;69;39;False
+Watford;Liverpool;0;2;H;0;0;D;P Dowd;7;10;4;10;17;7;6;0;0;0;0;1.2;69;62;False
+Watford;Arsenal;1;2;A;1;1;D;M Dean;16;3;8;11;6;7;5;2;0;0;0;8;69;75;True
+Watford;Fulham;0;0;D;0;0;D;S Bennett;13;4;5;6;17;6;7;1;2;0;1;1.66;69;52;False
+Watford;Liverpool;0;3;A;0;2;A;M Clattenburg;22;4;13;9;10;3;12;0;0;0;0;6.5;69;62;True
+Watford;Aston Villa;0;2;H;0;0;D;P Walton;11;6;6;11;20;7;6;2;0;0;0;1.57;69;38;False
+Watford;Blackburn;2;1;H;1;1;D;D Gallagher;15;7;3;14;7;9;6;2;0;0;0;3.4;69;67;True
+Watford;Man United;0;4;H;1;0;H;M Dean;2;10;1;11;11;7;2;2;2;0;0;1.14;69;70;False
+Watford;Bolton;0;1;A;0;0;D;R Styles;7;3;4;8;9;5;4;0;3;0;0;3.25;69;51;True
+Watford;West Ham;1;0;A;0;1;A;A Wiley;8;10;5;17;23;10;4;4;2;0;0;1.83;69;47;False
+Watford;Wigan;1;1;D;1;1;D;R Styles;16;6;13;11;11;8;3;1;1;0;1;2.4;69;39;True
+Watford;Everton;0;3;A;0;2;A;L Mason;13;3;5;10;17;5;9;2;1;0;0;3.1;69;47;True
+Watford;Charlton;2;2;D;2;0;H;P Walton;13;10;5;18;10;8;1;2;2;0;0;2.5;69;60;True
+Watford;Tottenham;1;3;H;1;0;H;M Halsey;2;11;2;5;8;5;4;0;0;0;0;1.4;69;64;False
+Watford;Chelsea;0;1;A;0;0;D;U Rennie;13;6;8;18;9;5;10;1;3;0;0;9.5;69;87;True
+Watford;Middlesbrough;1;4;H;2;1;H;C Foy;6;14;3;7;14;9;3;0;0;0;0;1.61;69;85;False
+Watford;Portsmouth;4;2;H;2;1;H;L Mason;10;10;6;13;15;6;2;0;0;0;0;3;69;72;True
+Watford;Blackburn;1;3;H;3;1;H;C Foy;4;10;4;8;14;5;4;0;0;0;0;1.61;69;67;False
+Watford;Man City;1;1;D;0;0;D;R Styles;4;1;1;9;6;5;3;1;1;0;0;2.62;69;79;True
+Watford;Sheffield United;0;1;H;1;0;H;M Atkinson;13;6;3;13;17;5;7;1;4;0;0;1.57;69;60;False
+Watford;Reading;2;0;A;0;0;D;D Gallaghe;4;7;4;10;16;14;2;0;2;0;0;1.4;69;50;False
+Watford;Newcastle;1;1;D;0;1;A;R Styles;1;2;1;13;6;8;5;2;4;0;0;2.8;69;39;True
+Watford;Everton;2;2;D;0;1;A;M Jones;11;5;5;7;13;8;2;1;2;0;0;1.7;69;47;False
+Watford;West Brom;0;0;D;0;0;D;P Tierney;6;5;0;13;10;2;4;1;2;0;0;2.3;69;44;True
+Watford;Southampton;0;0;D;0;0;D;A Marriner;14;0;5;10;11;5;2;0;2;0;0;2.8;69;60;True
+Watford;Man City;0;2;H;0;0;D;M Clattenburg;7;5;0;9;12;9;3;1;2;0;0;1.2;69;79;False
+Watford;Swansea;1;0;H;0;0;D;R Madley;8;6;3;11;14;1;3;1;1;1;0;2.75;69;56;True
+Watford;Newcastle;2;1;A;0;2;A;R East;13;5;4;8;12;5;5;1;2;0;0;2.5;69;39;False
+Watford;Crystal Palace;0;1;A;0;0;D;A Taylor;16;2;3;17;22;6;4;4;4;0;0;2.5;69;48;True
+Watford;Bournemouth;1;1;D;1;1;D;M Oliver;11;6;2;8;13;5;3;1;1;0;0;2.1;69;80;False
